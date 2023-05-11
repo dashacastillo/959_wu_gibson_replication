@@ -1,0 +1,833 @@
+participant_id,experiment,item,cond,presentation_order,literal_response,response,timestamp,english_first_language,country_of_birth
+5f3f1ae9db53ff21046a35c4,color,2,top_right,0,No,rectangulo amarillo,2023-05-10 19:45:48,Sí,México
+5f3f1ae9db53ff21046a35c4,color,4,bottom_left,1,Yes,corazon rojo,2023-05-10 19:45:48,Sí,México
+5f3f1ae9db53ff21046a35c4,color,3,bottom_right,2,No,triangulo amarillo,2023-05-10 19:45:48,Sí,México
+5f3f1ae9db53ff21046a35c4,color,1,top_left,3,Yes,cuadrado azul,2023-05-10 19:45:48,Sí,México
+545d37b5fdf99b7f9fca22cb,color,2,bottom_right,0,No,Círculo amarillo ,2023-05-10 19:46:00,Sí,México
+545d37b5fdf99b7f9fca22cb,color,3,top_right,1,No,Rectángulo amarillo ,2023-05-10 19:46:00,Sí,México
+545d37b5fdf99b7f9fca22cb,color,1,top_left,2,Yes,Cuadro azul,2023-05-10 19:46:00,Sí,México
+545d37b5fdf99b7f9fca22cb,color,4,bottom_left,3,Yes,Corazón rojo ,2023-05-10 19:46:00,Sí,México
+5f9baf2a2613ea3ea295875b,color,1,bottom_right,0,No,Triángulo,2023-05-10 19:46:03,Sí,México
+5f9baf2a2613ea3ea295875b,color,4,top_left,1,Yes,Rombo,2023-05-10 19:46:03,Sí,México
+5f9baf2a2613ea3ea295875b,color,2,top_right,2,No,Rectángulo,2023-05-10 19:46:03,Sí,México
+5f9baf2a2613ea3ea295875b,color,3,bottom_left,3,Yes,Círculo,2023-05-10 19:46:03,Sí,México
+6121bf2dcd62398f2607538e,color,3,bottom_right,0,No,Triangulo,2023-05-10 19:47:29,Sí,México
+6121bf2dcd62398f2607538e,color,1,top_left,1,Yes,Cuadrado,2023-05-10 19:47:29,Sí,México
+6121bf2dcd62398f2607538e,color,2,bottom_left,2,Yes,Cuadrado,2023-05-10 19:47:29,Sí,México
+6121bf2dcd62398f2607538e,color,4,top_right,3,No,Rectángulo,2023-05-10 19:47:29,Sí,México
+613a9c2153379fe7b9cb1ae4,color,4,bottom_right,0,No,cruz morada,2023-05-10 19:53:05,Sí,México
+613a9c2153379fe7b9cb1ae4,color,1,top_left,1,Yes,cuadrado azul,2023-05-10 19:53:05,Sí,México
+613a9c2153379fe7b9cb1ae4,color,3,top_right,2,No,rectángulo amarillo,2023-05-10 19:53:05,Sí,México
+613a9c2153379fe7b9cb1ae4,color,2,bottom_left,3,Yes,cuadrado rosa,2023-05-10 19:53:05,Sí,México
+5ed5c67a751f9814f8ffd344,color,1,top_right,0,No,Sol,2023-05-11 05:32:32,Sí,México
+5ed5c67a751f9814f8ffd344,color,3,top_left,1,Yes,Estrella,2023-05-11 05:32:32,Sí,México
+5ed5c67a751f9814f8ffd344,color,2,bottom_right,2,No,Circulo,2023-05-11 05:32:32,Sí,México
+5ed5c67a751f9814f8ffd344,color,4,bottom_left,3,Yes,Corazon,2023-05-11 05:32:32,Sí,México
+612f0b6e7e79ca1b544a064d,color,4,top_right,0,No,rectangulo naranja,2023-05-11 05:32:37,Sí,México
+612f0b6e7e79ca1b544a064d,color,2,bottom_left,1,Yes,cuadrado rosa,2023-05-11 05:32:37,Sí,México
+612f0b6e7e79ca1b544a064d,color,1,top_left,2,Yes,cuadrado azul,2023-05-11 05:32:37,Sí,México
+612f0b6e7e79ca1b544a064d,color,3,bottom_right,3,No,triangulo amarillo,2023-05-11 05:32:37,Sí,México
+5b9858a3fe82f50001caef03,color,2,top_left,0,Yes,Rectángulo ,2023-05-11 05:33:48,Sí,México
+5b9858a3fe82f50001caef03,color,1,bottom_right,1,No,Triángulo ,2023-05-11 05:33:48,Sí,México
+5b9858a3fe82f50001caef03,color,4,bottom_left,2,Yes,Coranzon,2023-05-11 05:33:48,Sí,México
+5b9858a3fe82f50001caef03,color,3,top_right,3,No,Rectángulo ,2023-05-11 05:33:48,Sí,México
+5f865068c610bb1a22e5777f,color,3,bottom_right,0,No,Triangulo,2023-05-11 05:33:53,Sí,México
+5f865068c610bb1a22e5777f,color,1,top_left,1,Yes,Cuadrado,2023-05-11 05:33:53,Sí,México
+5f865068c610bb1a22e5777f,color,4,bottom_left,2,Yes,Corazon,2023-05-11 05:33:53,Sí,México
+5f865068c610bb1a22e5777f,color,2,top_right,3,No,Rectangulo,2023-05-11 05:33:53,Sí,México
+61398af150009abfadd029b4,color,2,bottom_right,0,No,circulo amarillo,2023-05-11 05:33:54,Sí,México
+61398af150009abfadd029b4,color,3,top_right,1,No,rectángulo amarillo ,2023-05-11 05:33:54,Sí,México
+61398af150009abfadd029b4,color,4,top_left,2,Yes,rombo gris ,2023-05-11 05:33:54,Sí,México
+61398af150009abfadd029b4,color,1,bottom_left,3,Yes,corazón morado ,2023-05-11 05:33:54,Sí,México
+61398af150009abfadd029b4,color,2,bottom_right,0,No,circulo amarillo,2023-05-11 05:33:54,Sí,México
+61398af150009abfadd029b4,color,3,top_right,1,No,rectángulo amarillo ,2023-05-11 05:33:54,Sí,México
+61398af150009abfadd029b4,color,4,top_left,2,Yes,rombo gris ,2023-05-11 05:33:54,Sí,México
+61398af150009abfadd029b4,color,1,bottom_left,3,Yes,corazón morado ,2023-05-11 05:33:54,Sí,México
+615a7ceb2684470628034f10,color,4,bottom_right,0,No,cruz morada ,2023-05-11 05:33:58,Sí,México
+615a7ceb2684470628034f10,color,1,top_left,1,Yes,cuadrado azul,2023-05-11 05:33:58,Sí,México
+615a7ceb2684470628034f10,color,2,top_right,2,No,rectángulo amarillo,2023-05-11 05:33:58,Sí,México
+615a7ceb2684470628034f10,color,3,bottom_left,3,Yes,círculo gris,2023-05-11 05:33:58,Sí,México
+5f9ce576aa0c561f3011d587,color,3,top_right,0,No,rectangulo amarillo,2023-05-11 05:34:14,Sí,México
+5f9ce576aa0c561f3011d587,color,1,bottom_left,1,Yes,corazon morado,2023-05-11 05:34:14,Sí,México
+5f9ce576aa0c561f3011d587,color,2,bottom_right,2,No,Circulo amarillo,2023-05-11 05:34:14,Sí,México
+5f9ce576aa0c561f3011d587,color,4,top_left,3,Yes,rombo gris,2023-05-11 05:34:14,Sí,México
+58f82417edbd82000169bce8,color,2,top_left,0,Yes,rectangulo,2023-05-11 05:34:16,Sí,México
+58f82417edbd82000169bce8,color,4,top_right,1,No,rectangulo,2023-05-11 05:34:16,Sí,México
+58f82417edbd82000169bce8,color,3,bottom_left,2,Yes,circulo,2023-05-11 05:34:16,Sí,México
+58f82417edbd82000169bce8,color,1,bottom_right,3,No,triangulo,2023-05-11 05:34:16,Sí,México
+5e8fd165f3d8212cd90e0d4d,color,3,top_left,0,Yes,Estrella,2023-05-11 05:34:17,Sí,México
+5e8fd165f3d8212cd90e0d4d,color,2,top_right,1,No,Rectangulo,2023-05-11 05:34:17,Sí,México
+5e8fd165f3d8212cd90e0d4d,color,1,bottom_left,2,Yes,Corazón,2023-05-11 05:34:17,Sí,México
+5e8fd165f3d8212cd90e0d4d,color,4,bottom_right,3,No,Cruz,2023-05-11 05:34:17,Sí,México
+615ddb0c6adce920fbb53a2d,color,3,top_left,0,Yes,Estrella,2023-05-11 05:34:20,Sí,México
+615ddb0c6adce920fbb53a2d,color,4,bottom_left,1,Yes,Corazón,2023-05-11 05:34:20,Sí,México
+615ddb0c6adce920fbb53a2d,color,2,bottom_right,2,No,Círculo,2023-05-11 05:34:20,Sí,México
+615ddb0c6adce920fbb53a2d,color,1,top_right,3,No,Sol,2023-05-11 05:34:20,Sí,México
+5ac9c4415cd1050001626162,color,4,bottom_right,0,No,cruz morada,2023-05-11 05:34:22,Sí,México
+5ac9c4415cd1050001626162,color,3,top_right,1,No,rectángulo amarillo,2023-05-11 05:34:22,Sí,México
+5ac9c4415cd1050001626162,color,2,bottom_left,2,Yes,cuadrado rosa,2023-05-11 05:34:22,Sí,México
+5ac9c4415cd1050001626162,color,1,top_left,3,Yes,cuadrado azul,2023-05-11 05:34:22,Sí,México
+613a7ac93ea070f8868f6bfe,color,1,top_right,0,No,sol,2023-05-11 05:34:26,Sí,México
+613a7ac93ea070f8868f6bfe,color,4,bottom_left,1,Yes,Corazón,2023-05-11 05:34:26,Sí,México
+613a7ac93ea070f8868f6bfe,color,2,top_left,2,Yes,Rectángulo,2023-05-11 05:34:26,Sí,México
+613a7ac93ea070f8868f6bfe,color,3,bottom_right,3,No,Triángulo,2023-05-11 05:34:26,Sí,México
+613a7cec45896f69199c2a20,color,2,bottom_right,0,No,circulo,2023-05-11 05:34:29,Sí,México
+613a7cec45896f69199c2a20,color,1,bottom_left,1,Yes,corazon,2023-05-11 05:34:29,Sí,México
+613a7cec45896f69199c2a20,color,3,top_right,2,No,rectangulo,2023-05-11 05:34:29,Sí,México
+613a7cec45896f69199c2a20,color,4,top_left,3,Yes,rombo,2023-05-11 05:34:29,Sí,México
+5b89d11c19110c0001eb75e5,color,4,bottom_right,0,No,cruz,2023-05-11 05:34:39,Sí,México
+5b89d11c19110c0001eb75e5,color,3,bottom_left,1,Yes,circulo,2023-05-11 05:34:39,Sí,México
+5b89d11c19110c0001eb75e5,color,1,top_right,2,No,sol,2023-05-11 05:34:39,Sí,México
+5b89d11c19110c0001eb75e5,color,2,top_left,3,Yes,rectangulo,2023-05-11 05:34:39,Sí,México
+60b65dd419636fbf792d4470,color,4,bottom_right,0,No,Cruz morada,2023-05-11 05:34:50,Sí,México
+60b65dd419636fbf792d4470,color,1,bottom_left,1,Yes,Corazón morado,2023-05-11 05:34:50,Sí,México
+60b65dd419636fbf792d4470,color,3,top_left,2,Yes,Estrella rosa,2023-05-11 05:34:50,Sí,México
+60b65dd419636fbf792d4470,color,2,top_right,3,No,Rectángulo amarillo,2023-05-11 05:34:50,Sí,México
+5ff25479e1506a2621738db2,color,3,bottom_left,0,Yes,Círculo gris,2023-05-11 05:34:53,Sí,México
+5ff25479e1506a2621738db2,color,1,bottom_right,1,No,Triángulo rosado,2023-05-11 05:34:53,Sí,México
+5ff25479e1506a2621738db2,color,2,top_right,2,No,Rectángulo amarillo,2023-05-11 05:34:53,Sí,México
+5ff25479e1506a2621738db2,color,4,top_left,3,Yes,Diamante gris,2023-05-11 05:34:53,Sí,México
+60bff62d82d796cabcf1958e,color,3,bottom_right,0,No,Triangulo amarillo,2023-05-11 05:34:56,Sí,México
+60bff62d82d796cabcf1958e,color,2,top_left,1,Yes,Rectangulo acostado rosa,2023-05-11 05:34:56,Sí,México
+60bff62d82d796cabcf1958e,color,1,top_right,2,No,Sol café,2023-05-11 05:34:56,Sí,México
+60bff62d82d796cabcf1958e,color,4,bottom_left,3,Yes,Corazón rojo,2023-05-11 05:34:56,Sí,México
+6013bc0e9807112845bb1556,color,3,bottom_right,0,No,Triángulo,2023-05-11 05:34:56,Sí,México
+6013bc0e9807112845bb1556,color,2,bottom_left,1,Yes,Cuadrado,2023-05-11 05:34:56,Sí,México
+6013bc0e9807112845bb1556,color,1,top_left,2,Yes,Cuadrado ,2023-05-11 05:34:56,Sí,México
+6013bc0e9807112845bb1556,color,4,top_right,3,No,Rectángulo,2023-05-11 05:34:56,Sí,México
+5aea8c59ae889e00018624c2,color,2,bottom_right,0,No,círculo,2023-05-11 05:34:56,Sí,México
+5aea8c59ae889e00018624c2,color,3,top_right,1,No,rectángulo,2023-05-11 05:34:56,Sí,México
+5aea8c59ae889e00018624c2,color,1,top_left,2,Yes,cuadrado,2023-05-11 05:34:56,Sí,México
+5aea8c59ae889e00018624c2,color,4,bottom_left,3,Yes,corazón,2023-05-11 05:34:56,Sí,México
+60dec770e794837d68214ae1,color,3,top_left,0,Yes,Estrella,2023-05-11 05:34:59,Sí,México
+60dec770e794837d68214ae1,color,1,bottom_right,1,No,triangulo,2023-05-11 05:34:59,Sí,México
+60dec770e794837d68214ae1,color,2,bottom_left,2,Yes,cuadro,2023-05-11 05:34:59,Sí,México
+60dec770e794837d68214ae1,color,4,top_right,3,No,Rectangulo,2023-05-11 05:34:59,Sí,México
+5f2dc42024e8d80f3be23d05,color,1,top_left,0,Yes,Cuadrado,2023-05-11 05:35:00,Sí,México
+5f2dc42024e8d80f3be23d05,color,2,top_right,1,No,Rectángulo,2023-05-11 05:35:00,Sí,México
+5f2dc42024e8d80f3be23d05,color,4,bottom_right,2,No,Cruz,2023-05-11 05:35:00,Sí,México
+5f2dc42024e8d80f3be23d05,color,3,bottom_left,3,Yes,Círculo,2023-05-11 05:35:00,Sí,México
+613f8d6600a918d57f57908b,color,1,top_right,0,No,"La figura de un sol, color café",2023-05-11 05:35:01,Sí,México
+613f8d6600a918d57f57908b,color,3,bottom_right,1,No,Un triangulo amarillo,2023-05-11 05:35:01,Sí,México
+613f8d6600a918d57f57908b,color,2,top_left,2,Yes,Un rectangulo rosado,2023-05-11 05:35:01,Sí,México
+613f8d6600a918d57f57908b,color,4,bottom_left,3,Yes,Un corazón rojo,2023-05-11 05:35:01,Sí,México
+613a6abd8f010ce9c87a4bc7,color,1,top_right,0,No,Sol café ,2023-05-11 05:35:06,Sí,México
+613a6abd8f010ce9c87a4bc7,color,2,bottom_left,1,Yes,Cuadrado rosa ,2023-05-11 05:35:06,Sí,México
+613a6abd8f010ce9c87a4bc7,color,4,bottom_right,2,No,cruz morada ,2023-05-11 05:35:06,Sí,México
+613a6abd8f010ce9c87a4bc7,color,3,top_left,3,Yes,estrella rosa ,2023-05-11 05:35:06,Sí,México
+613a2bb94caeb1d94db369a1,color,1,top_right,0,No,Sol,2023-05-11 05:35:12,Sí,México
+613a2bb94caeb1d94db369a1,color,2,bottom_right,1,No,Circulo amarillo,2023-05-11 05:35:12,Sí,México
+613a2bb94caeb1d94db369a1,color,3,bottom_left,2,Yes,Circulo gris,2023-05-11 05:35:12,Sí,México
+613a2bb94caeb1d94db369a1,color,4,top_left,3,Yes,Rombo,2023-05-11 05:35:12,Sí,México
+616f6ed2ead3bb59cd1397ac,color,3,bottom_left,0,Yes,circulo gris,2023-05-11 05:35:22,Sí,México
+616f6ed2ead3bb59cd1397ac,color,1,top_right,1,No,sol cafe,2023-05-11 05:35:22,Sí,México
+616f6ed2ead3bb59cd1397ac,color,2,bottom_right,2,No,circulo amarillo,2023-05-11 05:35:22,Sí,México
+616f6ed2ead3bb59cd1397ac,color,4,top_left,3,Yes,rombo gris,2023-05-11 05:35:22,Sí,México
+60c03680dc5dfe4723659602,color,4,top_right,0,No,rectangulo naranja,2023-05-11 05:35:31,Sí,Estados Unidos
+60c03680dc5dfe4723659602,color,3,bottom_left,1,Yes,circulo gris,2023-05-11 05:35:31,Sí,Estados Unidos
+60c03680dc5dfe4723659602,color,2,bottom_right,2,No,circulo amarillo,2023-05-11 05:35:31,Sí,Estados Unidos
+60c03680dc5dfe4723659602,color,1,top_left,3,Yes,cuadrado azul,2023-05-11 05:35:31,Sí,Estados Unidos
+5c6ca40347681300014741f0,color,4,bottom_right,0,No,Cruz morada,2023-05-11 05:35:39,Sí,México
+5c6ca40347681300014741f0,color,1,top_left,1,Yes,Cuadrado azul,2023-05-11 05:35:39,Sí,México
+5c6ca40347681300014741f0,color,3,top_right,2,No,Rectángulo amarillo,2023-05-11 05:35:39,Sí,México
+5c6ca40347681300014741f0,color,2,bottom_left,3,Yes,Cuadrado rosa,2023-05-11 05:35:39,Sí,México
+5c6ca40347681300014741f0,color,4,bottom_right,0,No,Cruz morada,2023-05-11 05:35:39,Sí,México
+5c6ca40347681300014741f0,color,1,top_left,1,Yes,Cuadrado azul,2023-05-11 05:35:39,Sí,México
+5c6ca40347681300014741f0,color,3,top_right,2,No,Rectángulo amarillo,2023-05-11 05:35:39,Sí,México
+5c6ca40347681300014741f0,color,2,bottom_left,3,Yes,Cuadrado rosa,2023-05-11 05:35:39,Sí,México
+613a886056265d62028d15d2,color,4,top_left,0,Yes,rombo,2023-05-11 05:35:39,Sí,México
+613a886056265d62028d15d2,color,1,bottom_left,1,Yes,corazon,2023-05-11 05:35:39,Sí,México
+613a886056265d62028d15d2,color,3,bottom_right,2,No,triangulo,2023-05-11 05:35:39,Sí,México
+613a886056265d62028d15d2,color,2,top_right,3,No,rectangulo,2023-05-11 05:35:39,Sí,México
+5ea90bb434d5e337e98c7edd,color,4,top_right,0,No,Rectángulo Naranja,2023-05-11 05:35:40,Sí,México
+5ea90bb434d5e337e98c7edd,color,3,top_left,1,Yes,Estrella Rosa,2023-05-11 05:35:40,Sí,México
+5ea90bb434d5e337e98c7edd,color,2,bottom_right,2,No,Circulo amarillo,2023-05-11 05:35:40,Sí,México
+5ea90bb434d5e337e98c7edd,color,1,bottom_left,3,Yes,Corazón Morado,2023-05-11 05:35:40,Sí,México
+614215e5a85111f66a9abbfc,color,4,bottom_left,0,Yes,Corazón rojo,2023-05-11 05:35:41,Sí,México
+614215e5a85111f66a9abbfc,color,1,top_right,1,No,Sol cafe,2023-05-11 05:35:41,Sí,México
+614215e5a85111f66a9abbfc,color,3,bottom_right,2,No,Triangulo amarillo,2023-05-11 05:35:41,Sí,México
+614215e5a85111f66a9abbfc,color,2,top_left,3,Yes,Rectangulo rosa,2023-05-11 05:35:41,Sí,México
+5ec78dfed068801ed6ca121c,color,3,top_left,0,Yes,Estrella,2023-05-11 05:35:41,Sí,México
+5ec78dfed068801ed6ca121c,color,1,bottom_right,1,No,Triangulo,2023-05-11 05:35:41,Sí,México
+5ec78dfed068801ed6ca121c,color,4,bottom_left,2,Yes,Corazon,2023-05-11 05:35:41,Sí,México
+5ec78dfed068801ed6ca121c,color,2,top_right,3,No,Rectangulo,2023-05-11 05:35:41,Sí,México
+5f8f2f23e9044215b665b901,color,2,top_left,0,Yes,Rectángulo color lila ,2023-05-11 05:35:42,Sí,México
+5f8f2f23e9044215b665b901,color,4,bottom_right,1,No,Una cruz color morada,2023-05-11 05:35:42,Sí,México
+5f8f2f23e9044215b665b901,color,1,bottom_left,2,Yes,Corazón morado,2023-05-11 05:35:42,Sí,México
+5f8f2f23e9044215b665b901,color,3,top_right,3,No,Rectángulo color amarillo,2023-05-11 05:35:42,Sí,México
+6107a61bb8c7ec465a529c11,color,2,bottom_left,0,Yes,cuadrado rosa,2023-05-11 05:35:46,Sí,México
+6107a61bb8c7ec465a529c11,color,3,top_left,1,Yes,estrella rosa,2023-05-11 05:35:46,Sí,México
+6107a61bb8c7ec465a529c11,color,4,top_right,2,No,rectangulo naranja,2023-05-11 05:35:46,Sí,México
+6107a61bb8c7ec465a529c11,color,1,bottom_right,3,No,triangulo rosa,2023-05-11 05:35:46,Sí,México
+61730836c84847f3d50025c3,color,3,top_left,0,Yes,Estrella fucsia,2023-05-11 05:35:53,Sí,México
+61730836c84847f3d50025c3,color,2,bottom_right,1,No,Círculo amarillo,2023-05-11 05:35:53,Sí,México
+61730836c84847f3d50025c3,color,4,bottom_left,2,Yes,Corazón rojo,2023-05-11 05:35:53,Sí,México
+61730836c84847f3d50025c3,color,1,top_right,3,No,Sol Dorado,2023-05-11 05:35:53,Sí,México
+613b8c9719c838f7c5e7297c,color,3,bottom_left,0,Yes,circulo gris,2023-05-11 05:35:55,Sí,México
+613b8c9719c838f7c5e7297c,color,2,top_left,1,Yes,rectángulo rosa,2023-05-11 05:35:55,Sí,México
+613b8c9719c838f7c5e7297c,color,1,bottom_right,2,No,triángulo rosa,2023-05-11 05:35:55,Sí,México
+613b8c9719c838f7c5e7297c,color,4,top_right,3,No,rectángulo naranja,2023-05-11 05:35:55,Sí,México
+6067f370472020b9dc5cf71b,color,4,top_left,0,Yes,rombo gris,2023-05-11 05:36:01,Sí,México
+6067f370472020b9dc5cf71b,color,1,bottom_left,1,Yes,corazón violeta,2023-05-11 05:36:01,Sí,México
+6067f370472020b9dc5cf71b,color,2,bottom_right,2,No,círculo amarillo,2023-05-11 05:36:01,Sí,México
+6067f370472020b9dc5cf71b,color,3,top_right,3,No,rectángulo amarillo,2023-05-11 05:36:01,Sí,México
+613ab37661a64d2faed80b90,color,1,bottom_left,0,Yes,Es la figura que tiene el color que resulta de la combinación de azul y rojo,2023-05-11 05:36:04,Sí,México
+613ab37661a64d2faed80b90,color,3,bottom_right,1,No,Es la figura que tiene 3 lados puntiagudos ,2023-05-11 05:36:04,Sí,México
+613ab37661a64d2faed80b90,color,2,top_left,2,Yes,Es un paralelogramo,2023-05-11 05:36:04,Sí,México
+613ab37661a64d2faed80b90,color,4,top_right,3,No,Es una figura con cuatro lados,2023-05-11 05:36:04,Sí,México
+56cfd0ddd691bb000697baef,color,2,top_right,0,No,rectangulo amarillo,2023-05-11 05:36:05,Sí,México
+56cfd0ddd691bb000697baef,color,3,bottom_right,1,No,triangulo amarillo,2023-05-11 05:36:05,Sí,México
+56cfd0ddd691bb000697baef,color,1,bottom_left,2,Yes,corazon purpura,2023-05-11 05:36:05,Sí,México
+56cfd0ddd691bb000697baef,color,4,top_left,3,Yes,rombo gris,2023-05-11 05:36:05,Sí,México
+5f503987fc18901a2c94c407,color,4,top_left,0,Yes,rombo,2023-05-11 05:36:07,Sí,México
+5f503987fc18901a2c94c407,color,2,bottom_left,1,Yes,cuadrado,2023-05-11 05:36:07,Sí,México
+5f503987fc18901a2c94c407,color,3,bottom_right,2,No,triángulo,2023-05-11 05:36:07,Sí,México
+5f503987fc18901a2c94c407,color,1,top_right,3,No,sol,2023-05-11 05:36:07,Sí,México
+5fd82e7fdcbcd817218cae7c,color,1,top_right,0,No,Sol cafe,2023-05-11 05:36:08,Sí,México
+5fd82e7fdcbcd817218cae7c,color,2,bottom_left,1,Yes,Cuadrado rosa,2023-05-11 05:36:08,Sí,México
+5fd82e7fdcbcd817218cae7c,color,3,top_left,2,Yes,Estrella rosa,2023-05-11 05:36:08,Sí,México
+5fd82e7fdcbcd817218cae7c,color,4,bottom_right,3,No,Cruz morada,2023-05-11 05:36:08,Sí,México
+6111624c12d30533fdfeb26d,color,3,bottom_right,0,No,triangulo,2023-05-11 05:36:09,Sí,México
+6111624c12d30533fdfeb26d,color,2,top_left,1,Yes,rectangulo,2023-05-11 05:36:09,Sí,México
+6111624c12d30533fdfeb26d,color,4,bottom_left,2,Yes,corazon,2023-05-11 05:36:09,Sí,México
+6111624c12d30533fdfeb26d,color,1,top_right,3,No,sol,2023-05-11 05:36:09,Sí,México
+613aa61e15f46c009b1de936,color,1,top_left,0,Yes,cuadrado color azul,2023-05-11 05:36:18,Sí,México
+613aa61e15f46c009b1de936,color,4,bottom_right,1,No,cruz color morado,2023-05-11 05:36:18,Sí,México
+613aa61e15f46c009b1de936,color,3,top_right,2,No,rectángulo color amarillo,2023-05-11 05:36:18,Sí,México
+613aa61e15f46c009b1de936,color,2,bottom_left,3,Yes,cuadrado color rosado,2023-05-11 05:36:18,Sí,México
+5f95155d7ae37e0009ed42ac,color,2,top_left,0,Yes,Rectangulo ,2023-05-11 05:36:27,Sí,México
+5f95155d7ae37e0009ed42ac,color,3,bottom_left,1,Yes,Circulo,2023-05-11 05:36:27,Sí,México
+5f95155d7ae37e0009ed42ac,color,1,top_right,2,No,Sol,2023-05-11 05:36:27,Sí,México
+5f95155d7ae37e0009ed42ac,color,4,bottom_right,3,No,Cruz,2023-05-11 05:36:27,Sí,México
+613b701e364fa985cac6c40b,color,2,bottom_right,0,No,circulo,2023-05-11 05:37:09,Sí,México
+613b701e364fa985cac6c40b,color,4,bottom_left,1,Yes,corazon,2023-05-11 05:37:09,Sí,México
+613b701e364fa985cac6c40b,color,1,top_left,2,Yes,cuadrado,2023-05-11 05:37:09,Sí,México
+613b701e364fa985cac6c40b,color,3,top_right,3,No,rectangulo,2023-05-11 05:37:09,Sí,México
+6075d10e3819fae797f0e3d6,color,3,bottom_left,0,Yes,circulo,2023-05-11 05:37:39,Sí,México
+6075d10e3819fae797f0e3d6,color,2,top_left,1,Yes,rectangulo,2023-05-11 05:37:39,Sí,México
+6075d10e3819fae797f0e3d6,color,1,bottom_right,2,No,triangulo,2023-05-11 05:37:39,Sí,México
+6075d10e3819fae797f0e3d6,color,4,top_right,3,No,rectangulo,2023-05-11 05:37:39,Sí,México
+6141375df579b5d078fe12dc,color,3,top_left,0,Yes,Estrella rosa ,2023-05-11 05:37:54,Sí,México
+6141375df579b5d078fe12dc,color,4,bottom_right,1,No,Cruz morada,2023-05-11 05:37:54,Sí,México
+6141375df579b5d078fe12dc,color,1,top_right,2,No,Sol café,2023-05-11 05:37:54,Sí,México
+6141375df579b5d078fe12dc,color,2,bottom_left,3,Yes,Cuadrado rosa ,2023-05-11 05:37:54,Sí,México
+614b5b07924743fe7d47983b,color,1,bottom_right,0,No,Triángulo rosa,2023-05-11 05:38:15,Sí,México
+614b5b07924743fe7d47983b,color,2,top_left,1,Yes,Rectángulo rosa,2023-05-11 05:38:15,Sí,México
+614b5b07924743fe7d47983b,color,3,top_right,2,No,Rectángulo amarillo,2023-05-11 05:38:15,Sí,México
+614b5b07924743fe7d47983b,color,4,bottom_left,3,Yes,Corazón rojo,2023-05-11 05:38:15,Sí,México
+5c0048442213be0001c2d579,color,4,bottom_left,0,Yes,Corazón,2023-05-11 05:38:18,Sí,México
+5c0048442213be0001c2d579,color,3,top_right,1,No,Rectangulo,2023-05-11 05:38:18,Sí,México
+5c0048442213be0001c2d579,color,1,bottom_right,2,No,Triangulo,2023-05-11 05:38:18,Sí,México
+5c0048442213be0001c2d579,color,2,top_left,3,Yes,Rectangulo,2023-05-11 05:38:18,Sí,México
+60f8ad596f73b24de783aab7,color,2,bottom_right,0,No,círculo,2023-05-11 05:38:42,Sí,México
+60f8ad596f73b24de783aab7,color,1,top_right,1,No,sol,2023-05-11 05:38:42,Sí,México
+60f8ad596f73b24de783aab7,color,4,bottom_left,2,Yes,corazón,2023-05-11 05:38:42,Sí,México
+60f8ad596f73b24de783aab7,color,3,top_left,3,Yes,estrella,2023-05-11 05:38:42,Sí,México
+613b7ff0e625773956bbe116,color,3,top_right,0,No,rectangulo amarillo,2023-05-11 05:38:46,Sí,México
+613b7ff0e625773956bbe116,color,4,bottom_right,1,No,cruz morada,2023-05-11 05:38:46,Sí,México
+613b7ff0e625773956bbe116,color,2,bottom_left,2,Yes,cuadrado rosa,2023-05-11 05:38:46,Sí,México
+613b7ff0e625773956bbe116,color,1,top_left,3,Yes,cuadrado azul,2023-05-11 05:38:46,Sí,México
+5f38c9aa0c68ee3f7c72f7b4,color,1,top_right,0,No,sol,2023-05-11 05:39:07,NA,México
+5f38c9aa0c68ee3f7c72f7b4,color,4,bottom_left,1,Yes,corazon,2023-05-11 05:39:07,NA,México
+5f38c9aa0c68ee3f7c72f7b4,color,2,top_left,2,Yes,rectangulo,2023-05-11 05:39:07,NA,México
+5f38c9aa0c68ee3f7c72f7b4,color,3,bottom_right,3,No,triangulo,2023-05-11 05:39:07,NA,México
+5c36b54ed4627100010c4786,color,1,bottom_right,0,No,Triangulo,2023-05-11 05:39:12,Sí,México
+5c36b54ed4627100010c4786,color,2,top_left,1,Yes,Rectangulo,2023-05-11 05:39:12,Sí,México
+5c36b54ed4627100010c4786,color,3,top_right,2,No,Rectangulo,2023-05-11 05:39:12,Sí,México
+5c36b54ed4627100010c4786,color,4,bottom_left,3,Yes,Corazón,2023-05-11 05:39:12,Sí,México
+5c230d610091e40001c939d7,color,4,top_left,0,Yes,rombo,2023-05-11 05:39:24,Sí,México
+5c230d610091e40001c939d7,color,3,top_right,1,No,rectangulo,2023-05-11 05:39:24,Sí,México
+5c230d610091e40001c939d7,color,2,bottom_left,2,Yes,cuadrado,2023-05-11 05:39:24,Sí,México
+5c230d610091e40001c939d7,color,1,bottom_right,3,No,triangulo,2023-05-11 05:39:24,Sí,México
+5f74fa0614255d15319ee076,color,2,top_left,0,Yes,rectángulo,2023-05-11 05:39:48,Sí,México
+5f74fa0614255d15319ee076,color,3,bottom_right,1,No,triángulo,2023-05-11 05:39:48,Sí,México
+5f74fa0614255d15319ee076,color,1,top_right,2,No,sol,2023-05-11 05:39:48,Sí,México
+5f74fa0614255d15319ee076,color,4,bottom_left,3,Yes,corazón,2023-05-11 05:39:48,Sí,México
+61450d35861ed696636cb73d,color,3,bottom_right,0,No,Triángulo amarillo,2023-05-11 05:39:51,Sí,Sudamérica
+61450d35861ed696636cb73d,color,1,top_left,1,Yes,Cuadro azul,2023-05-11 05:39:51,Sí,Sudamérica
+61450d35861ed696636cb73d,color,2,bottom_left,2,Yes,Cuadro rosa,2023-05-11 05:39:51,Sí,Sudamérica
+61450d35861ed696636cb73d,color,4,top_right,3,No,Rectángulo naranja,2023-05-11 05:39:51,Sí,Sudamérica
+5f867f7190d5551ccb72d7bf,color,2,bottom_right,0,No,Circulo,2023-05-11 05:39:57,Sí,México
+5f867f7190d5551ccb72d7bf,color,1,bottom_left,1,Yes,Corazón,2023-05-11 05:39:57,Sí,México
+5f867f7190d5551ccb72d7bf,color,4,top_left,2,Yes,Rombo,2023-05-11 05:39:57,Sí,México
+5f867f7190d5551ccb72d7bf,color,3,top_right,3,No,Rectangulo,2023-05-11 05:39:57,Sí,México
+60db4d9edea14c543447111d,color,1,top_left,0,Yes,Cuadrado,2023-05-11 05:40:01,Sí,México
+60db4d9edea14c543447111d,color,4,bottom_left,1,Yes,Corazón,2023-05-11 05:40:01,Sí,México
+60db4d9edea14c543447111d,color,2,top_right,2,No,Rectángulo,2023-05-11 05:40:01,Sí,México
+60db4d9edea14c543447111d,color,3,bottom_right,3,No,Triángulo,2023-05-11 05:40:01,Sí,México
+5f9371409b8ab214fb35c7e5,color,2,bottom_left,0,Yes,"Cuadrado, duatro lados, color rosa",2023-05-11 05:40:06,Sí,México
+5f9371409b8ab214fb35c7e5,color,1,top_right,1,No,"Similar a un sol, triángulos y círculo, color café",2023-05-11 05:40:06,Sí,México
+5f9371409b8ab214fb35c7e5,color,3,bottom_right,2,No,"Triángulo, color amarillo, tres lados",2023-05-11 05:40:06,Sí,México
+5f9371409b8ab214fb35c7e5,color,4,top_left,3,Yes,"Rombo, color gris, cuatro lados",2023-05-11 05:40:06,Sí,México
+6140c26c2ee391b3f4601f01,color,2,top_right,0,No,rectángulo amarillo,2023-05-11 05:40:11,Sí,México
+6140c26c2ee391b3f4601f01,color,3,bottom_right,1,No,triángulo amarillo.,2023-05-11 05:40:11,Sí,México
+6140c26c2ee391b3f4601f01,color,1,top_left,2,Yes,cuadrado azul.,2023-05-11 05:40:11,Sí,México
+6140c26c2ee391b3f4601f01,color,4,bottom_left,3,Yes,corazón rojo,2023-05-11 05:40:11,Sí,México
+60da8e97af0a0080c3151b97,color,1,top_right,0,No,Sol,2023-05-11 05:40:29,Sí,México
+60da8e97af0a0080c3151b97,color,2,top_left,1,Yes,Rectángulo,2023-05-11 05:40:29,Sí,México
+60da8e97af0a0080c3151b97,color,4,bottom_right,2,No,Cruz,2023-05-11 05:40:29,Sí,México
+60da8e97af0a0080c3151b97,color,3,bottom_left,3,Yes,Círculo,2023-05-11 05:40:29,Sí,México
+613ac677749969b288c4a7b1,color,1,bottom_right,0,No,Triángulo equilatero rosa,2023-05-11 05:40:43,Sí,México
+613ac677749969b288c4a7b1,color,2,bottom_left,1,Yes,Cuadrado rosa,2023-05-11 05:40:43,Sí,México
+613ac677749969b288c4a7b1,color,4,top_left,2,Yes,Rombo gris ,2023-05-11 05:40:43,Sí,México
+613ac677749969b288c4a7b1,color,3,top_right,3,No,Rectángulo amarillo,2023-05-11 05:40:43,Sí,México
+616f469494656434f5b4ebc6,color,1,bottom_right,0,No,triangulo morado,2023-05-11 05:41:07,Sí,México
+616f469494656434f5b4ebc6,color,3,bottom_left,1,Yes,circulo gris,2023-05-11 05:41:07,Sí,México
+616f469494656434f5b4ebc6,color,2,top_left,2,Yes,rectangulo rosa,2023-05-11 05:41:07,Sí,México
+616f469494656434f5b4ebc6,color,4,top_right,3,No,rectangulo naranja,2023-05-11 05:41:07,Sí,México
+5f9afa6dffa5e21329cf3f6e,color,2,top_right,0,No,rectangulo amarillo,2023-05-11 05:41:08,Sí,México
+5f9afa6dffa5e21329cf3f6e,color,3,bottom_left,1,Yes,circulo gris,2023-05-11 05:41:08,Sí,México
+5f9afa6dffa5e21329cf3f6e,color,4,top_left,2,Yes,rombo gris,2023-05-11 05:41:08,Sí,México
+5f9afa6dffa5e21329cf3f6e,color,1,bottom_right,3,No,triangulo rosa,2023-05-11 05:41:08,Sí,México
+600b9a216e864a1f9316c1dd,color,3,bottom_left,0,Yes,Gris,2023-05-11 05:41:12,Sí,México
+600b9a216e864a1f9316c1dd,color,2,bottom_right,1,No,Amarillo,2023-05-11 05:41:12,Sí,México
+600b9a216e864a1f9316c1dd,color,1,top_right,2,No,Sol,2023-05-11 05:41:12,Sí,México
+600b9a216e864a1f9316c1dd,color,4,top_left,3,Yes,Rombo,2023-05-11 05:41:12,Sí,México
+613b7cf2f368095595aa6ef2,color,2,bottom_right,0,No,Circulo amarillo,2023-05-11 05:41:38,Sí,México
+613b7cf2f368095595aa6ef2,color,1,top_right,1,No,sol café,2023-05-11 05:41:38,Sí,México
+613b7cf2f368095595aa6ef2,color,4,bottom_left,2,Yes,corazón rojo,2023-05-11 05:41:38,Sí,México
+613b7cf2f368095595aa6ef2,color,3,top_left,3,Yes,estrella lila,2023-05-11 05:41:38,Sí,México
+612512862963825fa66941bf,color,2,top_left,0,Yes,rectangulo rosa,2023-05-11 05:41:41,Sí,México
+612512862963825fa66941bf,color,1,top_right,1,No,sol cafe,2023-05-11 05:41:41,Sí,México
+612512862963825fa66941bf,color,3,bottom_left,2,Yes,circulo gris,2023-05-11 05:41:41,Sí,México
+612512862963825fa66941bf,color,4,bottom_right,3,No,cruz morada,2023-05-11 05:41:41,Sí,México
+5d5496bdd84ebe0001f5fb20,color,1,bottom_left,0,Yes,corazón,2023-05-11 05:41:46,Sí,México
+5d5496bdd84ebe0001f5fb20,color,4,top_right,1,No,rectangulo,2023-05-11 05:41:46,Sí,México
+5d5496bdd84ebe0001f5fb20,color,3,bottom_right,2,No,triángulo,2023-05-11 05:41:46,Sí,México
+5d5496bdd84ebe0001f5fb20,color,2,top_left,3,Yes,rectángulo,2023-05-11 05:41:46,Sí,México
+5e705a1be6c65a62c56a3143,color,3,top_left,0,Yes,estrella,2023-05-11 05:41:58,Sí,México
+5e705a1be6c65a62c56a3143,color,1,bottom_right,1,No,triangulo,2023-05-11 05:41:58,Sí,México
+5e705a1be6c65a62c56a3143,color,2,bottom_left,2,Yes,cuadrado,2023-05-11 05:41:58,Sí,México
+5e705a1be6c65a62c56a3143,color,4,top_right,3,No,rectangulo,2023-05-11 05:41:58,Sí,México
+613abaa8ef02caba11c47bc3,color,3,bottom_left,0,Yes,Círculo ,2023-05-11 05:42:14,Sí,México
+613abaa8ef02caba11c47bc3,color,4,top_right,1,No,Rectángulo,2023-05-11 05:42:14,Sí,México
+613abaa8ef02caba11c47bc3,color,1,bottom_right,2,No,Triángulo,2023-05-11 05:42:14,Sí,México
+613abaa8ef02caba11c47bc3,color,2,top_left,3,Yes,Rectángulo ,2023-05-11 05:42:14,Sí,México
+613abaa8ef02caba11c47bc3,color,3,bottom_left,0,Yes,´Círculo,2023-05-11 05:42:14,Sí,México
+613abaa8ef02caba11c47bc3,color,4,top_right,1,No,Rectángulo,2023-05-11 05:42:14,Sí,México
+613abaa8ef02caba11c47bc3,color,1,bottom_right,2,No,Triángulo,2023-05-11 05:42:14,Sí,México
+613abaa8ef02caba11c47bc3,color,2,top_left,3,Yes,Rectángulo,2023-05-11 05:42:14,Sí,México
+613a9413ba611a0a66ee0504,color,1,top_right,0,No,sol,2023-05-11 05:42:21,Sí,México
+613a9413ba611a0a66ee0504,color,3,bottom_left,1,Yes,circulo,2023-05-11 05:42:21,Sí,México
+613a9413ba611a0a66ee0504,color,4,top_left,2,Yes,Rombo ,2023-05-11 05:42:21,Sí,México
+613a9413ba611a0a66ee0504,color,2,bottom_right,3,No,circulo ,2023-05-11 05:42:21,Sí,México
+5eb4f5a68aa23236a7dee5a3,color,1,top_right,0,No,Sol,2023-05-11 05:43:18,Sí,México
+5eb4f5a68aa23236a7dee5a3,color,3,bottom_right,1,No,Triángulo,2023-05-11 05:43:18,Sí,México
+5eb4f5a68aa23236a7dee5a3,color,2,top_left,2,Yes,Rectángulo,2023-05-11 05:43:18,Sí,México
+5eb4f5a68aa23236a7dee5a3,color,4,bottom_left,3,Yes,Corazón,2023-05-11 05:43:18,Sí,México
+60bb23e62d838aa285ce7730,color,4,top_left,0,Yes,Rombo gris,2023-05-11 05:43:25,Sí,México
+60bb23e62d838aa285ce7730,color,3,bottom_right,1,No,Triángulo Amarillo,2023-05-11 05:43:25,Sí,México
+60bb23e62d838aa285ce7730,color,1,bottom_left,2,Yes,Corazón Púrpura,2023-05-11 05:43:25,Sí,México
+60bb23e62d838aa285ce7730,color,2,top_right,3,No,Rectángulo Amarillo,2023-05-11 05:43:25,Sí,México
+60bb23e62d838aa285ce7730,color,4,top_left,0,Yes,Rombo Gris ,2023-05-11 05:43:25,Sí,México
+60bb23e62d838aa285ce7730,color,3,bottom_right,1,No,Triángulo Amarillo,2023-05-11 05:43:25,Sí,México
+60bb23e62d838aa285ce7730,color,1,bottom_left,2,Yes,Corazón Púrpura,2023-05-11 05:43:25,Sí,México
+60bb23e62d838aa285ce7730,color,2,top_right,3,No,Rectángulo Amarillo,2023-05-11 05:43:25,Sí,México
+61403ccaf15c48625b82ec6b,color,3,bottom_left,0,Yes,Círculo gris,2023-05-11 05:43:45,Sí,México
+61403ccaf15c48625b82ec6b,color,4,top_right,1,No,Rectángulo naranja ,2023-05-11 05:43:45,Sí,México
+61403ccaf15c48625b82ec6b,color,2,bottom_right,2,No,Círculo amrillo,2023-05-11 05:43:45,Sí,México
+61403ccaf15c48625b82ec6b,color,1,top_left,3,Yes,Cuadrado azúl ,2023-05-11 05:43:45,Sí,México
+61135eb097c6eb84381896ac,color,3,bottom_right,0,No,Triangulo ,2023-05-11 05:43:48,Sí,México
+61135eb097c6eb84381896ac,color,1,bottom_left,1,Yes,Corazon,2023-05-11 05:43:48,Sí,México
+61135eb097c6eb84381896ac,color,4,top_left,2,Yes,Rombo,2023-05-11 05:43:48,Sí,México
+61135eb097c6eb84381896ac,color,2,top_right,3,No,Rectángulo ,2023-05-11 05:43:48,Sí,México
+612d7b5dbc8a6457965c1034,color,1,top_left,0,Yes,cuadro azul ,2023-05-11 05:43:50,Sí,México
+612d7b5dbc8a6457965c1034,color,4,top_right,1,No,rectangulo naranja,2023-05-11 05:43:50,Sí,México
+612d7b5dbc8a6457965c1034,color,2,bottom_left,2,Yes,cuadro rosa,2023-05-11 05:43:50,Sí,México
+612d7b5dbc8a6457965c1034,color,3,bottom_right,3,No,triangulo amarillo,2023-05-11 05:43:50,Sí,México
+606529ce14b2184a016c629d,color,1,top_right,0,No,Sol,2023-05-11 05:44:02,Sí,México
+606529ce14b2184a016c629d,color,2,top_left,1,Yes,rectangulo,2023-05-11 05:44:02,Sí,México
+606529ce14b2184a016c629d,color,3,bottom_right,2,No,triangulo,2023-05-11 05:44:02,Sí,México
+606529ce14b2184a016c629d,color,4,bottom_left,3,Yes,corazon,2023-05-11 05:44:02,Sí,México
+599315f2cf1d1700016ef7e3,color,2,top_right,0,No,rectángulo amarillo ,2023-05-11 05:44:07,Sí,México
+599315f2cf1d1700016ef7e3,color,3,top_left,1,Yes,estrella púrpura,2023-05-11 05:44:07,Sí,México
+599315f2cf1d1700016ef7e3,color,1,bottom_right,2,No,triángulo púrpura,2023-05-11 05:44:07,Sí,México
+599315f2cf1d1700016ef7e3,color,4,bottom_left,3,Yes,corazón rojo,2023-05-11 05:44:07,Sí,México
+5bfb724acad1240001e8f657,color,1,top_left,0,Yes,Cuadro azul,2023-05-11 05:44:11,Sí,México
+5bfb724acad1240001e8f657,color,3,top_right,1,No,Rectangulo amarillo,2023-05-11 05:44:11,Sí,México
+5bfb724acad1240001e8f657,color,2,bottom_right,2,No,Circulo Amarillo,2023-05-11 05:44:11,Sí,México
+5bfb724acad1240001e8f657,color,4,bottom_left,3,Yes,Corazon rojo,2023-05-11 05:44:11,Sí,México
+6152c2ccdc9301faa88bb95a,color,4,bottom_left,0,Yes,Corazón rojo,2023-05-11 05:44:44,Sí,México
+6152c2ccdc9301faa88bb95a,color,1,top_left,1,Yes,Cuadrado azul,2023-05-11 05:44:44,Sí,México
+6152c2ccdc9301faa88bb95a,color,3,bottom_right,2,No,Triángulo amarillo,2023-05-11 05:44:44,Sí,México
+6152c2ccdc9301faa88bb95a,color,2,top_right,3,No,Rectángulo amarillo,2023-05-11 05:44:44,Sí,México
+5f2ed914a87abd287ed66ddf,color,2,top_right,0,No,Rectángulo,2023-05-11 05:45:15,Sí,México
+5f2ed914a87abd287ed66ddf,color,3,bottom_right,1,No,Triángulo ,2023-05-11 05:45:15,Sí,México
+5f2ed914a87abd287ed66ddf,color,1,bottom_left,2,Yes,Corazón,2023-05-11 05:45:15,Sí,México
+5f2ed914a87abd287ed66ddf,color,4,top_left,3,Yes,Rombo,2023-05-11 05:45:15,Sí,México
+613a5b00c33045ced8a17de0,color,2,top_right,0,No,Rectángulo,2023-05-11 05:45:18,Sí,México
+613a5b00c33045ced8a17de0,color,1,top_left,1,Yes,Cuadrado,2023-05-11 05:45:18,Sí,México
+613a5b00c33045ced8a17de0,color,4,bottom_left,2,Yes,Corazón,2023-05-11 05:45:18,Sí,México
+613a5b00c33045ced8a17de0,color,3,bottom_right,3,No,Triángulo,2023-05-11 05:45:18,Sí,México
+613a65aaf5d6e392ce2aacab,color,2,bottom_left,0,Yes,cuadrado rosa,2023-05-11 05:45:30,Sí,México
+613a65aaf5d6e392ce2aacab,color,1,top_left,1,Yes,cuadrado azul,2023-05-11 05:45:30,Sí,México
+613a65aaf5d6e392ce2aacab,color,4,bottom_right,2,No,cruz morada,2023-05-11 05:45:30,Sí,México
+613a65aaf5d6e392ce2aacab,color,3,top_right,3,No,rectangulo amarillo,2023-05-11 05:45:30,Sí,México
+613af13642b513858106d59c,color,1,bottom_right,0,No,Triangulo,2023-05-11 05:45:41,Sí,México
+613af13642b513858106d59c,color,2,top_right,1,No,Cuadrado,2023-05-11 05:45:41,Sí,México
+613af13642b513858106d59c,color,3,bottom_left,2,Yes,Circulo,2023-05-11 05:45:41,Sí,México
+613af13642b513858106d59c,color,4,top_left,3,Yes,Rombo,2023-05-11 05:45:41,Sí,México
+5b146e7bc85dc40001624518,color,3,bottom_left,0,Yes,Círculo ,2023-05-11 05:45:41,Sí,México
+5b146e7bc85dc40001624518,color,1,top_left,1,Yes,Cuadrado,2023-05-11 05:45:41,Sí,México
+5b146e7bc85dc40001624518,color,4,top_right,2,No,Rectángulo,2023-05-11 05:45:41,Sí,México
+5b146e7bc85dc40001624518,color,2,bottom_right,3,No,Círculo ,2023-05-11 05:45:41,Sí,México
+613aef3d9041bcd28952af82,color,4,top_right,0,No,Rectángulo naranja,2023-05-11 05:45:44,Sí,México
+613aef3d9041bcd28952af82,color,2,bottom_right,1,No,Circulo amarillo,2023-05-11 05:45:44,Sí,México
+613aef3d9041bcd28952af82,color,1,top_left,2,Yes,Cuadrado azul,2023-05-11 05:45:44,Sí,México
+613aef3d9041bcd28952af82,color,3,bottom_left,3,Yes,Circulo gris,2023-05-11 05:45:44,Sí,México
+5ee598a147e0e12d910f1f1c,color,3,bottom_right,0,No,Triangulo amarillo,2023-05-11 05:46:19,Sí,México
+5ee598a147e0e12d910f1f1c,color,1,top_right,1,No,Sol cafe,2023-05-11 05:46:19,Sí,México
+5ee598a147e0e12d910f1f1c,color,2,bottom_left,2,Yes,cuadrado rosado,2023-05-11 05:46:19,Sí,México
+5ee598a147e0e12d910f1f1c,color,4,top_left,3,Yes,Rombo gris,2023-05-11 05:46:19,Sí,México
+5ec5a561c1172f5f55cfb425,color,1,top_left,0,Yes,Cuadrado,2023-05-11 05:47:04,Sí,México
+5ec5a561c1172f5f55cfb425,color,4,bottom_right,1,No,Cruz,2023-05-11 05:47:04,Sí,México
+5ec5a561c1172f5f55cfb425,color,2,top_right,2,No,Rectangulo,2023-05-11 05:47:04,Sí,México
+5ec5a561c1172f5f55cfb425,color,3,bottom_left,3,Yes,Circulo,2023-05-11 05:47:04,Sí,México
+610b0e8c8cd09a0c933773e6,color,3,bottom_left,0,Yes,Elipse,2023-05-11 05:47:13,Sí,México
+610b0e8c8cd09a0c933773e6,color,2,top_left,1,Yes,Rectangulo,2023-05-11 05:47:13,Sí,México
+610b0e8c8cd09a0c933773e6,color,1,top_right,2,No,sol,2023-05-11 05:47:13,Sí,México
+610b0e8c8cd09a0c933773e6,color,4,bottom_right,3,No,cruz,2023-05-11 05:47:13,Sí,México
+6169abd4e006adba4739143e,color,4,bottom_right,0,No,Cruz morada,2023-05-11 05:47:36,Sí,México
+6169abd4e006adba4739143e,color,3,top_left,1,Yes,Estrella rosa,2023-05-11 05:47:36,Sí,México
+6169abd4e006adba4739143e,color,1,top_right,2,No,Sol cafe,2023-05-11 05:47:36,Sí,México
+6169abd4e006adba4739143e,color,2,bottom_left,3,Yes,Cuadrado rosa,2023-05-11 05:47:36,Sí,México
+613a9a6706cc935aaa23a024,color,2,top_left,0,Yes,rectangulo,2023-05-11 05:47:43,Sí,México
+613a9a6706cc935aaa23a024,color,3,bottom_right,1,No,triangulo,2023-05-11 05:47:43,Sí,México
+613a9a6706cc935aaa23a024,color,4,bottom_left,2,Yes,corazon,2023-05-11 05:47:43,Sí,México
+613a9a6706cc935aaa23a024,color,1,top_right,3,No,sol,2023-05-11 05:47:43,Sí,México
+5b5fdd52b36c3400014718b9,color,1,bottom_right,0,No,Triángulo ,2023-05-11 05:48:32,Sí,México
+5b5fdd52b36c3400014718b9,color,3,top_right,1,No,Rectángulo,2023-05-11 05:48:32,Sí,México
+5b5fdd52b36c3400014718b9,color,2,bottom_left,2,Yes,Cuadrado,2023-05-11 05:48:32,Sí,México
+5b5fdd52b36c3400014718b9,color,4,top_left,3,Yes,Rombo ,2023-05-11 05:48:32,Sí,México
+5a874306f49c9a0001f39714,color,1,top_left,0,Yes,Cuadrado azul,2023-05-11 05:48:33,Sí,México
+5a874306f49c9a0001f39714,color,2,bottom_left,1,Yes,Cuadrado rosa,2023-05-11 05:48:33,Sí,México
+5a874306f49c9a0001f39714,color,4,bottom_right,2,No,Cruz lila,2023-05-11 05:48:33,Sí,México
+5a874306f49c9a0001f39714,color,3,top_right,3,No,Rectangulo amarillo,2023-05-11 05:48:33,Sí,México
+6154a767d31eb4e4eb25366e,color,2,top_left,0,Yes,Rectangulo Rosa,2023-05-11 05:48:58,Sí,México
+6154a767d31eb4e4eb25366e,color,3,top_right,1,No,Rectangulo Amarillo,2023-05-11 05:48:58,Sí,México
+6154a767d31eb4e4eb25366e,color,4,bottom_left,2,Yes,Corazon Rojo,2023-05-11 05:48:58,Sí,México
+6154a767d31eb4e4eb25366e,color,1,bottom_right,3,No,Triangulo Rosa,2023-05-11 05:48:58,Sí,México
+61026b6b389c99fba84cb5ed,color,2,bottom_right,0,No,Círculo amarillo,2023-05-11 05:49:10,Sí,México
+61026b6b389c99fba84cb5ed,color,3,top_right,1,No,Rectángulo amarillo,2023-05-11 05:49:10,Sí,México
+61026b6b389c99fba84cb5ed,color,4,top_left,2,Yes,Rombo gris,2023-05-11 05:49:10,Sí,México
+61026b6b389c99fba84cb5ed,color,1,bottom_left,3,Yes,Corazón morado ,2023-05-11 05:49:10,Sí,México
+613a90797c260bf490fabae6,color,1,top_right,0,No,Sol,2023-05-11 05:49:45,Sí,México
+613a90797c260bf490fabae6,color,4,bottom_right,1,No,Cruz,2023-05-11 05:49:45,Sí,México
+613a90797c260bf490fabae6,color,3,top_left,2,Yes,Estrella,2023-05-11 05:49:45,Sí,México
+613a90797c260bf490fabae6,color,2,bottom_left,3,Yes,Cuadrado,2023-05-11 05:49:45,Sí,México
+613a9700bf01a93d7008c3f7,color,4,bottom_left,0,Yes,corazón,2023-05-11 05:50:01,Sí,México
+613a9700bf01a93d7008c3f7,color,2,bottom_right,1,No,círculo,2023-05-11 05:50:01,Sí,México
+613a9700bf01a93d7008c3f7,color,1,top_left,2,Yes,cuadrado,2023-05-11 05:50:01,Sí,México
+613a9700bf01a93d7008c3f7,color,3,top_right,3,No,rectángulo,2023-05-11 05:50:01,Sí,México
+5f2f022e2839112ca9ada0ed,color,3,bottom_left,0,Yes,CIRCULO,2023-05-11 05:50:01,Sí,México
+5f2f022e2839112ca9ada0ed,color,1,top_right,1,No,sol,2023-05-11 05:50:01,Sí,México
+5f2f022e2839112ca9ada0ed,color,2,bottom_right,2,No,circulo amarillo,2023-05-11 05:50:01,Sí,México
+5f2f022e2839112ca9ada0ed,color,4,top_left,3,Yes,rombo gris,2023-05-11 05:50:01,Sí,México
+5f24dcf6dd9834112f4db16b,color,2,top_left,0,Yes,rectangulo rosa,2023-05-11 05:50:46,Sí,México
+5f24dcf6dd9834112f4db16b,color,4,bottom_left,1,Yes,corazon rojo,2023-05-11 05:50:46,Sí,México
+5f24dcf6dd9834112f4db16b,color,1,top_right,2,No,sol cafe,2023-05-11 05:50:46,Sí,México
+5f24dcf6dd9834112f4db16b,color,3,bottom_right,3,No,triangulo amarillo,2023-05-11 05:50:46,Sí,México
+614a4c9d8172751921452626,color,1,top_left,0,Yes,cuadrado azul,2023-05-11 05:51:04,Sí,México
+614a4c9d8172751921452626,color,3,top_right,1,No,rectangulo amarillo,2023-05-11 05:51:04,Sí,México
+614a4c9d8172751921452626,color,2,bottom_left,2,Yes,cuadrado rosa,2023-05-11 05:51:04,Sí,México
+614a4c9d8172751921452626,color,4,bottom_right,3,No,cruz morada,2023-05-11 05:51:04,Sí,México
+61574002e457b8c50f26f997,color,1,top_left,0,Yes,Cuadrado,2023-05-11 05:51:07,Sí,México
+61574002e457b8c50f26f997,color,3,top_right,1,No,Rectangulo,2023-05-11 05:51:07,Sí,México
+61574002e457b8c50f26f997,color,4,bottom_right,2,No,Cruz,2023-05-11 05:51:07,Sí,México
+61574002e457b8c50f26f997,color,2,bottom_left,3,Yes,Cuadrado,2023-05-11 05:51:07,Sí,México
+5b3c4027c49ecb00010aaeac,color,4,bottom_right,0,No,Cruz,2023-05-11 05:51:31,Sí,México
+5b3c4027c49ecb00010aaeac,color,3,top_left,1,Yes,Estrella,2023-05-11 05:51:31,Sí,México
+5b3c4027c49ecb00010aaeac,color,2,bottom_left,2,Yes,Cuadrado,2023-05-11 05:51:31,Sí,México
+5b3c4027c49ecb00010aaeac,color,1,top_right,3,No,Sol,2023-05-11 05:51:31,Sí,México
+60d9f8e32649745acc7282b6,color,1,bottom_left,0,Yes,Corazón ,2023-05-11 05:52:05,Sí,México
+60d9f8e32649745acc7282b6,color,2,top_right,1,No,Rectángulo ,2023-05-11 05:52:05,Sí,México
+60d9f8e32649745acc7282b6,color,3,top_left,2,Yes,Estrella ,2023-05-11 05:52:05,Sí,México
+60d9f8e32649745acc7282b6,color,4,bottom_right,3,No,Cruz,2023-05-11 05:52:05,Sí,México
+6147fc2923f18e1bb91684cc,color,4,bottom_left,0,Yes,Corazón,2023-05-11 05:52:32,Sí,México
+6147fc2923f18e1bb91684cc,color,2,top_left,1,Yes,rectángulo rosa,2023-05-11 05:52:32,Sí,México
+6147fc2923f18e1bb91684cc,color,1,bottom_right,2,No,Triangulo ,2023-05-11 05:52:32,Sí,México
+6147fc2923f18e1bb91684cc,color,3,top_right,3,No,Rectángulo amarillo,2023-05-11 05:52:32,Sí,México
+616f423e8893bea6dd1e7f52,color,4,bottom_left,0,Yes,Corazón ,2023-05-11 05:52:40,Sí,México
+616f423e8893bea6dd1e7f52,color,1,top_left,1,Yes,Cuadrado ,2023-05-11 05:52:40,Sí,México
+616f423e8893bea6dd1e7f52,color,3,bottom_right,2,No,Triángulo ,2023-05-11 05:52:40,Sí,México
+616f423e8893bea6dd1e7f52,color,2,top_right,3,No,Rectángulo ,2023-05-11 05:52:40,Sí,México
+5fd9835f24952f26449951b5,color,2,top_right,0,No,Rectángulo ,2023-05-11 05:53:07,Sí,México
+5fd9835f24952f26449951b5,color,3,bottom_right,1,No,Triángulo ,2023-05-11 05:53:07,Sí,México
+5fd9835f24952f26449951b5,color,1,top_left,2,Yes,Cuadrado ,2023-05-11 05:53:07,Sí,México
+5fd9835f24952f26449951b5,color,4,bottom_left,3,Yes,Corazón ,2023-05-11 05:53:07,Sí,México
+5fd9835f24952f26449951b5,color,2,top_right,0,No,Rectángulo ,2023-05-11 05:53:07,Sí,México
+5fd9835f24952f26449951b5,color,3,bottom_right,1,No,Triángulo ,2023-05-11 05:53:07,Sí,México
+5fd9835f24952f26449951b5,color,1,top_left,2,Yes,Cuadrado ,2023-05-11 05:53:07,Sí,México
+5fd9835f24952f26449951b5,color,4,bottom_left,3,Yes,Corazón ,2023-05-11 05:53:07,Sí,México
+613c542c957161802d700fb2,color,1,top_right,0,No,Sol,2023-05-11 05:53:42,Sí,México
+613c542c957161802d700fb2,color,2,bottom_right,1,No,Circulo ,2023-05-11 05:53:42,Sí,México
+613c542c957161802d700fb2,color,4,bottom_left,2,Yes,Corazon,2023-05-11 05:53:42,Sí,México
+613c542c957161802d700fb2,color,3,top_left,3,Yes,Estrella,2023-05-11 05:53:42,Sí,México
+5b6fc83e8d336b0001fe77b4,color,3,bottom_right,0,No,Triángulo,2023-05-11 05:54:20,Sí,México
+5b6fc83e8d336b0001fe77b4,color,2,top_right,1,No,Rectángulo,2023-05-11 05:54:20,Sí,México
+5b6fc83e8d336b0001fe77b4,color,1,top_left,2,Yes,Cuadrado,2023-05-11 05:54:20,Sí,México
+5b6fc83e8d336b0001fe77b4,color,4,bottom_left,3,Yes,Corazón,2023-05-11 05:54:20,Sí,México
+5f51e7c33457c443748e637b,color,1,top_left,0,Yes,cuadrado azul,2023-05-11 05:54:37,Sí,México
+5f51e7c33457c443748e637b,color,3,top_right,1,No,rectángulo amarillo,2023-05-11 05:54:37,Sí,México
+5f51e7c33457c443748e637b,color,2,bottom_left,2,Yes,cuadrado rosa,2023-05-11 05:54:37,Sí,México
+5f51e7c33457c443748e637b,color,4,bottom_right,3,No,cruz morada,2023-05-11 05:54:37,Sí,México
+5d89d199b97096000113dbd7,color,4,bottom_left,0,Yes,Corazón,2023-05-11 05:54:38,Sí,México
+5d89d199b97096000113dbd7,color,2,bottom_right,1,No,Círculo ,2023-05-11 05:54:38,Sí,México
+5d89d199b97096000113dbd7,color,3,top_left,2,Yes,EstrellaS,2023-05-11 05:54:38,Sí,México
+5d89d199b97096000113dbd7,color,1,top_right,3,No,Sol,2023-05-11 05:54:38,Sí,México
+5fca888982a09a6a47620777,color,1,top_left,0,Yes,Cuadrado,2023-05-11 05:54:45,Sí,México
+5fca888982a09a6a47620777,color,4,bottom_left,1,Yes,Corazón,2023-05-11 05:54:45,Sí,México
+5fca888982a09a6a47620777,color,3,top_right,2,No,Rectángulo,2023-05-11 05:54:45,Sí,México
+5fca888982a09a6a47620777,color,2,bottom_right,3,No,Cículo,2023-05-11 05:54:45,Sí,México
+5eccb086d314a0887ac5c3b5,color,4,top_left,0,Yes,rombo,2023-05-11 05:54:51,Sí,México
+5eccb086d314a0887ac5c3b5,color,2,bottom_left,1,Yes,cuadrado,2023-05-11 05:54:51,Sí,México
+5eccb086d314a0887ac5c3b5,color,3,bottom_right,2,No,triángulo,2023-05-11 05:54:51,Sí,México
+5eccb086d314a0887ac5c3b5,color,1,top_right,3,No,sol,2023-05-11 05:54:51,Sí,México
+6024b5a0ca05f21e73014103,color,4,bottom_left,0,Yes,corazón rojo,2023-05-11 05:55:39,Sí,México
+6024b5a0ca05f21e73014103,color,1,top_right,1,No,sol marrón,2023-05-11 05:55:39,Sí,México
+6024b5a0ca05f21e73014103,color,2,top_left,2,Yes,rectángulo rosado,2023-05-11 05:55:39,Sí,México
+6024b5a0ca05f21e73014103,color,3,bottom_right,3,No,triángulo amarillo,2023-05-11 05:55:39,Sí,México
+6154b3a7e4bc93e1ce93c6bc,color,3,top_left,0,Yes,estrella rosa,2023-05-11 05:55:41,Sí,México
+6154b3a7e4bc93e1ce93c6bc,color,1,top_right,1,No,sol cafe,2023-05-11 05:55:41,Sí,México
+6154b3a7e4bc93e1ce93c6bc,color,4,bottom_right,2,No,cruz morada,2023-05-11 05:55:41,Sí,México
+6154b3a7e4bc93e1ce93c6bc,color,2,bottom_left,3,Yes,cuadrado rosa,2023-05-11 05:55:41,Sí,México
+616b06e97addc4a9a638909e,color,3,bottom_left,0,Yes,Círculo gris,2023-05-11 05:56:50,Sí,México
+616b06e97addc4a9a638909e,color,1,bottom_right,1,No,Triángulo rosa,2023-05-11 05:56:50,Sí,México
+616b06e97addc4a9a638909e,color,4,top_left,2,Yes,Rombo gris,2023-05-11 05:56:50,Sí,México
+616b06e97addc4a9a638909e,color,2,top_right,3,No,Rectángulo amarillo ,2023-05-11 05:56:50,Sí,México
+61612589346d8995f94f2dc9,color,1,top_right,0,No,sol,2023-05-11 05:56:52,Sí,México
+61612589346d8995f94f2dc9,color,4,bottom_right,1,No,cruz,2023-05-11 05:56:52,Sí,México
+61612589346d8995f94f2dc9,color,3,bottom_left,2,Yes,círculo ,2023-05-11 05:56:52,Sí,México
+61612589346d8995f94f2dc9,color,2,top_left,3,Yes,rectángulo ,2023-05-11 05:56:52,Sí,México
+5ae5474458af2400010a3a54,color,4,top_left,0,Yes,Rombo gris,2023-05-11 05:58:44,Sí,México
+5ae5474458af2400010a3a54,color,2,top_right,1,No,Rectangulo amarillo,2023-05-11 05:58:44,Sí,México
+5ae5474458af2400010a3a54,color,3,bottom_right,2,No,Triangulo amarillo,2023-05-11 05:58:44,Sí,México
+5ae5474458af2400010a3a54,color,1,bottom_left,3,Yes,Corazón morado o purpura,2023-05-11 05:58:44,Sí,México
+5f6785ff73bbcf3923de77cc,color,2,top_right,0,No,Rectángulo ,2023-05-11 05:58:57,Sí,México
+5f6785ff73bbcf3923de77cc,color,4,bottom_left,1,Yes,Corazón ,2023-05-11 05:58:57,Sí,México
+5f6785ff73bbcf3923de77cc,color,1,top_left,2,Yes,Cuadrado,2023-05-11 05:58:57,Sí,México
+5f6785ff73bbcf3923de77cc,color,3,bottom_right,3,No,Triángulo,2023-05-11 05:58:57,Sí,México
+61590846f7687dc33e5ff20c,color,1,bottom_left,0,Yes,corazón morado,2023-05-11 05:59:12,Sí,México
+61590846f7687dc33e5ff20c,color,2,top_right,1,No,rectángulo amarillo,2023-05-11 05:59:12,Sí,México
+61590846f7687dc33e5ff20c,color,4,top_left,2,Yes,rombo gris,2023-05-11 05:59:12,Sí,México
+61590846f7687dc33e5ff20c,color,3,bottom_right,3,No,triángulo amarillo,2023-05-11 05:59:12,Sí,México
+6155e324c9ecb68a99cdede9,color,3,top_left,0,Yes,Es una estrella de cinco puntos de color rosa que se encuentra en la esquina superior izquierda.,2023-05-11 05:59:43,Sí,México
+6155e324c9ecb68a99cdede9,color,4,top_right,1,No,Es un rectángulo naranja que se encuentra en la esquina superior derecha,2023-05-11 05:59:43,Sí,México
+6155e324c9ecb68a99cdede9,color,1,bottom_left,2,Yes,Un corazón morado que se encuentra en la esquina inferior izquierda,2023-05-11 05:59:43,Sí,México
+6155e324c9ecb68a99cdede9,color,2,bottom_right,3,No,Círculo amarillo que se encuentra en la esquina inferior derecha ,2023-05-11 05:59:43,Sí,México
+61413300c9d2346cfb3d9ca5,color,4,top_left,0,Yes,Rombo gris,2023-05-11 06:00:31,Sí,México
+61413300c9d2346cfb3d9ca5,color,2,bottom_left,1,Yes,Cuadrado rosa,2023-05-11 06:00:31,Sí,México
+61413300c9d2346cfb3d9ca5,color,1,top_right,2,No,Sol café,2023-05-11 06:00:31,Sí,México
+61413300c9d2346cfb3d9ca5,color,3,bottom_right,3,No,Triángulo equilátero amarillo,2023-05-11 06:00:31,Sí,México
+6135336b7ffeb440e6a0f042,color,2,top_left,0,Yes,Rectángulo ,2023-05-11 06:00:41,Sí,México
+6135336b7ffeb440e6a0f042,color,3,top_right,1,No,Rectángulo ,2023-05-11 06:00:41,Sí,México
+6135336b7ffeb440e6a0f042,color,1,bottom_right,2,No,Triangulo ,2023-05-11 06:00:41,Sí,México
+6135336b7ffeb440e6a0f042,color,4,bottom_left,3,Yes,Corazón ,2023-05-11 06:00:41,Sí,México
+5ea8176676434f02a39db063,color,2,bottom_right,0,No,Círculo amarillo,2023-05-11 06:01:02,Sí,México
+5ea8176676434f02a39db063,color,4,top_left,1,Yes,Rombo gris,2023-05-11 06:01:02,Sí,México
+5ea8176676434f02a39db063,color,3,bottom_left,2,Yes,Círculo gris,2023-05-11 06:01:02,Sí,México
+5ea8176676434f02a39db063,color,1,top_right,3,No,Estrella café,2023-05-11 06:01:02,Sí,México
+5d9f84ebb9f68200173e3c58,color,1,bottom_right,0,No,triangulo rosa,2023-05-11 06:04:20,Sí,México
+5d9f84ebb9f68200173e3c58,color,2,bottom_left,1,Yes,cuadrado rosa,2023-05-11 06:04:20,Sí,México
+5d9f84ebb9f68200173e3c58,color,3,top_right,2,No,rectangulo amarillo,2023-05-11 06:04:20,Sí,México
+5d9f84ebb9f68200173e3c58,color,4,top_left,3,Yes,figura de cuatro lados color lila,2023-05-11 06:04:20,Sí,México
+613a80cc61f7aa5309b8acb3,color,2,top_left,0,Yes,Rectángulo ,2023-05-11 06:05:17,Sí,México
+613a80cc61f7aa5309b8acb3,color,1,top_right,1,No,Sol,2023-05-11 06:05:17,Sí,México
+613a80cc61f7aa5309b8acb3,color,3,bottom_right,2,No,Triángulo ,2023-05-11 06:05:17,Sí,México
+613a80cc61f7aa5309b8acb3,color,4,bottom_left,3,Yes,Corazón ,2023-05-11 06:05:17,Sí,México
+5edd2e458f29cfa351de300d,color,1,top_right,0,No,La figura en el cuadro rojo se asemeja a un sol ,2023-05-11 06:05:28,Sí,México
+5edd2e458f29cfa351de300d,color,3,bottom_right,1,No,La figura en el cuadro rojo se asemeja a un triangulo ,2023-05-11 06:05:28,Sí,México
+5edd2e458f29cfa351de300d,color,2,bottom_left,2,Yes,La figura en el cuadro rojo se asemeja a un cuadrado,2023-05-11 06:05:28,Sí,México
+5edd2e458f29cfa351de300d,color,4,top_left,3,Yes,La figura en el cuadro rojo se asemeja a un rombo ,2023-05-11 06:05:28,Sí,México
+61764d66dde556a8e0d03c14,color,2,bottom_right,0,No,círculo amarillo,2023-05-11 06:06:21,Sí,México
+61764d66dde556a8e0d03c14,color,4,top_right,1,No,rectángulo naranja,2023-05-11 06:06:21,Sí,México
+61764d66dde556a8e0d03c14,color,3,top_left,2,Yes,estrella rosa,2023-05-11 06:06:21,Sí,México
+61764d66dde556a8e0d03c14,color,1,bottom_left,3,Yes,corazón morado,2023-05-11 06:06:21,Sí,México
+615e67a92bcd04cb496d647a,color,4,bottom_left,0,Yes,Corazón ,2023-05-11 06:06:51,Sí,México
+615e67a92bcd04cb496d647a,color,3,bottom_right,1,No,Triángulo ,2023-05-11 06:06:51,Sí,México
+615e67a92bcd04cb496d647a,color,2,top_right,2,No,Rectángulo ,2023-05-11 06:06:51,Sí,México
+615e67a92bcd04cb496d647a,color,1,top_left,3,Yes,Cuadrado ,2023-05-11 06:06:51,Sí,México
+5cd9cd20300c8c00016ea1c4,color,4,top_right,0,No,rectangulo naranja,2023-05-11 06:07:10,Sí,México
+5cd9cd20300c8c00016ea1c4,color,2,top_left,1,Yes,rectangulo rosa,2023-05-11 06:07:10,Sí,México
+5cd9cd20300c8c00016ea1c4,color,1,bottom_left,2,Yes,corazon purpura,2023-05-11 06:07:10,Sí,México
+5cd9cd20300c8c00016ea1c4,color,3,bottom_right,3,No,triangulo amarillo,2023-05-11 06:07:10,Sí,México
+5ba85b3a46de410001ecf951,color,1,top_left,0,Yes,cuadrado azul,2023-05-11 06:07:45,Sí,México
+5ba85b3a46de410001ecf951,color,3,top_right,1,No,rectangulo amarillo,2023-05-11 06:07:45,Sí,México
+5ba85b3a46de410001ecf951,color,2,bottom_left,2,Yes,cuadrado rosa,2023-05-11 06:07:45,Sí,México
+5ba85b3a46de410001ecf951,color,4,bottom_right,3,No,cruz purpura,2023-05-11 06:07:45,Sí,México
+5b89b952b660de0001f2f636,color,3,top_left,0,Yes,Estrella rosa,2023-05-11 06:09:12,Sí,México
+5b89b952b660de0001f2f636,color,1,top_right,1,No,Sol café ,2023-05-11 06:09:12,Sí,México
+5b89b952b660de0001f2f636,color,2,bottom_right,2,No,Círculo amarillo,2023-05-11 06:09:12,Sí,México
+5b89b952b660de0001f2f636,color,4,bottom_left,3,Yes,Corazón rojo,2023-05-11 06:09:12,Sí,México
+61400425790ab5dbef568393,color,3,top_left,0,Yes,Estrella rosa,2023-05-11 06:10:31,Sí,México
+61400425790ab5dbef568393,color,2,bottom_left,1,Yes,Cuadrado rosa,2023-05-11 06:10:31,Sí,México
+61400425790ab5dbef568393,color,4,bottom_right,2,No,Morado,2023-05-11 06:10:31,Sí,México
+61400425790ab5dbef568393,color,1,top_right,3,No,Café ,2023-05-11 06:10:31,Sí,México
+613b7bdc3a329ab20c067d1a,color,3,top_left,0,Yes,estrella rosa,2023-05-11 06:11:39,Sí,México
+613b7bdc3a329ab20c067d1a,color,2,bottom_left,1,Yes,cuadrado rosa,2023-05-11 06:11:39,Sí,México
+613b7bdc3a329ab20c067d1a,color,1,bottom_right,2,No,triángulo rosa,2023-05-11 06:11:39,Sí,México
+613b7bdc3a329ab20c067d1a,color,4,top_right,3,No,rectángulo naranja,2023-05-11 06:11:39,Sí,México
+5f6c343552bdce1aedca6ae1,color,2,bottom_right,0,No,Círculo amarillo,2023-05-11 06:12:16,Sí,México
+5f6c343552bdce1aedca6ae1,color,3,top_right,1,No,Rectángulo amarillo,2023-05-11 06:12:16,Sí,México
+5f6c343552bdce1aedca6ae1,color,1,bottom_left,2,Yes,Corazón morado,2023-05-11 06:12:16,Sí,México
+5f6c343552bdce1aedca6ae1,color,4,top_left,3,Yes,Rombo gris,2023-05-11 06:12:16,Sí,México
+5ec0767b706cd80e18d8d239,color,2,bottom_left,0,Yes,Cuadrado Rosa,2023-05-11 06:12:50,Sí,México
+5ec0767b706cd80e18d8d239,color,3,top_right,1,No,Rectángulo Amarillo ,2023-05-11 06:12:50,Sí,México
+5ec0767b706cd80e18d8d239,color,1,bottom_right,2,No,Triángulo Morado,2023-05-11 06:12:50,Sí,México
+5ec0767b706cd80e18d8d239,color,4,top_left,3,Yes,Diamante gris ,2023-05-11 06:12:50,Sí,México
+5f5729f8eb21501a1a407330,color,2,bottom_right,0,No,Círculo Amarillo,2023-05-11 06:13:18,Sí,México
+5f5729f8eb21501a1a407330,color,1,bottom_left,1,Yes,Corazón Morado,2023-05-11 06:13:18,Sí,México
+5f5729f8eb21501a1a407330,color,3,top_right,2,No,Rectángulo Amarillo,2023-05-11 06:13:18,Sí,México
+5f5729f8eb21501a1a407330,color,4,top_left,3,Yes,Diamante Gris,2023-05-11 06:13:18,Sí,México
+6047b38939f7610352261d47,color,4,top_left,0,Yes,rombo gris,2023-05-11 06:13:49,Sí,México
+6047b38939f7610352261d47,color,2,top_right,1,No,rectángulo amarillo,2023-05-11 06:13:49,Sí,México
+6047b38939f7610352261d47,color,1,bottom_left,2,Yes,Corazón purpura,2023-05-11 06:13:49,Sí,México
+6047b38939f7610352261d47,color,3,bottom_right,3,No,Triángulo amarillo,2023-05-11 06:13:49,Sí,México
+613bc7f851aaeed5e879f7cb,color,3,top_left,0,Yes,estrella rosa,2023-05-11 06:14:20,Sí,México
+613bc7f851aaeed5e879f7cb,color,2,top_right,1,No,rectangulo amarillo,2023-05-11 06:14:20,Sí,México
+613bc7f851aaeed5e879f7cb,color,4,bottom_left,2,Yes,corazon rojo,2023-05-11 06:14:20,Sí,México
+613bc7f851aaeed5e879f7cb,color,1,bottom_right,3,No,triangulo rosa,2023-05-11 06:14:20,Sí,México
+5bdf91dbb32fa800012ea282,color,4,top_right,0,No,RECTANGULO NARANJA,2023-05-11 06:18:01,Sí,México
+5bdf91dbb32fa800012ea282,color,1,top_left,1,Yes,CUADRADO AZUL,2023-05-11 06:18:01,Sí,México
+5bdf91dbb32fa800012ea282,color,2,bottom_left,2,Yes,CUADRADO PURPURA,2023-05-11 06:18:01,Sí,México
+5bdf91dbb32fa800012ea282,color,3,bottom_right,3,No,TRIANGULO AMARILLO,2023-05-11 06:18:01,Sí,México
+613fbc436c2add6e4078a1a3,color,2,bottom_left,0,Yes,Cuadrado,2023-05-11 06:18:30,Sí,México
+613fbc436c2add6e4078a1a3,color,4,bottom_right,1,No,Cruz,2023-05-11 06:18:30,Sí,México
+613fbc436c2add6e4078a1a3,color,3,top_right,2,No,Rectángulo ,2023-05-11 06:18:30,Sí,México
+613fbc436c2add6e4078a1a3,color,1,top_left,3,Yes,Cuadrado ,2023-05-11 06:18:30,Sí,México
+5b67e3d982d9db000118efc9,color,2,top_right,0,No,Rectángulo,2023-05-11 06:18:47,Sí,México
+5b67e3d982d9db000118efc9,color,1,bottom_left,1,Yes,Corazón,2023-05-11 06:18:47,Sí,México
+5b67e3d982d9db000118efc9,color,4,top_left,2,Yes,Rombo,2023-05-11 06:18:47,Sí,México
+5b67e3d982d9db000118efc9,color,3,bottom_right,3,No,Triángulo,2023-05-11 06:18:47,Sí,México
+613bd3a683a2ac56a4119aa6,color,3,top_left,0,Yes,Estrella,2023-05-11 06:19:11,Sí,México
+613bd3a683a2ac56a4119aa6,color,4,top_right,1,No,Rectángulo ,2023-05-11 06:19:11,Sí,México
+613bd3a683a2ac56a4119aa6,color,2,bottom_left,2,Yes,Cuadrado,2023-05-11 06:19:11,Sí,México
+613bd3a683a2ac56a4119aa6,color,1,bottom_right,3,No,Triángulo ,2023-05-11 06:19:11,Sí,México
+5f9a045da6c3431141e8339d,color,2,top_right,0,No,Rectángulo amarillo ,2023-05-11 06:19:38,Sí,México
+5f9a045da6c3431141e8339d,color,3,bottom_right,1,No,triángulo amarillo,2023-05-11 06:19:38,Sí,México
+5f9a045da6c3431141e8339d,color,1,bottom_left,2,Yes,Corazón púrpura,2023-05-11 06:19:38,Sí,México
+5f9a045da6c3431141e8339d,color,4,top_left,3,Yes,Rombo gris,2023-05-11 06:19:38,Sí,México
+5e9569e57ca863415e6359bc,color,3,top_left,0,Yes,esta figura es una estrella rosa,2023-05-11 06:21:28,Sí,México
+5e9569e57ca863415e6359bc,color,2,top_right,1,No,esta figura es un rectangulo amarillo,2023-05-11 06:21:28,Sí,México
+5e9569e57ca863415e6359bc,color,4,bottom_right,2,No,esta figura es una cruz morada,2023-05-11 06:21:28,Sí,México
+5e9569e57ca863415e6359bc,color,1,bottom_left,3,Yes,esta figura es un corazón morado,2023-05-11 06:21:28,Sí,México
+6169118652b41396875833ee,color,2,top_right,0,No,rectangulo,2023-05-11 06:21:56,Sí,México
+6169118652b41396875833ee,color,1,top_left,1,Yes,cuadrado,2023-05-11 06:21:56,Sí,México
+6169118652b41396875833ee,color,4,bottom_right,2,No,cruz,2023-05-11 06:21:56,Sí,México
+6169118652b41396875833ee,color,3,bottom_left,3,Yes,circulo,2023-05-11 06:21:56,Sí,México
+613ee464768f4be3b5ff3eaa,color,4,bottom_left,0,Yes,Corazón rojo,2023-05-11 06:22:13,Sí,México
+613ee464768f4be3b5ff3eaa,color,3,bottom_right,1,No,Triangulo amarillo,2023-05-11 06:22:13,Sí,México
+613ee464768f4be3b5ff3eaa,color,2,top_left,2,Yes,Rectangulo rosa,2023-05-11 06:22:13,Sí,México
+613ee464768f4be3b5ff3eaa,color,1,top_right,3,No,Sol marrón,2023-05-11 06:22:13,Sí,México
+6139133041546096188da709,color,2,top_right,0,No,rectángulo,2023-05-11 06:23:14,Sí,México
+6139133041546096188da709,color,4,bottom_right,1,No,cruz,2023-05-11 06:23:14,Sí,México
+6139133041546096188da709,color,1,bottom_left,2,Yes,corazón,2023-05-11 06:23:14,Sí,México
+6139133041546096188da709,color,3,top_left,3,Yes,estrella,2023-05-11 06:23:14,Sí,México
+5daf37b9c26dbe0010a1248c,color,4,bottom_right,0,No,cruz morada,2023-05-11 06:23:18,Sí,México
+5daf37b9c26dbe0010a1248c,color,2,bottom_left,1,Yes,cuadro rosa,2023-05-11 06:23:18,Sí,México
+5daf37b9c26dbe0010a1248c,color,1,top_left,2,Yes,cuadro azúl,2023-05-11 06:23:18,Sí,México
+5daf37b9c26dbe0010a1248c,color,3,top_right,3,No,rectángulo amarillo,2023-05-11 06:23:18,Sí,México
+60db9a1eb82917b04a2f99fa,color,1,bottom_right,0,No,Triangulo,2023-05-11 06:24:38,Sí,México
+60db9a1eb82917b04a2f99fa,color,3,top_left,1,Yes,Estrella,2023-05-11 06:24:38,Sí,México
+60db9a1eb82917b04a2f99fa,color,4,top_right,2,No,Rectangulo,2023-05-11 06:24:38,Sí,México
+60db9a1eb82917b04a2f99fa,color,2,bottom_left,3,Yes,Cuadrado,2023-05-11 06:24:38,Sí,México
+614386aaad55b05aa5c7767e,color,2,top_right,0,No,Rectángulo amarillo,2023-05-11 06:24:39,Sí,México
+614386aaad55b05aa5c7767e,color,3,top_left,1,Yes,Estrella rosa,2023-05-11 06:24:39,Sí,México
+614386aaad55b05aa5c7767e,color,1,bottom_left,2,Yes,Corazón morado,2023-05-11 06:24:39,Sí,México
+614386aaad55b05aa5c7767e,color,4,bottom_right,3,No,Más morado,2023-05-11 06:24:39,Sí,México
+5f26f8447f5aab4a652c721d,color,3,bottom_right,0,No,Triángulo,2023-05-11 06:26:10,Sí,Estados Unidos
+5f26f8447f5aab4a652c721d,color,1,top_right,1,No,Sol,2023-05-11 06:26:10,Sí,Estados Unidos
+5f26f8447f5aab4a652c721d,color,4,bottom_left,2,Yes,Corazón,2023-05-11 06:26:10,Sí,Estados Unidos
+5f26f8447f5aab4a652c721d,color,2,top_left,3,Yes,Rectángulo,2023-05-11 06:26:10,Sí,Estados Unidos
+614fb62d27185da9cc2a9a24,color,2,bottom_left,0,Yes,Cuadrado rosa ,2023-05-11 06:26:13,Sí,México
+614fb62d27185da9cc2a9a24,color,4,top_left,1,Yes,Diamante gris ,2023-05-11 06:26:13,Sí,México
+614fb62d27185da9cc2a9a24,color,3,bottom_right,2,No,Triángulo amarillo,2023-05-11 06:26:13,Sí,México
+614fb62d27185da9cc2a9a24,color,1,top_right,3,No,Sol,2023-05-11 06:26:13,Sí,México
+5ff265688f62107122f931f2,color,4,bottom_right,0,No,Cruz morada ,2023-05-11 06:26:48,Sí,México
+5ff265688f62107122f931f2,color,3,top_right,1,No,Rectángulo amarillo,2023-05-11 06:26:48,Sí,México
+5ff265688f62107122f931f2,color,2,bottom_left,2,Yes,Cuadro rosa,2023-05-11 06:26:48,Sí,México
+5ff265688f62107122f931f2,color,1,top_left,3,Yes,Cuadro azul,2023-05-11 06:26:48,Sí,México
+614b6e4a03ded5acfe2ef9b0,color,1,top_left,0,Yes,cuadrado,2023-05-11 06:29:40,Sí,México
+614b6e4a03ded5acfe2ef9b0,color,3,bottom_left,1,Yes,circulo,2023-05-11 06:29:40,Sí,México
+614b6e4a03ded5acfe2ef9b0,color,4,top_right,2,No,rectangulo,2023-05-11 06:29:40,Sí,México
+614b6e4a03ded5acfe2ef9b0,color,2,bottom_right,3,No,circulo,2023-05-11 06:29:40,Sí,México
+5ed9fe560adb8b5a860d8d80,color,3,bottom_left,0,Yes,círculo,2023-05-11 06:30:25,Sí,México
+5ed9fe560adb8b5a860d8d80,color,2,top_left,1,Yes,rectángulo,2023-05-11 06:30:25,Sí,México
+5ed9fe560adb8b5a860d8d80,color,1,top_right,2,No,sol,2023-05-11 06:30:25,Sí,México
+5ed9fe560adb8b5a860d8d80,color,4,bottom_right,3,No,más,2023-05-11 06:30:25,Sí,México
+5b8c8e7d0c740e00019d55c3,color,2,top_right,0,No,Rectángulo amarillo,2023-05-11 06:31:02,Sí,México
+5b8c8e7d0c740e00019d55c3,color,3,bottom_left,1,Yes,Círculo gris.,2023-05-11 06:31:02,Sí,México
+5b8c8e7d0c740e00019d55c3,color,1,top_left,2,Yes,Cuadro azul,2023-05-11 06:31:02,Sí,México
+5b8c8e7d0c740e00019d55c3,color,4,bottom_right,3,No,Cruz morada,2023-05-11 06:31:02,Sí,México
+5eb471789686d82c24661cb3,color,2,top_left,0,Yes,rectángulo,2023-05-11 06:31:09,Sí,México
+5eb471789686d82c24661cb3,color,3,bottom_left,1,Yes,círculo,2023-05-11 06:31:09,Sí,México
+5eb471789686d82c24661cb3,color,1,top_right,2,No,sol,2023-05-11 06:31:09,Sí,México
+5eb471789686d82c24661cb3,color,4,bottom_right,3,No,más,2023-05-11 06:31:09,Sí,México
+600cd05c07aa66461671a98e,color,4,top_right,0,No,Rectángulo  naranja,2023-05-11 06:31:52,Sí,México
+600cd05c07aa66461671a98e,color,2,bottom_right,1,No,Circulo amarillo ,2023-05-11 06:31:52,Sí,México
+600cd05c07aa66461671a98e,color,3,top_left,2,Yes,Estrella rosa,2023-05-11 06:31:52,Sí,México
+600cd05c07aa66461671a98e,color,1,bottom_left,3,Yes,Corazón morado,2023-05-11 06:31:52,Sí,México
+613a80b393cb8128b75cda11,color,2,top_right,0,No,rectángulo amarillo,2023-05-11 06:32:45,Sí,México
+613a80b393cb8128b75cda11,color,1,bottom_right,1,No,triángulo morado,2023-05-11 06:32:45,Sí,México
+613a80b393cb8128b75cda11,color,4,bottom_left,2,Yes,corazón rojo,2023-05-11 06:32:45,Sí,México
+613a80b393cb8128b75cda11,color,3,top_left,3,Yes,estrella morada,2023-05-11 06:32:45,Sí,México
+5bb511c6689fc5000149c703,color,2,top_right,0,No,"Es un rectangulo color amarillo, con borde negro",2023-05-11 06:33:16,Sí,México
+5bb511c6689fc5000149c703,color,1,bottom_right,1,No,Es un triangulo rosa con borde negro,2023-05-11 06:33:16,Sí,México
+5bb511c6689fc5000149c703,color,3,top_left,2,Yes,Es una estrella rosa con borde negro,2023-05-11 06:33:16,Sí,México
+5bb511c6689fc5000149c703,color,4,bottom_left,3,Yes,Es un corazon rojo con borde negro,2023-05-11 06:33:16,Sí,México
+5e830b929f2ed2018ec42099,color,3,top_right,0,No,Rectángulo,2023-05-11 06:33:55,Sí,México
+5e830b929f2ed2018ec42099,color,1,bottom_left,1,Yes,Corazón,2023-05-11 06:33:55,Sí,México
+5e830b929f2ed2018ec42099,color,4,bottom_right,2,No,Signo de más,2023-05-11 06:33:55,Sí,México
+5e830b929f2ed2018ec42099,color,2,top_left,3,Yes,Rectángulo,2023-05-11 06:33:55,Sí,México
+6157cc2ec724bfb545858adc,color,3,top_right,0,No,rectangulo,2023-05-11 06:34:43,Sí,México
+6157cc2ec724bfb545858adc,color,4,top_left,1,Yes,rombo,2023-05-11 06:34:43,Sí,México
+6157cc2ec724bfb545858adc,color,2,bottom_left,2,Yes,cuadrado,2023-05-11 06:34:43,Sí,México
+6157cc2ec724bfb545858adc,color,1,bottom_right,3,No,triangulo ,2023-05-11 06:34:43,Sí,México
+60d6cf661bbe1f28e48040bd,color,3,top_right,0,No,Rectángulo amarillo,2023-05-11 06:35:20,Sí,México
+60d6cf661bbe1f28e48040bd,color,2,bottom_left,1,Yes,Cuadro rosa ,2023-05-11 06:35:20,Sí,México
+60d6cf661bbe1f28e48040bd,color,4,top_left,2,Yes,Diamante verde,2023-05-11 06:35:20,Sí,México
+60d6cf661bbe1f28e48040bd,color,1,bottom_right,3,No,Triangulo rosa,2023-05-11 06:35:20,Sí,México
+5cf80c2ccbe8f10016dba137,color,2,bottom_left,0,Yes,cuadrado,2023-05-11 06:35:49,Sí,México
+5cf80c2ccbe8f10016dba137,color,3,bottom_right,1,No,triangulo,2023-05-11 06:35:49,Sí,México
+5cf80c2ccbe8f10016dba137,color,4,top_right,2,No,rectangulo,2023-05-11 06:35:49,Sí,México
+5cf80c2ccbe8f10016dba137,color,1,top_left,3,Yes,cuadrado,2023-05-11 06:35:49,Sí,México
+614f8516923f828c619e0b8d,color,3,bottom_right,0,No,triangulo amarillo,2023-05-11 06:37:41,Sí,México
+614f8516923f828c619e0b8d,color,2,top_right,1,No,rectangulo amarillo,2023-05-11 06:37:41,Sí,México
+614f8516923f828c619e0b8d,color,1,bottom_left,2,Yes,corazon morado,2023-05-11 06:37:41,Sí,México
+614f8516923f828c619e0b8d,color,4,top_left,3,Yes,rombo gris,2023-05-11 06:37:41,Sí,México
+607893faf75b80c8b2a14613,color,2,bottom_left,0,Yes,Cuadrado ,2023-05-11 06:38:29,Sí,México
+607893faf75b80c8b2a14613,color,4,top_left,1,Yes,Rombo ,2023-05-11 06:38:29,Sí,México
+607893faf75b80c8b2a14613,color,1,top_right,2,No,Sol,2023-05-11 06:38:29,Sí,México
+607893faf75b80c8b2a14613,color,3,bottom_right,3,No,Triángulo ,2023-05-11 06:38:29,Sí,México
+616918b54601d4453718a030,color,3,bottom_right,0,No,Triángulo ,2023-05-11 06:40:29,Sí,México
+616918b54601d4453718a030,color,4,top_left,1,Yes,Rombo,2023-05-11 06:40:29,Sí,México
+616918b54601d4453718a030,color,1,top_right,2,No,Sol,2023-05-11 06:40:29,Sí,México
+616918b54601d4453718a030,color,2,bottom_left,3,Yes,Cuadrado,2023-05-11 06:40:29,Sí,México
+614e4293cc2629b9b02953b9,color,3,top_left,0,Yes,Estrella,2023-05-11 06:42:42,Sí,México
+614e4293cc2629b9b02953b9,color,1,top_right,1,No,Sol,2023-05-11 06:42:42,Sí,México
+614e4293cc2629b9b02953b9,color,4,bottom_left,2,Yes,Corazón ,2023-05-11 06:42:42,Sí,México
+614e4293cc2629b9b02953b9,color,2,bottom_right,3,No,Círculo ,2023-05-11 06:42:42,Sí,México
+5fd96512beeb77458bad169f,color,3,bottom_right,0,No,Triangulo amarillo,2023-05-11 06:43:44,Sí,México
+5fd96512beeb77458bad169f,color,1,bottom_left,1,Yes,Corazon morado,2023-05-11 06:43:44,Sí,México
+5fd96512beeb77458bad169f,color,2,top_left,2,Yes,Rectangulo rosa,2023-05-11 06:43:44,Sí,México
+5fd96512beeb77458bad169f,color,4,top_right,3,No,Rectangulo naranja,2023-05-11 06:43:44,Sí,México
+5f05fa1557d36f0f2bacae60,color,1,top_right,0,No,Sol de color café,2023-05-11 06:46:03,Sí,México
+5f05fa1557d36f0f2bacae60,color,4,top_left,1,Yes,Un rombo de color gris,2023-05-11 06:46:03,Sí,México
+5f05fa1557d36f0f2bacae60,color,2,bottom_right,2,No,Un círculo amarillo,2023-05-11 06:46:03,Sí,México
+5f05fa1557d36f0f2bacae60,color,3,bottom_left,3,Yes,Un círculo gris,2023-05-11 06:46:03,Sí,México
+611e8eb93bfbb9a9496689ac,color,2,top_left,0,Yes,Rectángulo ,2023-05-11 06:46:03,Sí,México
+611e8eb93bfbb9a9496689ac,color,3,bottom_right,1,No,Triángulo equilatero,2023-05-11 06:46:03,Sí,México
+611e8eb93bfbb9a9496689ac,color,1,bottom_left,2,Yes,Corazón,2023-05-11 06:46:03,Sí,México
+611e8eb93bfbb9a9496689ac,color,4,top_right,3,No,Rectángulo,2023-05-11 06:46:03,Sí,México
+613b78d2e578df60af0c6814,color,4,top_left,0,Yes,Rombo,2023-05-11 06:46:39,Sí,México
+613b78d2e578df60af0c6814,color,1,top_right,1,No,Sol,2023-05-11 06:46:39,Sí,México
+613b78d2e578df60af0c6814,color,2,bottom_left,2,Yes,Cuadrado,2023-05-11 06:46:39,Sí,México
+613b78d2e578df60af0c6814,color,3,bottom_right,3,No,Triángulo,2023-05-11 06:46:39,Sí,México
+60fd0f49858465796afd5da9,color,1,bottom_left,0,Yes,La figura es de color morado y tiene forma de corazón ,2023-05-11 06:46:50,Sí,México
+60fd0f49858465796afd5da9,color,2,top_right,1,No,Rectángulo de color amarillo,2023-05-11 06:46:50,Sí,México
+60fd0f49858465796afd5da9,color,3,bottom_right,2,No,Figura de 3 lados de color amarillo,2023-05-11 06:46:50,Sí,México
+60fd0f49858465796afd5da9,color,4,top_left,3,Yes,Tiene cuatro lados y es de color gris,2023-05-11 06:46:50,Sí,México
+5c91bb1418adb600011a5e72,color,2,bottom_right,0,No,Circulo amarillo,2023-05-11 06:47:06,Sí,México
+5c91bb1418adb600011a5e72,color,1,bottom_left,1,Yes,Corazon violeta,2023-05-11 06:47:06,Sí,México
+5c91bb1418adb600011a5e72,color,4,top_left,2,Yes,Diamante Gris,2023-05-11 06:47:06,Sí,México
+5c91bb1418adb600011a5e72,color,3,top_right,3,No,Rectangulo amarillo,2023-05-11 06:47:06,Sí,México
+6151bc90b4b86b7b3e56189f,color,1,bottom_left,0,Yes,Corazón,2023-05-11 06:47:41,Sí,México
+6151bc90b4b86b7b3e56189f,color,4,top_right,1,No,Rectángulo,2023-05-11 06:47:41,Sí,México
+6151bc90b4b86b7b3e56189f,color,3,top_left,2,Yes,Estrella,2023-05-11 06:47:41,Sí,México
+6151bc90b4b86b7b3e56189f,color,2,bottom_right,3,No,Círculo,2023-05-11 06:47:41,Sí,México
+616c5184f5f58cc79f9bcf9b,color,4,top_left,0,Yes,Rombo,2023-05-11 06:47:50,Sí,México
+616c5184f5f58cc79f9bcf9b,color,3,bottom_left,1,Yes,Circulo,2023-05-11 06:47:50,Sí,México
+616c5184f5f58cc79f9bcf9b,color,2,top_right,2,No,Rectangulo,2023-05-11 06:47:50,Sí,México
+616c5184f5f58cc79f9bcf9b,color,1,bottom_right,3,No,Triangulo,2023-05-11 06:47:50,Sí,México
+5cc86bb2e7d28d001962ddf4,color,1,top_right,0,No,sol,2023-05-11 06:48:08,Sí,México
+5cc86bb2e7d28d001962ddf4,color,2,top_left,1,Yes,rectangulo,2023-05-11 06:48:08,Sí,México
+5cc86bb2e7d28d001962ddf4,color,4,bottom_right,2,No,cruz,2023-05-11 06:48:08,Sí,México
+5cc86bb2e7d28d001962ddf4,color,3,bottom_left,3,Yes,Circulo,2023-05-11 06:48:08,Sí,México
+614d05f9b577ed47c8b6db75,color,3,top_right,0,No,rectángulo amarillo,2023-05-11 06:48:33,Sí,México
+614d05f9b577ed47c8b6db75,color,1,bottom_left,1,Yes,corazón morado,2023-05-11 06:48:33,Sí,México
+614d05f9b577ed47c8b6db75,color,4,top_left,2,Yes,rombo gris,2023-05-11 06:48:33,Sí,México
+614d05f9b577ed47c8b6db75,color,2,bottom_right,3,No,círculo amarillo,2023-05-11 06:48:33,Sí,México
+613a469755c08ab3b9d682ad,color,2,bottom_left,0,Yes,Rosa,2023-05-11 06:49:12,Sí,México
+613a469755c08ab3b9d682ad,color,1,top_left,1,Yes,Azul,2023-05-11 06:49:12,Sí,México
+613a469755c08ab3b9d682ad,color,3,bottom_right,2,No,Triangulo,2023-05-11 06:49:12,Sí,México
+613a469755c08ab3b9d682ad,color,4,top_right,3,No,Rectangulo,2023-05-11 06:49:12,Sí,México
+5f2b4939dae40959f75f7baf,color,4,top_right,0,No,rectangulo,2023-05-11 06:49:36,Sí,México
+5f2b4939dae40959f75f7baf,color,2,top_left,1,Yes,rectangulo rosa,2023-05-11 06:49:36,Sí,México
+5f2b4939dae40959f75f7baf,color,1,bottom_right,2,No,triangulo,2023-05-11 06:49:36,Sí,México
+5f2b4939dae40959f75f7baf,color,3,bottom_left,3,Yes,circulo ,2023-05-11 06:49:36,Sí,México
+5ecf3e5fa3d3b6350199c5e1,color,1,bottom_right,0,No,triangulo rosa,2023-05-11 06:50:01,Sí,México
+5ecf3e5fa3d3b6350199c5e1,color,3,top_right,1,No,rectangulo amarillo,2023-05-11 06:50:01,Sí,México
+5ecf3e5fa3d3b6350199c5e1,color,4,bottom_left,2,Yes,corazon rojo,2023-05-11 06:50:01,Sí,México
+5ecf3e5fa3d3b6350199c5e1,color,2,top_left,3,Yes,rectangulo rosa,2023-05-11 06:50:01,Sí,México
+60130623e800da135c1f0957,color,2,bottom_right,0,No,Círculo ,2023-05-11 06:50:03,Sí,México
+60130623e800da135c1f0957,color,1,top_right,1,No,Sol ,2023-05-11 06:50:03,Sí,México
+60130623e800da135c1f0957,color,4,bottom_left,2,Yes,Corazón ,2023-05-11 06:50:03,Sí,México
+60130623e800da135c1f0957,color,3,top_left,3,Yes,Cruz ,2023-05-11 06:50:03,Sí,México
+60130623e800da135c1f0957,color,2,bottom_right,0,No,Círculo ,2023-05-11 06:50:03,Sí,México
+60130623e800da135c1f0957,color,1,top_right,1,No,Sol ,2023-05-11 06:50:03,Sí,México
+60130623e800da135c1f0957,color,4,bottom_left,2,Yes,Corazón ,2023-05-11 06:50:03,Sí,México
+60130623e800da135c1f0957,color,3,top_left,3,Yes,Estrella ,2023-05-11 06:50:03,Sí,México
+614dfeeecc516a80b2025a7d,color,1,bottom_right,0,No,Triangulo,2023-05-11 06:50:19,Sí,México
+614dfeeecc516a80b2025a7d,color,3,top_left,1,Yes,Estrella,2023-05-11 06:50:19,Sí,México
+614dfeeecc516a80b2025a7d,color,4,top_right,2,No,Rectangulo,2023-05-11 06:50:19,Sí,México
+614dfeeecc516a80b2025a7d,color,2,bottom_left,3,Yes,Cuadrado,2023-05-11 06:50:19,Sí,México
+613d4019856e604a39c373a7,color,1,top_right,0,No,Un sol dorado,2023-05-11 06:51:15,Sí,México
+613d4019856e604a39c373a7,color,4,bottom_right,1,No,Una cruz morada,2023-05-11 06:51:15,Sí,México
+613d4019856e604a39c373a7,color,2,bottom_left,2,Yes,Un cuadrado rosa,2023-05-11 06:51:15,Sí,México
+613d4019856e604a39c373a7,color,3,top_left,3,Yes,Una estrella rosa ,2023-05-11 06:51:15,Sí,México
+614e3acb9e3b31ffe7fde470,color,2,bottom_left,0,Yes,cuadrado purpura ,2023-05-11 06:52:22,Sí,México
+614e3acb9e3b31ffe7fde470,color,1,top_left,1,Yes,cuadrado ázul,2023-05-11 06:52:22,Sí,México
+614e3acb9e3b31ffe7fde470,color,3,bottom_right,2,No,triángulo amarillo,2023-05-11 06:52:22,Sí,México
+614e3acb9e3b31ffe7fde470,color,4,top_right,3,No,rectángulo naranja,2023-05-11 06:52:22,Sí,México
+5f5970d8b9bdc91c0e672c91,color,1,top_left,0,Yes,Cuadrado,2023-05-11 06:53:16,Sí,México
+5f5970d8b9bdc91c0e672c91,color,3,bottom_right,1,No,Triángulo ,2023-05-11 06:53:16,Sí,México
+5f5970d8b9bdc91c0e672c91,color,4,bottom_left,2,Yes,Corazón ,2023-05-11 06:53:16,Sí,México
+5f5970d8b9bdc91c0e672c91,color,2,top_right,3,No,Rectángulo ,2023-05-11 06:53:16,Sí,México
+613aa39321ee0e47931e4157,color,2,top_left,0,Yes,Rectangulo,2023-05-11 06:56:08,Sí,México
+613aa39321ee0e47931e4157,color,1,top_right,1,No,Sol,2023-05-11 06:56:08,Sí,México
+613aa39321ee0e47931e4157,color,3,bottom_right,2,No,Triangulo,2023-05-11 06:56:08,Sí,México
+613aa39321ee0e47931e4157,color,4,bottom_left,3,Yes,Corazón,2023-05-11 06:56:08,Sí,México
+6092d60fb29967f8795bfadb,color,3,top_right,0,No,Rectangulo Amarillo,2023-05-11 06:56:53,Sí,México
+6092d60fb29967f8795bfadb,color,4,bottom_right,1,No,Cruz Morada,2023-05-11 06:56:53,Sí,México
+6092d60fb29967f8795bfadb,color,1,top_left,2,Yes,Cuadrado Azul,2023-05-11 06:56:53,Sí,México
+6092d60fb29967f8795bfadb,color,2,bottom_left,3,Yes,cuadrado rosa,2023-05-11 06:56:53,Sí,México
+6092d60fb29967f8795bfadb,color,3,top_right,0,No,Rectangulo Amarillo,2023-05-11 06:57:11,Sí,México
+6092d60fb29967f8795bfadb,color,4,bottom_right,1,No,Cruz Morada,2023-05-11 06:57:11,Sí,México
+6092d60fb29967f8795bfadb,color,1,top_left,2,Yes,Cuadrado Azul,2023-05-11 06:57:11,Sí,México
+6092d60fb29967f8795bfadb,color,2,bottom_left,3,Yes,cuadrado rosa,2023-05-11 06:57:11,Sí,México
+5edd5e49f5de7ba631ac5199,color,1,top_left,0,Yes,Cuadrado azul,2023-05-11 07:02:54,Sí,México
+5edd5e49f5de7ba631ac5199,color,2,bottom_left,1,Yes,Cuadrado rosa,2023-05-11 07:02:54,Sí,México
+5edd5e49f5de7ba631ac5199,color,3,bottom_right,2,No,Triangulo amarillo,2023-05-11 07:02:54,Sí,México
+5edd5e49f5de7ba631ac5199,color,4,top_right,3,No,Rectángulo naranja,2023-05-11 07:02:54,Sí,México
+613a9da3c77e45388ba8a4c6,color,1,top_left,0,Yes,cuadrado,2023-05-11 07:02:58,Sí,México
+613a9da3c77e45388ba8a4c6,color,3,bottom_left,1,Yes,circulo,2023-05-11 07:02:58,Sí,México
+613a9da3c77e45388ba8a4c6,color,4,top_right,2,No,rectangulo,2023-05-11 07:02:58,Sí,México
+613a9da3c77e45388ba8a4c6,color,2,bottom_right,3,No,circulo,2023-05-11 07:02:58,Sí,México
+613a7d067a00c792ee41f36d,color,4,top_left,0,Yes,rombo,2023-05-11 07:07:32,Sí,México
+613a7d067a00c792ee41f36d,color,3,bottom_right,1,No,triangulo,2023-05-11 07:07:32,Sí,México
+613a7d067a00c792ee41f36d,color,2,bottom_left,2,Yes,cuadrado,2023-05-11 07:07:32,Sí,México
+613a7d067a00c792ee41f36d,color,1,top_right,3,No,sol,2023-05-11 07:07:32,Sí,México
+6170c9123edfc3ee296cda22,color,2,bottom_right,0,No,Circulo amarillo ,2023-05-11 07:13:02,Sí,México
+6170c9123edfc3ee296cda22,color,1,bottom_left,1,Yes,Corazón morado ,2023-05-11 07:13:02,Sí,México
+6170c9123edfc3ee296cda22,color,3,top_right,2,No,Rectángulo amarillo,2023-05-11 07:13:02,Sí,México
+6170c9123edfc3ee296cda22,color,4,top_left,3,Yes,Rombo gris ,2023-05-11 07:13:02,Sí,México
+5f66e131cb8b062d0ea776f0,color,2,top_right,0,No,Cuadrado amarillo,2023-05-11 07:13:11,Sí,México
+5f66e131cb8b062d0ea776f0,color,1,top_left,1,Yes,Cuadrado azul,2023-05-11 07:13:11,Sí,México
+5f66e131cb8b062d0ea776f0,color,3,bottom_left,2,Yes,Círculo gris,2023-05-11 07:13:11,Sí,México
+5f66e131cb8b062d0ea776f0,color,4,bottom_right,3,No,Cruz Morada ,2023-05-11 07:13:11,Sí,México
+616e401a1a88b28ca7581bb6,color,2,top_left,0,Yes,rectangulo rosa,2023-05-11 07:16:28,Sí,México
+616e401a1a88b28ca7581bb6,color,4,top_right,1,No,rectangulo naranja,2023-05-11 07:16:28,Sí,México
+616e401a1a88b28ca7581bb6,color,3,bottom_right,2,No,triangulo amarillo,2023-05-11 07:16:28,Sí,México
+616e401a1a88b28ca7581bb6,color,1,bottom_left,3,Yes,corazon morado,2023-05-11 07:16:28,Sí,México
+60183e25b4423c05ee0ee791,color,1,top_left,0,Yes,Cuadrado azul,2023-05-11 07:17:30,Sí,México
+60183e25b4423c05ee0ee791,color,4,top_right,1,No,Rectangulo naranja,2023-05-11 07:17:30,Sí,México
+60183e25b4423c05ee0ee791,color,2,bottom_left,2,Yes,Cuadrado rosa,2023-05-11 07:17:30,Sí,México
+60183e25b4423c05ee0ee791,color,3,bottom_right,3,No,Triangulo amarillo,2023-05-11 07:17:30,Sí,México
+6162bf42048363a56b08995e,color,4,top_right,0,No,rectangulo,2023-05-11 07:18:18,NA,México
+6162bf42048363a56b08995e,color,2,bottom_left,1,Yes,cuadrado,2023-05-11 07:18:18,NA,México
+6162bf42048363a56b08995e,color,1,top_left,2,Yes,cuadrado,2023-05-11 07:18:18,NA,México
+6162bf42048363a56b08995e,color,3,bottom_right,3,No,triangulo,2023-05-11 07:18:18,NA,México
+613ab80bb090a32a7db88350,color,1,top_right,0,No,Sol cafe,2023-05-11 07:19:33,Sí,México
+613ab80bb090a32a7db88350,color,3,bottom_left,1,Yes,Circulo gris,2023-05-11 07:19:33,Sí,México
+613ab80bb090a32a7db88350,color,4,bottom_right,2,No,Cruz morada,2023-05-11 07:19:33,Sí,México
+613ab80bb090a32a7db88350,color,2,top_left,3,Yes,rectangulo rosa,2023-05-11 07:19:33,Sí,México

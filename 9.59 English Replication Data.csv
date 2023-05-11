@@ -1,0 +1,832 @@
+participant_id,experiment,item,cond,presentation_order,literal_response,response,timestamp,english_first_language,country_of_birth
+60fedd3890ce06a5f852b2e8,color,1,bottom_left,0,Yes,Purple Heart,5/10/2023 19:48,Yes,United States
+60fedd3890ce06a5f852b2e8,color,2,top_right,1,No,Yellow Rectangle,5/10/2023 19:48,Yes,United States
+60fedd3890ce06a5f852b2e8,color,4,bottom_right,2,No,Purple Plus Sign,5/10/2023 19:48,Yes,United States
+60fedd3890ce06a5f852b2e8,color,3,top_left,3,Yes,Pink Star,5/10/2023 19:48,Yes,United States
+5dc985b81d8f6b6b489e6d95,color,1,top_left,0,Yes,Square ,5/10/2023 19:49,Yes,United States
+5dc985b81d8f6b6b489e6d95,color,2,bottom_left,1,Yes,Square ,5/10/2023 19:49,Yes,United States
+5dc985b81d8f6b6b489e6d95,color,3,bottom_right,2,No,Triangle ,5/10/2023 19:49,Yes,United States
+5dc985b81d8f6b6b489e6d95,color,4,top_right,3,No,Rectangle ,5/10/2023 19:49,Yes,United States
+5c770b456fa7560015823cfb,color,3,bottom_right,0,No,yellow triangle,5/10/2023 19:50,Yes,United States
+5c770b456fa7560015823cfb,color,1,bottom_left,1,Yes,purple heart,5/10/2023 19:50,Yes,United States
+5c770b456fa7560015823cfb,color,2,top_right,2,No,yello rectangle,5/10/2023 19:50,Yes,United States
+5c770b456fa7560015823cfb,color,4,top_left,3,Yes,gray diamond,5/10/2023 19:50,Yes,United States
+60ee94db81cb621683412b8a,color,2,top_left,0,Yes,pink rectangle,5/10/2023 19:52,Yes,United States
+60ee94db81cb621683412b8a,color,3,top_right,1,No,yellow rectangle,5/10/2023 19:52,Yes,United States
+60ee94db81cb621683412b8a,color,4,bottom_left,2,Yes,red heart,5/10/2023 19:52,Yes,United States
+60ee94db81cb621683412b8a,color,1,bottom_right,3,No,pink triangle,5/10/2023 19:52,Yes,United States
+5eb1698b8fb92e076da5a698,color,4,top_left,0,Yes,Grey Diamond,5/10/2023 19:54,Yes,United States
+5eb1698b8fb92e076da5a698,color,1,bottom_left,1,Yes,Purple heart,5/10/2023 19:54,Yes,United States
+5eb1698b8fb92e076da5a698,color,2,top_right,2,No,Yellow rectangle,5/10/2023 19:54,Yes,United States
+5eb1698b8fb92e076da5a698,color,3,bottom_right,3,No,Yellow triangle,5/10/2023 19:54,Yes,United States
+6413612c5f48a62e30ab44b0,color,2,top_right,0,No,Yellow rectangle ,5/11/2023 5:01,Yes,UK
+6413612c5f48a62e30ab44b0,color,1,bottom_right,1,No,Pink triangle ,5/11/2023 5:01,Yes,UK
+6413612c5f48a62e30ab44b0,color,3,bottom_left,2,Yes,Grey circle ,5/11/2023 5:01,Yes,UK
+6413612c5f48a62e30ab44b0,color,4,top_left,3,Yes,Grey diamond ,5/11/2023 5:01,Yes,UK
+5f4a8c8347b9fe5082353a3c,color,4,bottom_right,0,No,Purple plus sign,5/11/2023 5:01,Yes,UK
+5f4a8c8347b9fe5082353a3c,color,2,bottom_left,1,Yes,Pink Square,5/11/2023 5:01,Yes,UK
+5f4a8c8347b9fe5082353a3c,color,1,top_left,2,Yes,Blue Square,5/11/2023 5:01,Yes,UK
+5f4a8c8347b9fe5082353a3c,color,3,top_right,3,No,Yellow rectangle long side horizontal,5/11/2023 5:01,Yes,UK
+57c1ab62ffd38700010b4637,color,1,bottom_right,0,No,pink triangle,5/11/2023 5:03,Yes,UK
+57c1ab62ffd38700010b4637,color,3,top_right,1,No,yellow rectangle,5/11/2023 5:03,Yes,UK
+57c1ab62ffd38700010b4637,color,2,top_left,2,Yes,pink rectangle,5/11/2023 5:03,Yes,UK
+57c1ab62ffd38700010b4637,color,4,bottom_left,3,Yes,red heart,5/11/2023 5:03,Yes,UK
+6139a2a17bb3936e81251890,color,3,bottom_right,0,No,Yellow triangle ,5/11/2023 5:03,Yes,UK
+6139a2a17bb3936e81251890,color,1,top_left,1,Yes,Blue square ,5/11/2023 5:03,Yes,UK
+6139a2a17bb3936e81251890,color,2,bottom_left,2,Yes,Pink square,5/11/2023 5:03,Yes,UK
+6139a2a17bb3936e81251890,color,4,top_right,3,No,Orange rectangle ,5/11/2023 5:03,Yes,UK
+5f2178ec626bc35254b5145e,color,3,top_right,0,No,green oblong,5/11/2023 5:06,Yes,UK
+5f2178ec626bc35254b5145e,color,4,bottom_left,1,Yes,red heart,5/11/2023 5:06,Yes,UK
+5f2178ec626bc35254b5145e,color,1,bottom_right,2,No,pink triangle,5/11/2023 5:06,Yes,UK
+5f2178ec626bc35254b5145e,color,2,top_left,3,Yes,pink oblong,5/11/2023 5:06,Yes,UK
+59d4b6a8e59146000112e523,color,3,top_right,0,No,Yellow rectangle,5/11/2023 5:34,Yes,UK
+59d4b6a8e59146000112e523,color,2,top_left,1,Yes,Pink rectangle,5/11/2023 5:34,Yes,UK
+59d4b6a8e59146000112e523,color,1,bottom_left,2,Yes,Purple heart,5/11/2023 5:34,Yes,UK
+59d4b6a8e59146000112e523,color,4,bottom_right,3,No,Purple cross,5/11/2023 5:34,Yes,UK
+5ea3be1ded317135414dceff,color,3,bottom_right,0,No,Triangle,5/11/2023 5:35,Yes,UK
+5ea3be1ded317135414dceff,color,1,top_right,1,No,Sub,5/11/2023 5:35,Yes,UK
+5ea3be1ded317135414dceff,color,4,bottom_left,2,Yes,Heart,5/11/2023 5:35,Yes,UK
+5ea3be1ded317135414dceff,color,2,top_left,3,Yes,Rectangle,5/11/2023 5:35,Yes,UK
+5f96e3e19511c60009d07758,color,4,top_right,0,No,Orange,5/11/2023 5:35,Yes,UK
+5f96e3e19511c60009d07758,color,1,bottom_left,1,Yes,Purple,5/11/2023 5:35,Yes,UK
+5f96e3e19511c60009d07758,color,2,bottom_right,2,No,Yellow,5/11/2023 5:35,Yes,UK
+5f96e3e19511c60009d07758,color,3,top_left,3,Yes,Pink,5/11/2023 5:35,Yes,UK
+5be2ea3c8e5d7d0001d481e6,color,2,bottom_left,0,Yes,pink square,5/11/2023 5:35,Yes,UK
+5be2ea3c8e5d7d0001d481e6,color,3,bottom_right,1,No,Yellow triangle ,5/11/2023 5:35,Yes,UK
+5be2ea3c8e5d7d0001d481e6,color,1,top_right,2,No,Gold sun ,5/11/2023 5:35,Yes,UK
+5be2ea3c8e5d7d0001d481e6,color,4,top_left,3,Yes,Silver diamond,5/11/2023 5:35,Yes,UK
+5e99ad97cdf86a000855cea7,color,2,top_right,0,No,yellow,5/11/2023 5:35,Yes,UK
+5e99ad97cdf86a000855cea7,color,3,top_left,1,Yes,pink,5/11/2023 5:35,Yes,UK
+5e99ad97cdf86a000855cea7,color,1,bottom_left,2,Yes,purple,5/11/2023 5:35,Yes,UK
+5e99ad97cdf86a000855cea7,color,4,bottom_right,3,No,marks the spot,5/11/2023 5:35,Yes,UK
+5d6950e2541fce00185bac27,color,4,bottom_right,0,No,Purple cross,5/11/2023 5:35,Yes,UK
+5d6950e2541fce00185bac27,color,3,top_left,1,Yes,Pink star,5/11/2023 5:35,Yes,UK
+5d6950e2541fce00185bac27,color,2,top_right,2,No,Yellow rectangle,5/11/2023 5:35,Yes,UK
+5d6950e2541fce00185bac27,color,1,bottom_left,3,Yes,Purple heart,5/11/2023 5:35,Yes,UK
+5d46f81ceebfba00011b69eb,color,2,bottom_left,0,Yes,Pink square,5/11/2023 5:35,Yes,UK
+5d46f81ceebfba00011b69eb,color,1,bottom_right,1,No,Pink triangle ,5/11/2023 5:35,Yes,UK
+5d46f81ceebfba00011b69eb,color,4,top_left,2,Yes,Grey diamond ,5/11/2023 5:35,Yes,UK
+5d46f81ceebfba00011b69eb,color,3,top_right,3,No,Yellow rectangle ,5/11/2023 5:35,Yes,UK
+5bdbf5ee55beac00014a82ea,color,1,bottom_right,0,No,pink triangle,5/11/2023 5:36,Yes,UK
+5bdbf5ee55beac00014a82ea,color,2,bottom_left,1,Yes,pink square,5/11/2023 5:36,Yes,UK
+5bdbf5ee55beac00014a82ea,color,4,top_right,2,No,orange rectangle,5/11/2023 5:36,Yes,UK
+5bdbf5ee55beac00014a82ea,color,3,top_left,3,Yes,pink star,5/11/2023 5:36,Yes,UK
+59f8937f8a2d3d00012c17c6,color,4,top_right,0,No,Stretched square,5/11/2023 5:36,Yes,UK
+59f8937f8a2d3d00012c17c6,color,3,top_left,1,Yes,Star,5/11/2023 5:36,Yes,UK
+59f8937f8a2d3d00012c17c6,color,2,bottom_right,2,No,Round,5/11/2023 5:36,Yes,UK
+59f8937f8a2d3d00012c17c6,color,1,bottom_left,3,Yes,Love,5/11/2023 5:36,Yes,UK
+6118e529e663bd089370c2b0,color,1,top_right,0,No,Gold Sun ,5/11/2023 5:36,Yes,UK
+6118e529e663bd089370c2b0,color,3,bottom_right,1,No,Yellow Triangle,5/11/2023 5:36,Yes,UK
+6118e529e663bd089370c2b0,color,2,top_left,2,Yes,Pink Rectangle,5/11/2023 5:36,Yes,UK
+6118e529e663bd089370c2b0,color,4,bottom_left,3,Yes,Red Heart,5/11/2023 5:36,Yes,UK
+61099d7869cbd9770a09a6c9,color,2,top_right,0,No,Yellow rectangle ,5/11/2023 5:36,Yes,UK
+61099d7869cbd9770a09a6c9,color,3,bottom_left,1,Yes,Grey circle,5/11/2023 5:36,Yes,UK
+61099d7869cbd9770a09a6c9,color,4,top_left,2,Yes,Grey diamond,5/11/2023 5:36,Yes,UK
+61099d7869cbd9770a09a6c9,color,1,bottom_right,3,No,Pink triangle ,5/11/2023 5:36,Yes,UK
+56ebd582388e1d000b584373,color,2,bottom_left,0,Yes,Crimson square,5/11/2023 5:36,Yes,UK
+56ebd582388e1d000b584373,color,4,bottom_right,1,No,Purple cross ,5/11/2023 5:36,Yes,UK
+56ebd582388e1d000b584373,color,1,top_left,2,Yes,Blue square ,5/11/2023 5:36,Yes,UK
+56ebd582388e1d000b584373,color,3,top_right,3,No,Yellow rectangle ,5/11/2023 5:36,Yes,UK
+5c980d0ecff9b20016cae76f,color,4,bottom_right,0,No,"plus, cross ",5/11/2023 5:36,Yes,UK
+5c980d0ecff9b20016cae76f,color,1,top_right,1,No,sun,5/11/2023 5:36,Yes,UK
+5c980d0ecff9b20016cae76f,color,2,top_left,2,Yes,square,5/11/2023 5:36,Yes,UK
+5c980d0ecff9b20016cae76f,color,3,bottom_left,3,Yes,circle,5/11/2023 5:36,Yes,UK
+5a6a45900384310001944353,color,2,bottom_left,0,Yes,Pink square ,5/11/2023 5:36,Yes,UK
+5a6a45900384310001944353,color,1,top_left,1,Yes,Blue Square ,5/11/2023 5:36,Yes,UK
+5a6a45900384310001944353,color,3,bottom_right,2,No,Yellow triangle ,5/11/2023 5:36,Yes,UK
+5a6a45900384310001944353,color,4,top_right,3,No,Orange rectangle ,5/11/2023 5:36,Yes,UK
+60cdb4dcb85f7642a2253483,color,2,bottom_right,0,No,Yellow circle,5/11/2023 5:37,Yes,UK
+60cdb4dcb85f7642a2253483,color,3,bottom_left,1,Yes,Gray circle,5/11/2023 5:37,Yes,UK
+60cdb4dcb85f7642a2253483,color,1,top_left,2,Yes,Blue square,5/11/2023 5:37,Yes,UK
+60cdb4dcb85f7642a2253483,color,4,top_right,3,No,Orange rectangle,5/11/2023 5:37,Yes,UK
+613b3dce563b993c5942912b,color,1,bottom_left,0,Yes,A purple heart,5/11/2023 5:37,Yes,UK
+613b3dce563b993c5942912b,color,2,bottom_right,1,No,A yellow circle,5/11/2023 5:37,Yes,UK
+613b3dce563b993c5942912b,color,4,top_right,2,No,An orange rectangle,5/11/2023 5:37,Yes,UK
+613b3dce563b993c5942912b,color,3,top_left,3,Yes,A pink star,5/11/2023 5:37,Yes,UK
+61420a83da1e231807c9feb1,color,3,bottom_right,0,No,Yellow triangle,5/11/2023 5:37,Yes,UK
+61420a83da1e231807c9feb1,color,2,top_right,1,No,Yellow rectangle ,5/11/2023 5:37,Yes,UK
+61420a83da1e231807c9feb1,color,1,top_left,2,Yes,Blue square ,5/11/2023 5:37,Yes,UK
+61420a83da1e231807c9feb1,color,4,bottom_left,3,Yes,Red heart no,5/11/2023 5:37,Yes,UK
+5ce94777de266200151ea319,color,4,top_left,0,Yes,Diamond,5/11/2023 5:37,Yes,UK
+5ce94777de266200151ea319,color,2,bottom_right,1,No,Circle ,5/11/2023 5:37,Yes,UK
+5ce94777de266200151ea319,color,3,top_right,2,No,Rectangle ,5/11/2023 5:37,Yes,UK
+5ce94777de266200151ea319,color,1,bottom_left,3,Yes,Heart,5/11/2023 5:37,Yes,UK
+611d368bd6d35d4e26505090,color,3,bottom_right,0,No,Yellow equilateral triangle,5/11/2023 5:37,Yes,UK
+611d368bd6d35d4e26505090,color,1,bottom_left,1,Yes,Purple heart,5/11/2023 5:37,Yes,UK
+611d368bd6d35d4e26505090,color,2,top_left,2,Yes,Pink rectangle,5/11/2023 5:37,Yes,UK
+611d368bd6d35d4e26505090,color,4,top_right,3,No,Orange rectangle,5/11/2023 5:37,Yes,UK
+5adb3e135f327e0001fb329c,color,3,top_left,0,Yes,Star ,5/11/2023 5:37,Yes,UK
+5adb3e135f327e0001fb329c,color,1,bottom_left,1,Yes,Heart,5/11/2023 5:37,Yes,UK
+5adb3e135f327e0001fb329c,color,4,top_right,2,No,Rectangle ,5/11/2023 5:37,Yes,UK
+5adb3e135f327e0001fb329c,color,2,bottom_right,3,No,Circle ,5/11/2023 5:37,Yes,UK
+5f341e306c067e1255643375,color,4,bottom_right,0,No,Purple plus sign,5/11/2023 5:38,Yes,UK
+5f341e306c067e1255643375,color,3,top_right,1,No,Yellow rectangle,5/11/2023 5:38,Yes,UK
+5f341e306c067e1255643375,color,2,bottom_left,2,Yes,Pink square,5/11/2023 5:38,Yes,UK
+5f341e306c067e1255643375,color,1,top_left,3,Yes,Blue square,5/11/2023 5:38,Yes,UK
+60a8fcebb1d04c7f4d008d51,color,4,bottom_left,0,Yes,Red heart,5/11/2023 5:38,Yes,Canada
+60a8fcebb1d04c7f4d008d51,color,1,bottom_right,1,No,Pink triangle,5/11/2023 5:38,Yes,Canada
+60a8fcebb1d04c7f4d008d51,color,2,top_right,2,No,Yellow rectangle lying on side,5/11/2023 5:38,Yes,Canada
+60a8fcebb1d04c7f4d008d51,color,3,top_left,3,Yes,Pink star,5/11/2023 5:38,Yes,Canada
+63d13efb60b6ba4c433bad7d,color,2,bottom_right,0,No,Circle,5/11/2023 5:38,Yes,UK
+63d13efb60b6ba4c433bad7d,color,4,top_right,1,No,Rectangle ,5/11/2023 5:38,Yes,UK
+63d13efb60b6ba4c433bad7d,color,3,top_left,2,Yes,Star,5/11/2023 5:38,Yes,UK
+63d13efb60b6ba4c433bad7d,color,1,bottom_left,3,Yes,Heart,5/11/2023 5:38,Yes,UK
+63d13efb60b6ba4c433bad7d,color,2,bottom_right,0,No,Circle ,5/11/2023 5:38,Yes,UK
+63d13efb60b6ba4c433bad7d,color,4,top_right,1,No,Rectangle ,5/11/2023 5:38,Yes,UK
+63d13efb60b6ba4c433bad7d,color,3,top_left,2,Yes,Star,5/11/2023 5:38,Yes,UK
+63d13efb60b6ba4c433bad7d,color,1,bottom_left,3,Yes,Heart,5/11/2023 5:38,Yes,UK
+63d3f95dd3449f1360740c04,color,4,bottom_left,0,Yes,red heart,5/11/2023 5:38,Yes,UK
+63d3f95dd3449f1360740c04,color,3,top_right,1,No,yellow rectangle,5/11/2023 5:38,Yes,UK
+63d3f95dd3449f1360740c04,color,1,top_left,2,Yes,blue square,5/11/2023 5:38,Yes,UK
+63d3f95dd3449f1360740c04,color,2,bottom_right,3,No,yellow circle,5/11/2023 5:38,Yes,UK
+6406514f0504d4fe67bed737,color,2,bottom_right,0,No,Bottom right,5/11/2023 5:38,Yes,UK
+6406514f0504d4fe67bed737,color,1,top_right,1,No,Top right,5/11/2023 5:38,Yes,UK
+6406514f0504d4fe67bed737,color,4,bottom_left,2,Yes,Bottom left,5/11/2023 5:38,Yes,UK
+6406514f0504d4fe67bed737,color,3,top_left,3,Yes,Top left,5/11/2023 5:38,Yes,UK
+5ea40ba76e05883a3353452d,color,4,top_right,0,No,rectangle,5/11/2023 5:38,Yes,UK
+5ea40ba76e05883a3353452d,color,3,bottom_left,1,Yes,circle,5/11/2023 5:38,Yes,UK
+5ea40ba76e05883a3353452d,color,1,bottom_right,2,No,triangle,5/11/2023 5:38,Yes,UK
+5ea40ba76e05883a3353452d,color,2,top_left,3,Yes,rectangle,5/11/2023 5:38,Yes,UK
+64017d4ac4663fd44636f6f1,color,1,bottom_left,0,Yes,Purple love heart,5/11/2023 5:38,Yes,UK
+64017d4ac4663fd44636f6f1,color,3,bottom_right,1,No,Yellow triangle ,5/11/2023 5:38,Yes,UK
+64017d4ac4663fd44636f6f1,color,2,top_left,2,Yes,Magenta rectangle ,5/11/2023 5:38,Yes,UK
+64017d4ac4663fd44636f6f1,color,4,top_right,3,No,Orange rectangle ,5/11/2023 5:38,Yes,UK
+616437a7882ca1d66da11c4f,color,1,top_left,0,Yes,Blue square,5/11/2023 5:38,Yes,UK
+616437a7882ca1d66da11c4f,color,2,bottom_left,1,Yes,Pink square ,5/11/2023 5:38,Yes,UK
+616437a7882ca1d66da11c4f,color,3,top_right,2,No,Yellow rectangle ,5/11/2023 5:38,Yes,UK
+616437a7882ca1d66da11c4f,color,4,bottom_right,3,No,Purple cross,5/11/2023 5:38,Yes,UK
+5b82610f1e35f0000173ddb3,color,4,bottom_left,0,Yes,Love heart,5/11/2023 5:38,Yes,UK
+5b82610f1e35f0000173ddb3,color,3,bottom_right,1,No,Yellow triangle,5/11/2023 5:38,Yes,UK
+5b82610f1e35f0000173ddb3,color,1,top_right,2,No,Sunshine,5/11/2023 5:38,Yes,UK
+5b82610f1e35f0000173ddb3,color,2,top_left,3,Yes,Pink rectangle,5/11/2023 5:38,Yes,UK
+5b51c33d026602000178b5ec,color,3,bottom_left,0,Yes,Grey circle,5/11/2023 5:38,Yes,UK
+5b51c33d026602000178b5ec,color,2,bottom_right,1,No,Yellow circle,5/11/2023 5:38,Yes,UK
+5b51c33d026602000178b5ec,color,1,top_right,2,No,Brown sun,5/11/2023 5:38,Yes,UK
+5b51c33d026602000178b5ec,color,4,top_left,3,Yes,Grey diamond ,5/11/2023 5:38,Yes,UK
+63e2be80edf8397614c3d3a5,color,2,bottom_left,0,Yes,Square ,5/11/2023 5:38,Yes,Other
+63e2be80edf8397614c3d3a5,color,3,top_left,1,Yes,Star,5/11/2023 5:38,Yes,Other
+63e2be80edf8397614c3d3a5,color,1,top_right,2,No,Sun,5/11/2023 5:38,Yes,Other
+63e2be80edf8397614c3d3a5,color,4,bottom_right,3,No,Cross,5/11/2023 5:38,Yes,Other
+582086da97b5100001b9b830,color,3,bottom_left,0,Yes,Grey circle ,5/11/2023 5:38,Yes,UK
+582086da97b5100001b9b830,color,2,top_right,1,No,Yellow rectangle ,5/11/2023 5:38,Yes,UK
+582086da97b5100001b9b830,color,1,bottom_right,2,No,Pink triangle ,5/11/2023 5:38,Yes,UK
+582086da97b5100001b9b830,color,4,top_left,3,Yes,Grey diamond ,5/11/2023 5:38,Yes,UK
+5c29d8510091e40001ca934a,color,1,top_left,0,Yes,Blue square ,5/11/2023 5:38,Yes,UK
+5c29d8510091e40001ca934a,color,2,bottom_right,1,No,Circle,5/11/2023 5:38,Yes,UK
+5c29d8510091e40001ca934a,color,4,bottom_left,2,Yes,Heart,5/11/2023 5:38,Yes,UK
+5c29d8510091e40001ca934a,color,3,top_right,3,No,Rectangle,5/11/2023 5:38,Yes,UK
+5dc0171eecdd3f451b9e2f94,color,4,bottom_right,0,No,Purple cross,5/11/2023 5:39,Yes,UK
+5dc0171eecdd3f451b9e2f94,color,1,top_left,1,Yes,Blue square ,5/11/2023 5:39,Yes,UK
+5dc0171eecdd3f451b9e2f94,color,3,bottom_left,2,Yes,Grey circle ,5/11/2023 5:39,Yes,UK
+5dc0171eecdd3f451b9e2f94,color,2,top_right,3,No,Yellow rectangle,5/11/2023 5:39,Yes,UK
+5d86fbe77e54b0001a80fd8b,color,3,bottom_left,0,Yes,Grey circle,5/11/2023 5:39,Yes,UK
+5d86fbe77e54b0001a80fd8b,color,1,bottom_right,1,No,Pink Triangle,5/11/2023 5:39,Yes,UK
+5d86fbe77e54b0001a80fd8b,color,4,top_right,2,No,Orange rectangle,5/11/2023 5:39,Yes,UK
+5d86fbe77e54b0001a80fd8b,color,2,top_left,3,Yes,Pink rectangle,5/11/2023 5:39,Yes,UK
+599e93c18d2b1600011b3d30,color,3,top_right,0,No,Rectangle ,5/11/2023 5:39,Yes,UK
+599e93c18d2b1600011b3d30,color,1,bottom_left,1,Yes,Heart,5/11/2023 5:39,Yes,UK
+599e93c18d2b1600011b3d30,color,4,bottom_right,2,No,Plus,5/11/2023 5:39,Yes,UK
+599e93c18d2b1600011b3d30,color,2,top_left,3,Yes,Rectangle ,5/11/2023 5:39,Yes,UK
+615b311c5bf31a35e4b20e68,color,3,bottom_right,0,No,Yellow triangle ,5/11/2023 5:39,Yes,UK
+615b311c5bf31a35e4b20e68,color,2,top_right,1,No,Yellow oblong,5/11/2023 5:39,Yes,UK
+615b311c5bf31a35e4b20e68,color,4,bottom_left,2,Yes,Red heart,5/11/2023 5:39,Yes,UK
+615b311c5bf31a35e4b20e68,color,1,top_left,3,Yes,Blue square,5/11/2023 5:39,Yes,UK
+5fdbc0cc12f16c087a9cb8b0,color,3,top_right,0,No,Yellow rectangle ,5/11/2023 5:39,Yes,UK
+5fdbc0cc12f16c087a9cb8b0,color,2,top_left,1,Yes,Pink rectangle ,5/11/2023 5:39,Yes,UK
+5fdbc0cc12f16c087a9cb8b0,color,1,bottom_right,2,No,Pink triangle ,5/11/2023 5:39,Yes,UK
+5fdbc0cc12f16c087a9cb8b0,color,4,bottom_left,3,Yes,Red heart ,5/11/2023 5:39,Yes,UK
+61422a3115aaa36f32f2e0c2,color,3,top_right,0,No,Yellow rectangle with 4 right angles,5/11/2023 5:39,Yes,UK
+61422a3115aaa36f32f2e0c2,color,1,top_left,1,Yes,Blue square with 4 right angles ,5/11/2023 5:39,Yes,UK
+61422a3115aaa36f32f2e0c2,color,4,bottom_left,2,Yes,Red heart ,5/11/2023 5:39,Yes,UK
+61422a3115aaa36f32f2e0c2,color,2,bottom_right,3,No,🟡 ,5/11/2023 5:39,Yes,UK
+64446ea296fb778d03b0b8eb,color,3,bottom_left,0,Yes,Gray Circle,5/11/2023 5:39,Yes,United States
+64446ea296fb778d03b0b8eb,color,1,top_left,1,Yes,Blue Square,5/11/2023 5:39,Yes,United States
+64446ea296fb778d03b0b8eb,color,2,bottom_right,2,No,Yellow Circle,5/11/2023 5:39,Yes,United States
+64446ea296fb778d03b0b8eb,color,4,top_right,3,No,Orange rectangle,5/11/2023 5:39,Yes,United States
+62c7e2035db496124cf69b56,color,2,top_right,0,No,Yellow rectangle,5/11/2023 5:39,Yes,UK
+62c7e2035db496124cf69b56,color,1,bottom_right,1,No,Pink triangle,5/11/2023 5:39,Yes,UK
+62c7e2035db496124cf69b56,color,4,top_left,2,Yes,Grey diamond,5/11/2023 5:39,Yes,UK
+62c7e2035db496124cf69b56,color,3,bottom_left,3,Yes,Grey circle,5/11/2023 5:39,Yes,UK
+59af9c33c05bb50001eb3713,color,3,top_left,0,Yes,star,5/11/2023 5:40,Yes,UK
+59af9c33c05bb50001eb3713,color,2,bottom_right,1,No,circle,5/11/2023 5:40,Yes,UK
+59af9c33c05bb50001eb3713,color,4,bottom_left,2,Yes,heart,5/11/2023 5:40,Yes,UK
+59af9c33c05bb50001eb3713,color,1,top_right,3,No,sun,5/11/2023 5:40,Yes,UK
+5c747fb0dce6380017f37ab1,color,1,bottom_right,0,No,Pink Triangle,5/11/2023 5:40,Yes,UK
+5c747fb0dce6380017f37ab1,color,4,bottom_left,1,Yes,Red Heart,5/11/2023 5:40,Yes,UK
+5c747fb0dce6380017f37ab1,color,2,top_right,2,No,Yellow Rectangle,5/11/2023 5:40,Yes,UK
+5c747fb0dce6380017f37ab1,color,3,top_left,3,Yes,Pink Star,5/11/2023 5:40,Yes,UK
+5e14de687d9adf000b603402,color,2,top_left,0,Yes,Pink rectangle,5/11/2023 5:40,Yes,UK
+5e14de687d9adf000b603402,color,3,top_right,1,No,yellow rectangle,5/11/2023 5:40,Yes,UK
+5e14de687d9adf000b603402,color,4,bottom_right,2,No,purple cross,5/11/2023 5:40,Yes,UK
+5e14de687d9adf000b603402,color,1,bottom_left,3,Yes,purple heart,5/11/2023 5:40,Yes,UK
+62c8532c43538cbe1256f410,color,2,bottom_right,0,No,Yellow circle ,5/11/2023 5:40,Yes,UK
+62c8532c43538cbe1256f410,color,1,top_left,1,Yes,Blue square ,5/11/2023 5:40,Yes,UK
+62c8532c43538cbe1256f410,color,4,bottom_left,2,Yes,Red heart ,5/11/2023 5:40,Yes,UK
+62c8532c43538cbe1256f410,color,3,top_right,3,No,Yellow rectangle ,5/11/2023 5:40,Yes,UK
+63d2d8388a367c258ca82590,color,3,top_left,0,Yes,Star,5/11/2023 5:40,Yes,UK
+63d2d8388a367c258ca82590,color,1,top_right,1,No,Sun,5/11/2023 5:40,Yes,UK
+63d2d8388a367c258ca82590,color,4,bottom_right,2,No,Plus,5/11/2023 5:40,Yes,UK
+63d2d8388a367c258ca82590,color,2,bottom_left,3,Yes,Square,5/11/2023 5:40,Yes,UK
+60d9977cee341b4bb9081d5c,color,2,bottom_left,0,Yes,Pink square ,5/11/2023 5:40,Yes,UK
+60d9977cee341b4bb9081d5c,color,3,top_right,1,No,Yellow rectangle ,5/11/2023 5:40,Yes,UK
+60d9977cee341b4bb9081d5c,color,1,top_left,2,Yes,Blue square ,5/11/2023 5:40,Yes,UK
+60d9977cee341b4bb9081d5c,color,4,bottom_right,3,No,Purple cross ,5/11/2023 5:40,Yes,UK
+5b1bc42168a5ed0001737ef3,color,2,top_right,0,No,rectangle,5/11/2023 5:40,Yes,UK
+5b1bc42168a5ed0001737ef3,color,3,bottom_right,1,No,triangle,5/11/2023 5:40,Yes,UK
+5b1bc42168a5ed0001737ef3,color,1,bottom_left,2,Yes,heart,5/11/2023 5:40,Yes,UK
+5b1bc42168a5ed0001737ef3,color,4,top_left,3,Yes,diamond,5/11/2023 5:40,Yes,UK
+5efc9190d8b4ba050a97f67d,color,1,top_right,0,No,Sun,5/11/2023 5:40,Yes,UK
+5efc9190d8b4ba050a97f67d,color,2,bottom_left,1,Yes,Square,5/11/2023 5:40,Yes,UK
+5efc9190d8b4ba050a97f67d,color,3,top_left,2,Yes,Star,5/11/2023 5:40,Yes,UK
+5efc9190d8b4ba050a97f67d,color,4,bottom_right,3,No,Cross,5/11/2023 5:40,Yes,UK
+63d144900b21122a53867c9a,color,3,top_left,0,Yes,pink star,5/11/2023 5:40,Yes,UK
+63d144900b21122a53867c9a,color,2,bottom_left,1,Yes,pink square,5/11/2023 5:40,Yes,UK
+63d144900b21122a53867c9a,color,4,bottom_right,2,No,purple cross,5/11/2023 5:40,Yes,UK
+63d144900b21122a53867c9a,color,1,top_right,3,No,brown sun,5/11/2023 5:40,Yes,UK
+5f117cb921deab000954bdbb,color,1,top_left,0,Yes,square,5/11/2023 5:41,Yes,Other
+5f117cb921deab000954bdbb,color,4,bottom_right,1,No,plus,5/11/2023 5:41,Yes,Other
+5f117cb921deab000954bdbb,color,3,bottom_left,2,Yes,circle,5/11/2023 5:41,Yes,Other
+5f117cb921deab000954bdbb,color,2,top_right,3,No,rectangle,5/11/2023 5:41,Yes,Other
+59787f7c5ea29d000126e6b8,color,2,bottom_right,0,No,Yellow circle,5/11/2023 5:41,Yes,UK
+59787f7c5ea29d000126e6b8,color,3,bottom_left,1,Yes,Grey circle,5/11/2023 5:41,Yes,UK
+59787f7c5ea29d000126e6b8,color,4,top_left,2,Yes,Grey diamond,5/11/2023 5:41,Yes,UK
+59787f7c5ea29d000126e6b8,color,1,top_right,3,No,Brown sun,5/11/2023 5:41,Yes,UK
+5d47d892c7f2bb0016592a12,color,4,top_right,0,No,Orange rectangle,5/11/2023 5:41,Yes,UK
+5d47d892c7f2bb0016592a12,color,3,bottom_right,1,No,Yellow triangle,5/11/2023 5:41,Yes,UK
+5d47d892c7f2bb0016592a12,color,2,bottom_left,2,Yes,Pink square,5/11/2023 5:41,Yes,UK
+5d47d892c7f2bb0016592a12,color,1,top_left,3,Yes,Blue square,5/11/2023 5:41,Yes,UK
+5c880fe38c0d010017591550,color,4,top_right,0,No,Orange rectangle ,5/11/2023 5:41,NA,NA
+5c880fe38c0d010017591550,color,3,bottom_right,1,No,Yellow triangle ,5/11/2023 5:41,NA,NA
+5c880fe38c0d010017591550,color,2,bottom_left,2,Yes,Pink square ,5/11/2023 5:41,NA,NA
+5c880fe38c0d010017591550,color,1,top_left,3,Yes,Blue square,5/11/2023 5:41,NA,NA
+59f7a04c05d1d60001f14597,color,3,top_left,0,Yes,Pink Star,5/11/2023 5:41,Yes,UK
+59f7a04c05d1d60001f14597,color,2,top_right,1,No,Yellow Rectangle,5/11/2023 5:41,Yes,UK
+59f7a04c05d1d60001f14597,color,1,bottom_left,2,Yes,Purple Heart,5/11/2023 5:41,Yes,UK
+59f7a04c05d1d60001f14597,color,4,bottom_right,3,No,Purple Cross,5/11/2023 5:41,Yes,UK
+5b60be654a14050001ba5e0e,color,3,top_right,0,No,Rectangle ,5/11/2023 5:41,Yes,UK
+5b60be654a14050001ba5e0e,color,1,bottom_left,1,Yes,Heart,5/11/2023 5:41,Yes,UK
+5b60be654a14050001ba5e0e,color,4,bottom_right,2,No,Cross,5/11/2023 5:41,Yes,UK
+5b60be654a14050001ba5e0e,color,2,top_left,3,Yes,Pink,5/11/2023 5:41,Yes,UK
+6085d06d448d4b83bc760079,color,3,top_left,0,Yes,Pink 5 pointed star,5/11/2023 5:41,Yes,UK
+6085d06d448d4b83bc760079,color,4,bottom_left,1,Yes,Red heart,5/11/2023 5:41,Yes,UK
+6085d06d448d4b83bc760079,color,2,top_right,2,No,Yellow rectangle,5/11/2023 5:41,Yes,UK
+6085d06d448d4b83bc760079,color,1,bottom_right,3,No,Pink triangle,5/11/2023 5:41,Yes,UK
+5e8e501f5d9d030e2c9ba1a1,color,1,top_right,0,No,Brown Sun,5/11/2023 5:41,Yes,UK
+5e8e501f5d9d030e2c9ba1a1,color,4,bottom_right,1,No,Purple Plus Sign,5/11/2023 5:41,Yes,UK
+5e8e501f5d9d030e2c9ba1a1,color,2,top_left,2,Yes,Pink Rectangle Perpendicular to Screen,5/11/2023 5:41,Yes,UK
+5e8e501f5d9d030e2c9ba1a1,color,3,bottom_left,3,Yes,Grey Circle,5/11/2023 5:41,Yes,UK
+5e1c5de3869083451d9a253e,color,4,top_right,0,No,Rectangle,5/11/2023 5:42,Yes,UK
+5e1c5de3869083451d9a253e,color,2,top_left,1,Yes,Rectangle ,5/11/2023 5:42,Yes,UK
+5e1c5de3869083451d9a253e,color,3,bottom_right,2,No,Triangle ,5/11/2023 5:42,Yes,UK
+5e1c5de3869083451d9a253e,color,1,bottom_left,3,Yes,Heart,5/11/2023 5:42,Yes,UK
+614c5eaac804278640675008,color,3,bottom_right,0,No,Yellow triangle,5/11/2023 5:42,Yes,UK
+614c5eaac804278640675008,color,4,bottom_left,1,Yes,Red heart,5/11/2023 5:42,Yes,UK
+614c5eaac804278640675008,color,1,top_left,2,Yes,Blue square,5/11/2023 5:42,Yes,UK
+614c5eaac804278640675008,color,2,top_right,3,No,Yellow rectangle,5/11/2023 5:42,Yes,UK
+55ed96367480920010aaaa58,color,3,top_left,0,Yes,star,5/11/2023 5:42,Yes,UK
+55ed96367480920010aaaa58,color,1,bottom_left,1,Yes,heart,5/11/2023 5:42,Yes,UK
+55ed96367480920010aaaa58,color,2,top_right,2,No,oblong,5/11/2023 5:42,Yes,UK
+55ed96367480920010aaaa58,color,4,bottom_right,3,No,plus,5/11/2023 5:42,Yes,UK
+5f37bc8fed147802129aceee,color,4,bottom_right,0,No,Purple cross ,5/11/2023 5:42,Yes,UK
+5f37bc8fed147802129aceee,color,1,bottom_left,1,Yes,Purple heart ,5/11/2023 5:42,Yes,UK
+5f37bc8fed147802129aceee,color,3,top_left,2,Yes,Purple star ,5/11/2023 5:42,Yes,UK
+5f37bc8fed147802129aceee,color,2,top_right,3,No,Yellow rectangle ,5/11/2023 5:42,Yes,UK
+5ca924edb570ed0001d22047,color,2,bottom_right,0,No,Yellow circle ,5/11/2023 5:42,Yes,UK
+5ca924edb570ed0001d22047,color,4,top_right,1,No,Orange rectangle ,5/11/2023 5:42,Yes,UK
+5ca924edb570ed0001d22047,color,3,top_left,2,Yes,Pink star ,5/11/2023 5:42,Yes,UK
+5ca924edb570ed0001d22047,color,1,bottom_left,3,Yes,Purple heart ,5/11/2023 5:42,Yes,UK
+6346ab31c7d314a6aad343d5,color,2,top_right,0,No,Yellow Rectangle,5/11/2023 5:42,Yes,UK
+6346ab31c7d314a6aad343d5,color,3,bottom_right,1,No,Yellow triangle,5/11/2023 5:42,Yes,UK
+6346ab31c7d314a6aad343d5,color,1,bottom_left,2,Yes,purple heart,5/11/2023 5:42,Yes,UK
+6346ab31c7d314a6aad343d5,color,4,top_left,3,Yes,white diamond,5/11/2023 5:42,Yes,UK
+5c5a98c42032f30001ba94fd,color,4,top_left,0,Yes,Greg diamond,5/11/2023 5:42,Yes,UK
+5c5a98c42032f30001ba94fd,color,2,bottom_left,1,Yes,Pink square ,5/11/2023 5:42,Yes,UK
+5c5a98c42032f30001ba94fd,color,3,top_right,2,No,Yellow rectangle ,5/11/2023 5:42,Yes,UK
+5c5a98c42032f30001ba94fd,color,1,bottom_right,3,No,Pink triangle ,5/11/2023 5:42,Yes,UK
+5982d6ac55a18000013384d1,color,3,bottom_left,0,Yes,Grey circle,5/11/2023 5:42,Yes,UK
+5982d6ac55a18000013384d1,color,1,bottom_right,1,No,Pink triangle,5/11/2023 5:42,Yes,UK
+5982d6ac55a18000013384d1,color,4,top_left,2,Yes,Greg diamond ,5/11/2023 5:42,Yes,UK
+5982d6ac55a18000013384d1,color,2,top_right,3,No,Yellow rectangle,5/11/2023 5:42,Yes,UK
+5bfed16ca1f050000102693c,color,2,top_left,0,Yes,Rectangle,5/11/2023 5:43,Yes,UK
+5bfed16ca1f050000102693c,color,3,top_right,1,No,Rectangle ,5/11/2023 5:43,Yes,UK
+5bfed16ca1f050000102693c,color,1,bottom_right,2,No,Triangle ,5/11/2023 5:43,Yes,UK
+5bfed16ca1f050000102693c,color,4,bottom_left,3,Yes,Heart,5/11/2023 5:43,Yes,UK
+5ea003d55707eb000996fe82,color,1,bottom_left,0,Yes,Heart,5/11/2023 5:43,Yes,UK
+5ea003d55707eb000996fe82,color,3,top_left,1,Yes,Star,5/11/2023 5:43,Yes,UK
+5ea003d55707eb000996fe82,color,2,bottom_right,2,No,Circle,5/11/2023 5:43,Yes,UK
+5ea003d55707eb000996fe82,color,4,top_right,3,No,Rectangle ,5/11/2023 5:43,Yes,UK
+5aae4d65811b2000016f794e,color,3,bottom_right,0,No,Yellow triangle,5/11/2023 5:43,Yes,UK
+5aae4d65811b2000016f794e,color,1,bottom_left,1,Yes,Purple heart,5/11/2023 5:43,Yes,UK
+5aae4d65811b2000016f794e,color,4,top_left,2,Yes,grey square on side,5/11/2023 5:43,Yes,UK
+5aae4d65811b2000016f794e,color,2,top_right,3,No,Yellow rectangle,5/11/2023 5:43,Yes,UK
+63e957764856baf2b6598a2b,color,4,top_left,0,Yes,Grey diamond,5/11/2023 5:43,Yes,UK
+63e957764856baf2b6598a2b,color,3,bottom_left,1,Yes,Grey circle,5/11/2023 5:43,Yes,UK
+63e957764856baf2b6598a2b,color,2,top_right,2,No,Yellow rectangle,5/11/2023 5:43,Yes,UK
+63e957764856baf2b6598a2b,color,1,bottom_right,3,No,Pink triangle,5/11/2023 5:43,Yes,UK
+5cb9bdde3eb01800129f81d7,color,3,bottom_left,0,Yes,circle,5/11/2023 5:43,Yes,UK
+5cb9bdde3eb01800129f81d7,color,4,top_left,1,Yes,kite,5/11/2023 5:43,Yes,UK
+5cb9bdde3eb01800129f81d7,color,2,top_right,2,No,rectangle,5/11/2023 5:43,Yes,UK
+5cb9bdde3eb01800129f81d7,color,1,bottom_right,3,No,triangle,5/11/2023 5:43,Yes,UK
+5b254c4f34ffd00001b43363,color,1,bottom_left,0,Yes,Purple.heart,5/11/2023 5:43,Yes,UK
+5b254c4f34ffd00001b43363,color,2,top_left,1,Yes,Pink rectangle,5/11/2023 5:43,Yes,UK
+5b254c4f34ffd00001b43363,color,3,top_right,2,No,Yellow rectangle,5/11/2023 5:43,Yes,UK
+5b254c4f34ffd00001b43363,color,4,bottom_right,3,No,Purple cross,5/11/2023 5:43,Yes,UK
+5b9e4dc6e671c60001228654,color,2,top_left,0,Yes,Pink rectangle ,5/11/2023 5:43,Yes,UK
+5b9e4dc6e671c60001228654,color,3,top_right,1,No,Yellow rectangle ,5/11/2023 5:43,Yes,UK
+5b9e4dc6e671c60001228654,color,4,bottom_left,2,Yes,Red heart,5/11/2023 5:43,Yes,UK
+5b9e4dc6e671c60001228654,color,1,bottom_right,3,No,Pink triangle ,5/11/2023 5:43,Yes,UK
+60eb7a4e37a7b08a26f2e8ef,color,4,bottom_left,0,Yes,Red heart,5/11/2023 5:43,Yes,UK
+60eb7a4e37a7b08a26f2e8ef,color,2,top_left,1,Yes,Pink rectangle,5/11/2023 5:43,Yes,UK
+60eb7a4e37a7b08a26f2e8ef,color,3,bottom_right,2,No,Yellow triangle ,5/11/2023 5:43,Yes,UK
+60eb7a4e37a7b08a26f2e8ef,color,1,top_right,3,No,Brown sun,5/11/2023 5:43,Yes,UK
+545cbbcafdf99b11ed040acf,color,4,top_left,0,Yes,gray diamond,5/11/2023 5:43,Yes,United States
+545cbbcafdf99b11ed040acf,color,3,bottom_left,1,Yes,gray circle,5/11/2023 5:43,Yes,United States
+545cbbcafdf99b11ed040acf,color,2,top_right,2,No,yellow rectangle,5/11/2023 5:43,Yes,United States
+545cbbcafdf99b11ed040acf,color,1,bottom_right,3,No,pink triangle,5/11/2023 5:43,Yes,United States
+616ec4ea9c7661b052bb0cf8,color,2,bottom_left,0,Yes,Purple square,5/11/2023 5:43,Yes,UK
+616ec4ea9c7661b052bb0cf8,color,1,top_left,1,Yes,Blue square,5/11/2023 5:43,Yes,UK
+616ec4ea9c7661b052bb0cf8,color,4,bottom_right,2,No,Purple cross,5/11/2023 5:43,Yes,UK
+616ec4ea9c7661b052bb0cf8,color,3,top_right,3,No,Yellow rectangle,5/11/2023 5:43,Yes,UK
+5c80367593fa450014546aca,color,1,bottom_left,0,Yes,heart,5/11/2023 5:43,Yes,UK
+5c80367593fa450014546aca,color,4,top_right,1,No,rectangle,5/11/2023 5:43,Yes,UK
+5c80367593fa450014546aca,color,2,top_left,2,Yes,rectangle,5/11/2023 5:43,Yes,UK
+5c80367593fa450014546aca,color,3,bottom_right,3,No,triangle ,5/11/2023 5:43,Yes,UK
+63bc6db65ba761e48ef4c896,color,3,top_left,0,Yes,Star,5/11/2023 5:44,Yes,UK
+63bc6db65ba761e48ef4c896,color,1,bottom_right,1,No,Triangle,5/11/2023 5:44,Yes,UK
+63bc6db65ba761e48ef4c896,color,4,top_right,2,No,Rectangle,5/11/2023 5:44,Yes,UK
+63bc6db65ba761e48ef4c896,color,2,bottom_left,3,Yes,Square,5/11/2023 5:44,Yes,UK
+5d973af75f3d9a00147aa26d,color,1,top_right,0,No,Sun,5/11/2023 5:44,Yes,UK
+5d973af75f3d9a00147aa26d,color,3,top_left,1,Yes,Star ,5/11/2023 5:44,Yes,UK
+5d973af75f3d9a00147aa26d,color,2,bottom_right,2,No,Circle ,5/11/2023 5:44,Yes,UK
+5d973af75f3d9a00147aa26d,color,4,bottom_left,3,Yes,Heart ,5/11/2023 5:44,Yes,UK
+5f647c4fe156e620d39f38b0,color,4,top_right,0,No,Orange rectangle ,5/11/2023 5:44,Yes,UK
+5f647c4fe156e620d39f38b0,color,1,bottom_left,1,Yes,Purple heart ,5/11/2023 5:44,Yes,UK
+5f647c4fe156e620d39f38b0,color,2,bottom_right,2,No,Yellow circle,5/11/2023 5:44,Yes,UK
+5f647c4fe156e620d39f38b0,color,3,top_left,3,Yes,Pink star,5/11/2023 5:44,Yes,UK
+583c682a9d65770001cebb77,color,3,top_left,0,Yes,star,5/11/2023 5:44,Yes,New Zealand
+583c682a9d65770001cebb77,color,1,bottom_right,1,No,triangle,5/11/2023 5:44,Yes,New Zealand
+583c682a9d65770001cebb77,color,4,bottom_left,2,Yes,heart,5/11/2023 5:44,Yes,New Zealand
+583c682a9d65770001cebb77,color,2,top_right,3,No,rectangle,5/11/2023 5:44,Yes,New Zealand
+60fad66ec91ad95228a2b4ea,color,3,bottom_right,0,No,Yellow triangle ,5/11/2023 5:44,Yes,UK
+60fad66ec91ad95228a2b4ea,color,1,top_right,1,No,Brown sun,5/11/2023 5:44,Yes,UK
+60fad66ec91ad95228a2b4ea,color,4,top_left,2,Yes,Grey diamond ,5/11/2023 5:44,Yes,UK
+60fad66ec91ad95228a2b4ea,color,2,bottom_left,3,Yes,Pink square,5/11/2023 5:44,Yes,UK
+612266e2ea3c172619abba50,color,3,top_right,0,No,Yellow rectangle ,5/11/2023 5:44,Yes,UK
+612266e2ea3c172619abba50,color,1,bottom_left,1,Yes,Purple heart,5/11/2023 5:44,Yes,UK
+612266e2ea3c172619abba50,color,2,bottom_right,2,No,Yellow circle,5/11/2023 5:44,Yes,UK
+612266e2ea3c172619abba50,color,4,top_left,3,Yes,Silver diamond,5/11/2023 5:44,Yes,UK
+62d5bfd2345849a8e785d6b3,color,3,top_right,0,No,Rectangle ,5/11/2023 5:44,Yes,UK
+62d5bfd2345849a8e785d6b3,color,4,bottom_right,1,No,Cross,5/11/2023 5:44,Yes,UK
+62d5bfd2345849a8e785d6b3,color,1,top_left,2,Yes,Square,5/11/2023 5:44,Yes,UK
+62d5bfd2345849a8e785d6b3,color,2,bottom_left,3,Yes,Square ,5/11/2023 5:44,Yes,UK
+5f6737563d3b6503b3da6ff7,color,4,bottom_left,0,Yes,heart,5/11/2023 5:44,Yes,New Zealand
+5f6737563d3b6503b3da6ff7,color,3,top_right,1,No,Rectangle,5/11/2023 5:44,Yes,New Zealand
+5f6737563d3b6503b3da6ff7,color,1,top_left,2,Yes,square,5/11/2023 5:44,Yes,New Zealand
+5f6737563d3b6503b3da6ff7,color,2,bottom_right,3,No,circle,5/11/2023 5:44,Yes,New Zealand
+60f2dd514eb84812f627fa7e,color,1,bottom_right,0,No,Pink triangle ,5/11/2023 5:45,Yes,UK
+60f2dd514eb84812f627fa7e,color,3,top_right,1,No,Yellow rectangle,5/11/2023 5:45,Yes,UK
+60f2dd514eb84812f627fa7e,color,4,top_left,2,Yes,Grey diamond ,5/11/2023 5:45,Yes,UK
+60f2dd514eb84812f627fa7e,color,2,bottom_left,3,Yes,Pink square,5/11/2023 5:45,Yes,UK
+602fcd044ad77ad42ee9a829,color,1,top_right,0,No,sun,5/11/2023 5:45,Yes,UK
+602fcd044ad77ad42ee9a829,color,3,top_left,1,Yes,Star,5/11/2023 5:45,Yes,UK
+602fcd044ad77ad42ee9a829,color,4,bottom_left,2,Yes,Heart,5/11/2023 5:45,Yes,UK
+602fcd044ad77ad42ee9a829,color,2,bottom_right,3,No,Circle,5/11/2023 5:45,Yes,UK
+5f2c058cff4041033f4c4a95,color,4,bottom_left,0,Yes,Heart shaped,5/11/2023 5:45,Yes,UK
+5f2c058cff4041033f4c4a95,color,1,bottom_right,1,No,Pink triangle,5/11/2023 5:45,Yes,UK
+5f2c058cff4041033f4c4a95,color,3,top_right,3,No,Yellow rectangle,5/11/2023 5:45,Yes,UK
+63d10034c4d10e158a7d2750,color,3,bottom_right,0,No,yellow triangle,5/11/2023 5:45,Yes,UK
+63d10034c4d10e158a7d2750,color,4,top_right,1,No,orange rectangle,5/11/2023 5:45,Yes,UK
+63d10034c4d10e158a7d2750,color,2,top_left,2,Yes,pink rectangle,5/11/2023 5:45,Yes,UK
+63d10034c4d10e158a7d2750,color,1,bottom_left,3,Yes,purple heart,5/11/2023 5:45,Yes,UK
+5d8a7019508ab200177f4777,color,1,top_left,0,Yes,blue square,5/11/2023 5:45,Yes,UK
+5d8a7019508ab200177f4777,color,4,bottom_right,1,No,purple plus sign,5/11/2023 5:45,Yes,UK
+5d8a7019508ab200177f4777,color,2,bottom_left,2,Yes,pink square ,5/11/2023 5:45,Yes,UK
+5d8a7019508ab200177f4777,color,3,top_right,3,No,yellow rectangle ,5/11/2023 5:45,Yes,UK
+5d95043f8e949c001680ef13,color,2,bottom_left,0,Yes,Purple square,5/11/2023 5:45,NA,NA
+5d95043f8e949c001680ef13,color,4,bottom_right,1,No,Purple cross,5/11/2023 5:45,NA,NA
+5d95043f8e949c001680ef13,color,1,top_left,2,Yes,Blue square,5/11/2023 5:45,NA,NA
+5d95043f8e949c001680ef13,color,3,top_right,3,No,Yellow rectangle,5/11/2023 5:45,NA,NA
+58357e068de0e90001c5b587,color,3,top_right,0,No,Yellow rectangle,5/11/2023 5:45,Yes,UK
+58357e068de0e90001c5b587,color,4,bottom_left,1,Yes,Red heart,5/11/2023 5:45,Yes,UK
+58357e068de0e90001c5b587,color,1,bottom_right,2,No,Pink triangle,5/11/2023 5:45,Yes,UK
+58357e068de0e90001c5b587,color,2,top_left,3,Yes,Pink rectangle,5/11/2023 5:45,Yes,UK
+5a52961c76d1c60001aaafa7,color,1,top_right,0,No,Looks like the sun,5/11/2023 5:45,Yes,UK
+5a52961c76d1c60001aaafa7,color,3,bottom_right,1,No,Triangle,5/11/2023 5:45,Yes,UK
+5a52961c76d1c60001aaafa7,color,2,bottom_left,2,Yes,Square,5/11/2023 5:45,Yes,UK
+5a52961c76d1c60001aaafa7,color,4,top_left,3,Yes,Diamond ,5/11/2023 5:45,Yes,UK
+5efca85159e09c06e7d064ba,color,3,bottom_left,0,Yes,Grey circle,5/11/2023 5:45,Yes,UK
+5efca85159e09c06e7d064ba,color,1,bottom_right,1,No,Pink Triangle,5/11/2023 5:45,Yes,UK
+5efca85159e09c06e7d064ba,color,4,top_left,2,Yes,Grey Diamond,5/11/2023 5:45,Yes,UK
+5efca85159e09c06e7d064ba,color,2,top_right,3,No,Yellow Rectangle,5/11/2023 5:45,Yes,UK
+5f591a5a9a49e211efead835,color,4,top_left,0,Yes,"The grey diamond, the shape has 4 sides and sits on a point not on a side",5/11/2023 5:45,Yes,UK
+5f591a5a9a49e211efead835,color,3,bottom_left,1,Yes,"The grey circle, one continuous round line ",5/11/2023 5:45,Yes,UK
+5f591a5a9a49e211efead835,color,2,bottom_right,2,No,"The yellow circle, one continuous round line ",5/11/2023 5:45,Yes,UK
+5f591a5a9a49e211efead835,color,1,top_right,3,No,The brown sun shape made up of a central circle with triangles as rays,5/11/2023 5:45,Yes,UK
+5cc53cf3291607001757c712,color,4,bottom_left,0,Yes,Red heart,5/11/2023 5:45,Yes,UK
+5cc53cf3291607001757c712,color,2,bottom_right,1,No,yellow circle,5/11/2023 5:45,Yes,UK
+5cc53cf3291607001757c712,color,3,top_left,2,Yes,pink star,5/11/2023 5:45,Yes,UK
+5cc53cf3291607001757c712,color,1,top_right,3,No,brown sun,5/11/2023 5:45,Yes,UK
+5f953584d654c638ae82c4b2,color,1,bottom_right,0,No,Triangle box,5/11/2023 5:46,Yes,UK
+5f953584d654c638ae82c4b2,color,2,top_left,1,Yes,Rectangle box,5/11/2023 5:46,Yes,UK
+5f953584d654c638ae82c4b2,color,4,bottom_left,2,Yes,Heart box,5/11/2023 5:46,Yes,UK
+5f953584d654c638ae82c4b2,color,3,top_right,3,No,Yellow rectangle box,5/11/2023 5:46,Yes,UK
+5588b2bffdf99b7a7714efd1,color,3,bottom_left,0,Yes,grey circle,5/11/2023 5:46,Yes,UK
+5588b2bffdf99b7a7714efd1,color,1,top_left,1,Yes,blue square,5/11/2023 5:46,Yes,UK
+5588b2bffdf99b7a7714efd1,color,2,bottom_right,2,No,yellow circle,5/11/2023 5:46,Yes,UK
+5588b2bffdf99b7a7714efd1,color,4,top_right,3,No,orange rectangle,5/11/2023 5:46,Yes,UK
+5f8ea9364cec4802021bd171,color,2,bottom_right,0,No,Yellow,5/11/2023 5:46,Yes,UK
+5f8ea9364cec4802021bd171,color,4,bottom_left,1,Yes,Heart,5/11/2023 5:46,Yes,UK
+5f8ea9364cec4802021bd171,color,3,top_right,2,No,Triangle,5/11/2023 5:46,Yes,UK
+5f8ea9364cec4802021bd171,color,1,top_left,3,Yes,Square,5/11/2023 5:46,Yes,UK
+62ea8339a4dda94a52915422,color,3,top_right,0,No,Yellow rectangle ,5/11/2023 5:46,Yes,UK
+62ea8339a4dda94a52915422,color,1,bottom_left,1,Yes,Purple heart,5/11/2023 5:46,Yes,UK
+62ea8339a4dda94a52915422,color,4,top_left,2,Yes,Grey diamond ,5/11/2023 5:46,Yes,UK
+62ea8339a4dda94a52915422,color,2,bottom_right,3,No,Yellow circle ,5/11/2023 5:46,Yes,UK
+63b40e41dbb929924b4db7ce,color,2,bottom_right,0,No,Yellow circle,5/11/2023 5:46,Yes,UK
+63b40e41dbb929924b4db7ce,color,3,top_left,1,Yes,Pink star,5/11/2023 5:46,Yes,UK
+63b40e41dbb929924b4db7ce,color,1,top_right,2,No,Brown circle with smaller brown triangles around it’s perimeter,5/11/2023 5:46,Yes,UK
+63b40e41dbb929924b4db7ce,color,4,bottom_left,3,Yes,Red heart,5/11/2023 5:46,Yes,UK
+5f69c514b7dfb7020ee1bcb0,color,2,bottom_left,0,Yes,Pink Square,5/11/2023 5:46,Yes,UK
+5f69c514b7dfb7020ee1bcb0,color,1,top_left,1,Yes,Blue square ,5/11/2023 5:46,Yes,UK
+5f69c514b7dfb7020ee1bcb0,color,3,bottom_right,2,No,Yellow triangle ,5/11/2023 5:46,Yes,UK
+5f69c514b7dfb7020ee1bcb0,color,4,top_right,3,No,Orange rectangle ,5/11/2023 5:46,Yes,UK
+60315c0a543ec50821598d57,color,2,top_right,0,No,Yellow ,5/11/2023 5:46,Yes,UK
+60315c0a543ec50821598d57,color,1,bottom_left,1,Yes,Heart ,5/11/2023 5:46,Yes,UK
+60315c0a543ec50821598d57,color,3,bottom_right,2,No,triangle ,5/11/2023 5:46,Yes,UK
+60315c0a543ec50821598d57,color,4,top_left,3,Yes,Diamond ,5/11/2023 5:46,Yes,UK
+614afb8ef310dc8d8125a9fe,color,2,top_right,0,No,Top right,5/11/2023 5:46,Yes,UK
+614afb8ef310dc8d8125a9fe,color,3,bottom_left,1,Yes,BottomeLeft,5/11/2023 5:46,Yes,UK
+614afb8ef310dc8d8125a9fe,color,4,top_left,2,Yes,Too left,5/11/2023 5:46,Yes,UK
+614afb8ef310dc8d8125a9fe,color,1,bottom_right,3,No,Bottom left,5/11/2023 5:46,Yes,UK
+6032276df732e91d963c2bd8,color,1,bottom_left,0,Yes,Purple heart ,5/11/2023 5:46,Yes,UK
+6032276df732e91d963c2bd8,color,3,top_right,1,No,Yellow rectangle ,5/11/2023 5:46,Yes,UK
+6032276df732e91d963c2bd8,color,2,top_left,2,Yes,Pink rectangle ,5/11/2023 5:46,Yes,UK
+6032276df732e91d963c2bd8,color,4,bottom_right,3,No,Purple cross,5/11/2023 5:46,Yes,UK
+5d192384c1e685001a907257,color,4,bottom_right,0,No,A plus sign,5/11/2023 5:47,Yes,UK
+5d192384c1e685001a907257,color,1,bottom_left,1,Yes,Loveheart,5/11/2023 5:47,Yes,UK
+5d192384c1e685001a907257,color,3,top_left,2,Yes,Star,5/11/2023 5:47,Yes,UK
+5d192384c1e685001a907257,color,2,top_right,3,No,Rectangle ,5/11/2023 5:47,Yes,UK
+5ce1b491fd6595001ba5a4cc,color,4,bottom_right,0,No,Plud,5/11/2023 5:47,Yes,UK
+5ce1b491fd6595001ba5a4cc,color,1,bottom_left,1,Yes,Heart,5/11/2023 5:47,Yes,UK
+5ce1b491fd6595001ba5a4cc,color,3,top_left,2,Yes,Star,5/11/2023 5:47,Yes,UK
+5ce1b491fd6595001ba5a4cc,color,2,top_right,3,No,Oblong,5/11/2023 5:47,Yes,UK
+5b9b5677e671c6000121f35f,color,1,bottom_left,0,Yes,Purple heart ,5/11/2023 5:47,Yes,UK
+5b9b5677e671c6000121f35f,color,4,bottom_right,1,No,Purple cross,5/11/2023 5:47,Yes,UK
+5b9b5677e671c6000121f35f,color,2,top_right,2,No,Yellow rectangle ,5/11/2023 5:47,Yes,UK
+5b9b5677e671c6000121f35f,color,3,top_left,3,Yes,Pink star ,5/11/2023 5:47,Yes,UK
+5d59cb467ca41f0001e97e1f,color,2,bottom_left,0,Yes,Pink square,5/11/2023 5:47,Yes,UK
+5d59cb467ca41f0001e97e1f,color,4,bottom_right,1,No,Purple cross,5/11/2023 5:47,Yes,UK
+5d59cb467ca41f0001e97e1f,color,1,top_left,2,Yes,Blue square,5/11/2023 5:47,Yes,UK
+5d59cb467ca41f0001e97e1f,color,3,top_right,3,No,Yellow rectangle,5/11/2023 5:47,Yes,UK
+6290d8bf7677848306b76fce,color,3,bottom_left,0,Yes,Horizontal with rounded edges like an egg,5/11/2023 5:48,Yes,UK
+6290d8bf7677848306b76fce,color,1,top_left,1,Yes,Blue with 4 equal straight sides ,5/11/2023 5:48,Yes,UK
+6290d8bf7677848306b76fce,color,2,top_right,2,No,Yellow with 4 sides ,5/11/2023 5:48,Yes,UK
+6290d8bf7677848306b76fce,color,4,bottom_right,3,No,Purple with 12sides,5/11/2023 5:48,Yes,UK
+60a3304ffb8cf482f8d11b6f,color,1,bottom_right,0,No,Pink triangle,5/11/2023 5:48,Yes,UK
+60a3304ffb8cf482f8d11b6f,color,2,bottom_left,1,Yes,Pink square,5/11/2023 5:48,Yes,UK
+60a3304ffb8cf482f8d11b6f,color,4,top_right,2,No,orange rectangle,5/11/2023 5:48,Yes,UK
+60a3304ffb8cf482f8d11b6f,color,3,top_left,3,Yes,pink star,5/11/2023 5:48,Yes,UK
+577bef95908f1d0001c392ef,color,4,top_left,0,Yes,Diamond ,5/11/2023 5:48,Yes,UK
+577bef95908f1d0001c392ef,color,2,bottom_left,1,Yes,Purple square,5/11/2023 5:48,Yes,UK
+577bef95908f1d0001c392ef,color,1,bottom_right,2,No,Purple triangle,5/11/2023 5:48,Yes,UK
+577bef95908f1d0001c392ef,color,3,top_right,3,No,Yellow rectangle,5/11/2023 5:48,Yes,UK
+57b53ad8a18afd00013e0565,color,2,top_right,0,No,8 pointed star,5/11/2023 5:48,Yes,UK
+57b53ad8a18afd00013e0565,color,4,top_left,1,Yes,diamond,5/11/2023 5:48,Yes,UK
+57b53ad8a18afd00013e0565,color,1,bottom_left,2,Yes,heart,5/11/2023 5:48,Yes,UK
+57b53ad8a18afd00013e0565,color,3,bottom_right,3,No,triangle,5/11/2023 5:48,Yes,UK
+5f4380bb7ca9ca5ca407fc04,color,1,bottom_right,0,No,Triangle,5/11/2023 5:48,Yes,Other
+5f4380bb7ca9ca5ca407fc04,color,4,bottom_left,1,Yes,Heart,5/11/2023 5:48,Yes,Other
+5f4380bb7ca9ca5ca407fc04,color,2,top_left,2,Yes,Pink rectangle ,5/11/2023 5:48,Yes,Other
+5f4380bb7ca9ca5ca407fc04,color,3,top_right,3,No,Yellow rectangle ,5/11/2023 5:48,Yes,Other
+5f4380bb7ca9ca5ca407fc04,color,1,bottom_right,0,No,Triangle,5/11/2023 5:48,Yes,Other
+5f4380bb7ca9ca5ca407fc04,color,4,bottom_left,1,Yes,Heart,5/11/2023 5:48,Yes,Other
+5f4380bb7ca9ca5ca407fc04,color,2,top_left,2,Yes,Pink rectangle ,5/11/2023 5:48,Yes,Other
+5f4380bb7ca9ca5ca407fc04,color,3,top_right,3,No,Yellow rectangle ,5/11/2023 5:48,Yes,Other
+63cee143ef1cb49bc4d101db,color,3,bottom_left,0,Yes,Grey circle ,5/11/2023 5:48,Yes,UK
+63cee143ef1cb49bc4d101db,color,4,bottom_right,1,No,Purple cross ,5/11/2023 5:48,Yes,UK
+63cee143ef1cb49bc4d101db,color,2,top_right,2,No,Yellow rectangle ,5/11/2023 5:48,Yes,UK
+63cee143ef1cb49bc4d101db,color,1,top_left,3,Yes,Blue square ,5/11/2023 5:48,Yes,UK
+613bbe68c94dfc382e562d90,color,2,bottom_left,0,Yes,Square,5/11/2023 5:48,Yes,UK
+613bbe68c94dfc382e562d90,color,1,top_right,1,No,Sun,5/11/2023 5:48,Yes,UK
+613bbe68c94dfc382e562d90,color,3,bottom_right,2,No,Triangle,5/11/2023 5:48,Yes,UK
+613bbe68c94dfc382e562d90,color,4,top_left,3,Yes,Diamond,5/11/2023 5:48,Yes,UK
+5bf9616397560100013d8d2f,color,2,bottom_left,0,Yes,Pink square,5/11/2023 5:48,Yes,UK
+5bf9616397560100013d8d2f,color,3,top_left,1,Yes,Pink star,5/11/2023 5:48,Yes,UK
+5bf9616397560100013d8d2f,color,1,top_right,2,No,Gold sun,5/11/2023 5:48,Yes,UK
+5bf9616397560100013d8d2f,color,4,bottom_right,3,No,Purple cross,5/11/2023 5:48,Yes,UK
+5d747c71641e7d0019a27ad4,color,1,bottom_left,0,Yes,Purple heart,5/11/2023 5:48,Yes,UK
+5d747c71641e7d0019a27ad4,color,2,bottom_right,1,No,Yellow circle,5/11/2023 5:48,Yes,UK
+5d747c71641e7d0019a27ad4,color,4,top_right,2,No,Orange rectangle ,5/11/2023 5:48,Yes,UK
+5d747c71641e7d0019a27ad4,color,3,top_left,3,Yes,Pink star,5/11/2023 5:48,Yes,UK
+637e81c7412aa8b5096fb176,color,2,bottom_left,0,Yes,Pink square ,5/11/2023 5:48,Yes,UK
+637e81c7412aa8b5096fb176,color,4,bottom_right,1,No,Purple Plus,5/11/2023 5:48,Yes,UK
+637e81c7412aa8b5096fb176,color,3,top_left,2,Yes,Pink Star,5/11/2023 5:48,Yes,UK
+637e81c7412aa8b5096fb176,color,1,top_right,3,No,Brown Sun,5/11/2023 5:48,Yes,UK
+59ada0805ea0f30001281732,color,3,bottom_left,0,Yes,Grey circle ,5/11/2023 5:48,Yes,UK
+59ada0805ea0f30001281732,color,1,top_right,1,No,Brown sun,5/11/2023 5:48,Yes,UK
+59ada0805ea0f30001281732,color,4,top_left,2,Yes,Grey diamond ,5/11/2023 5:48,Yes,UK
+59ada0805ea0f30001281732,color,2,bottom_right,3,No,Yellow circle ,5/11/2023 5:48,Yes,UK
+584ab3c31f819a00018695e3,color,1,bottom_left,0,Yes,Purple heart,5/11/2023 5:48,Yes,UK
+584ab3c31f819a00018695e3,color,2,bottom_right,1,No,Yellow circle ,5/11/2023 5:48,Yes,UK
+584ab3c31f819a00018695e3,color,3,top_left,2,Yes,Pink star,5/11/2023 5:48,Yes,UK
+584ab3c31f819a00018695e3,color,4,top_right,3,No,Orange rectangle,5/11/2023 5:48,Yes,UK
+62b224142b613b1ffb985ed2,color,4,top_right,0,No,It has 4 straight sides,5/11/2023 5:48,Yes,UK
+62b224142b613b1ffb985ed2,color,3,bottom_left,1,Yes,A circle,5/11/2023 5:48,Yes,UK
+62b224142b613b1ffb985ed2,color,1,top_left,2,Yes,It has 4 straight sides,5/11/2023 5:48,Yes,UK
+62b224142b613b1ffb985ed2,color,2,bottom_right,3,No,A circle,5/11/2023 5:48,Yes,UK
+58ff27489ca116000122f93e,color,3,bottom_right,0,No,yellow triangle,5/11/2023 5:48,Yes,UK
+58ff27489ca116000122f93e,color,1,top_right,1,No,brown star,5/11/2023 5:48,Yes,UK
+58ff27489ca116000122f93e,color,4,bottom_left,2,Yes,red heart,5/11/2023 5:48,Yes,UK
+58ff27489ca116000122f93e,color,2,top_left,3,Yes,purple rectangle,5/11/2023 5:48,Yes,UK
+5eaefec7c1324e5def56caf8,color,3,bottom_left,0,Yes,gray circle,5/11/2023 5:48,Yes,United States
+5eaefec7c1324e5def56caf8,color,2,top_left,1,Yes,pink rectangle,5/11/2023 5:48,Yes,United States
+5eaefec7c1324e5def56caf8,color,4,bottom_right,2,No,purple plus sign,5/11/2023 5:48,Yes,United States
+5eaefec7c1324e5def56caf8,color,1,top_right,3,No,brown sun,5/11/2023 5:48,Yes,United States
+5edcfe489e50c29dad7917ae,color,4,top_left,0,Yes,Grey diamond,5/11/2023 5:49,Yes,UK
+5edcfe489e50c29dad7917ae,color,1,bottom_right,1,No,Pink triangle ,5/11/2023 5:49,Yes,UK
+5edcfe489e50c29dad7917ae,color,2,bottom_left,2,Yes,Pink square,5/11/2023 5:49,Yes,UK
+5edcfe489e50c29dad7917ae,color,3,top_right,3,No,Yellow rectangle ,5/11/2023 5:49,Yes,UK
+63de656828b28434f3ed4808,color,1,bottom_left,0,Yes,Purple heart,5/11/2023 5:49,Yes,UK
+63de656828b28434f3ed4808,color,2,top_right,1,No,Yellow rectangle,5/11/2023 5:49,Yes,UK
+63de656828b28434f3ed4808,color,4,top_left,2,Yes,Grey diamond ,5/11/2023 5:49,Yes,UK
+63de656828b28434f3ed4808,color,3,bottom_right,3,No,Yellow triangle ,5/11/2023 5:49,Yes,UK
+641cb435247237dde7471888,color,2,top_left,0,Yes,Pink rectangle,5/11/2023 5:49,Yes,UK
+641cb435247237dde7471888,color,4,top_right,1,No,Orange rectangle ,5/11/2023 5:49,Yes,UK
+641cb435247237dde7471888,color,1,bottom_left,2,Yes,Purple heart,5/11/2023 5:49,Yes,UK
+641cb435247237dde7471888,color,3,bottom_right,3,No,Yellow triangle ,5/11/2023 5:49,Yes,UK
+5d31dc6e42678e001a0bdedd,color,3,bottom_left,0,Yes,Grey Circle ,5/11/2023 5:49,Yes,UK
+5d31dc6e42678e001a0bdedd,color,1,bottom_right,1,No,Pink Triangle ,5/11/2023 5:49,Yes,UK
+5d31dc6e42678e001a0bdedd,color,2,top_left,2,Yes,Pink rectangle ,5/11/2023 5:49,Yes,UK
+5d31dc6e42678e001a0bdedd,color,4,top_right,3,No,Orange rectangle ,5/11/2023 5:49,Yes,UK
+5cf2585b4f87b000153dee72,color,3,top_right,0,No,Yellow rectangle ,5/11/2023 5:49,Yes,UK
+5cf2585b4f87b000153dee72,color,4,bottom_right,1,No,Purple cross,5/11/2023 5:49,Yes,UK
+5cf2585b4f87b000153dee72,color,2,bottom_left,2,Yes,Pink square,5/11/2023 5:49,Yes,UK
+5cf2585b4f87b000153dee72,color,1,top_left,3,Yes,Blue square,5/11/2023 5:49,Yes,UK
+5c64561ab84cf50001b59f09,color,3,bottom_right,0,No,yellow triangle,5/11/2023 5:49,Yes,United States
+5c64561ab84cf50001b59f09,color,2,top_right,1,No,yellow rectangle,5/11/2023 5:49,Yes,United States
+5c64561ab84cf50001b59f09,color,4,top_left,2,Yes,gray diamond,5/11/2023 5:49,Yes,United States
+5c64561ab84cf50001b59f09,color,1,bottom_left,3,Yes,purple heart,5/11/2023 5:49,Yes,United States
+5dbcb703f621f0250a7d597a,color,1,top_left,0,Yes,Blue square ,5/11/2023 5:49,Yes,UK
+5dbcb703f621f0250a7d597a,color,3,bottom_right,1,No,Yellow triangle ,5/11/2023 5:49,Yes,UK
+5dbcb703f621f0250a7d597a,color,4,bottom_left,2,Yes,Red heart,5/11/2023 5:49,Yes,UK
+5dbcb703f621f0250a7d597a,color,2,top_right,3,No,Yellow rectangle,5/11/2023 5:49,Yes,UK
+64417d740541530e34daa2ba,color,1,bottom_left,0,Yes,Purple heart shape,5/11/2023 5:49,Yes,UK
+64417d740541530e34daa2ba,color,3,top_right,1,No,Yellow rectangle ,5/11/2023 5:49,Yes,UK
+64417d740541530e34daa2ba,color,4,bottom_right,2,No,Purple cross,5/11/2023 5:49,Yes,UK
+64417d740541530e34daa2ba,color,2,top_left,3,Yes,Pink rectangle ,5/11/2023 5:49,Yes,UK
+6307d1ad6f18f63c178717a6,color,2,bottom_right,0,No,Yellow circle,5/11/2023 5:49,Yes,UK
+6307d1ad6f18f63c178717a6,color,4,top_right,1,No,Orange rectangle,5/11/2023 5:49,Yes,UK
+6307d1ad6f18f63c178717a6,color,3,bottom_left,2,Yes,Grey circle,5/11/2023 5:49,Yes,UK
+6307d1ad6f18f63c178717a6,color,1,top_left,3,Yes,Blue square,5/11/2023 5:49,Yes,UK
+6077130137e127a7790e6d46,color,2,bottom_right,0,No,Yellow circle,5/11/2023 5:49,NA,NA
+6077130137e127a7790e6d46,color,4,top_left,1,Yes,Grey diamond,5/11/2023 5:49,NA,NA
+6077130137e127a7790e6d46,color,3,bottom_left,2,Yes,Grey circle,5/11/2023 5:49,NA,NA
+6077130137e127a7790e6d46,color,1,top_right,3,No,Brown sun,5/11/2023 5:49,NA,NA
+605afaf6817151e6d9e890cd,color,3,top_left,0,Yes,Star,5/11/2023 5:49,Yes,UK
+605afaf6817151e6d9e890cd,color,4,bottom_right,1,No,Cross,5/11/2023 5:49,Yes,UK
+605afaf6817151e6d9e890cd,color,2,bottom_left,2,Yes,Square,5/11/2023 5:49,Yes,UK
+605afaf6817151e6d9e890cd,color,1,top_right,3,No,Sun,5/11/2023 5:49,Yes,UK
+62e3ff70c659e13e1ddf3048,color,3,top_left,0,Yes,Pink star,5/11/2023 5:49,Yes,UK
+62e3ff70c659e13e1ddf3048,color,4,bottom_left,1,Yes,Red heart,5/11/2023 5:49,Yes,UK
+62e3ff70c659e13e1ddf3048,color,1,bottom_right,2,No,Pink triangle ,5/11/2023 5:49,Yes,UK
+62e3ff70c659e13e1ddf3048,color,2,top_right,3,No,Yellow rectangle ,5/11/2023 5:49,Yes,UK
+5aff493f331e8100018f130d,color,3,top_right,0,No,rectangle yellow,5/11/2023 5:50,Yes,UK
+5aff493f331e8100018f130d,color,1,bottom_left,1,Yes,heart purple,5/11/2023 5:50,Yes,UK
+5aff493f331e8100018f130d,color,2,bottom_right,2,No,circle yellow,5/11/2023 5:50,Yes,UK
+5aff493f331e8100018f130d,color,4,top_left,3,Yes,diamond grey,5/11/2023 5:50,Yes,UK
+62a38524744b9a503c3f1d1c,color,1,top_left,0,Yes,Blue square,5/11/2023 5:50,Yes,UK
+62a38524744b9a503c3f1d1c,color,2,bottom_left,1,Yes,Pink square,5/11/2023 5:50,Yes,UK
+62a38524744b9a503c3f1d1c,color,3,top_right,2,No,Yellow rectangle ,5/11/2023 5:50,Yes,UK
+62a38524744b9a503c3f1d1c,color,4,bottom_right,3,No,Purple plus sign ,5/11/2023 5:50,Yes,UK
+5e0d774811999f502233d6ee,color,4,top_left,0,Yes,A light gray diamond. ,5/11/2023 5:50,Yes,United States
+5e0d774811999f502233d6ee,color,2,bottom_left,1,Yes,A pink square.,5/11/2023 5:50,Yes,United States
+5e0d774811999f502233d6ee,color,3,top_right,2,No,A yellow rectangle.,5/11/2023 5:50,Yes,United States
+5e0d774811999f502233d6ee,color,1,bottom_right,3,No,A pink triangle.,5/11/2023 5:50,Yes,United States
+5c5c9a127bca5b000167acb8,color,1,top_right,0,No,brown sun,5/11/2023 5:50,Yes,UK
+5c5c9a127bca5b000167acb8,color,3,bottom_right,1,No,yellow triangle,5/11/2023 5:50,Yes,UK
+5c5c9a127bca5b000167acb8,color,4,top_left,2,Yes,grey diamond,5/11/2023 5:50,Yes,UK
+5c5c9a127bca5b000167acb8,color,2,bottom_left,3,Yes,lilac square,5/11/2023 5:50,Yes,UK
+6110f4896dea29a375c227a8,color,2,bottom_right,0,No,Yellow circle ,5/11/2023 5:50,Yes,UK
+6110f4896dea29a375c227a8,color,3,top_left,1,Yes,Pink star,5/11/2023 5:50,Yes,UK
+6110f4896dea29a375c227a8,color,4,bottom_left,2,Yes,Red heart ,5/11/2023 5:50,Yes,UK
+6110f4896dea29a375c227a8,color,1,top_right,3,No,Brown sun,5/11/2023 5:50,Yes,UK
+5e98ce846515431026d195c6,color,2,top_right,0,No,Yellow rectangle,5/11/2023 5:50,Yes,UK
+5e98ce846515431026d195c6,color,4,top_left,1,Yes,Grey diamond,5/11/2023 5:50,Yes,UK
+5e98ce846515431026d195c6,color,3,bottom_left,2,Yes,Grey circle,5/11/2023 5:50,Yes,UK
+5e98ce846515431026d195c6,color,1,bottom_right,3,No,Pink Triangle,5/11/2023 5:50,Yes,UK
+5d684971f5868700184eab81,color,1,top_right,0,No,Sun,5/11/2023 5:50,Yes,UK
+5d684971f5868700184eab81,color,3,bottom_right,1,No,Triangle,5/11/2023 5:50,Yes,UK
+5d684971f5868700184eab81,color,2,top_left,2,Yes,Rectangle,5/11/2023 5:50,Yes,UK
+5d684971f5868700184eab81,color,4,bottom_left,3,Yes,Heart,5/11/2023 5:50,Yes,UK
+60dcbb9b52603d2081d2ecac,color,1,bottom_right,0,No,Pink Triangle,5/11/2023 5:50,Yes,UK
+60dcbb9b52603d2081d2ecac,color,4,top_left,1,Yes,Grey rhombus,5/11/2023 5:50,Yes,UK
+60dcbb9b52603d2081d2ecac,color,3,bottom_left,2,Yes,Grey circle,5/11/2023 5:50,Yes,UK
+60dcbb9b52603d2081d2ecac,color,2,top_right,3,No,Yellow rectangle,5/11/2023 5:50,Yes,UK
+62fe95b5260f22491cc18967,color,3,top_right,0,No,Yellow rectangle ,5/11/2023 5:50,Yes,UK
+62fe95b5260f22491cc18967,color,4,top_left,1,Yes,Grey diamond ,5/11/2023 5:50,Yes,UK
+62fe95b5260f22491cc18967,color,1,bottom_left,2,Yes,Purple heart ,5/11/2023 5:50,Yes,UK
+62fe95b5260f22491cc18967,color,2,bottom_right,3,No,Yellow circle ,5/11/2023 5:50,Yes,UK
+5a5a6ed7f6c517000195029e,color,3,bottom_right,0,No,Yellow triangle ,5/11/2023 5:50,Yes,UK
+5a5a6ed7f6c517000195029e,color,1,bottom_left,1,Yes,Purple heart ,5/11/2023 5:50,Yes,UK
+5a5a6ed7f6c517000195029e,color,2,top_right,2,No,Yellow rectangle ,5/11/2023 5:50,Yes,UK
+5a5a6ed7f6c517000195029e,color,4,top_left,3,Yes,Grey diamond ,5/11/2023 5:50,Yes,UK
+56235e19ed6e5a0011c80a7b,color,2,bottom_right,0,No,A YELLOW CIRCLE,5/11/2023 5:50,Yes,UK
+56235e19ed6e5a0011c80a7b,color,4,bottom_left,1,Yes,A RED HEART,5/11/2023 5:50,Yes,UK
+56235e19ed6e5a0011c80a7b,color,3,top_right,2,No,A YELLOW RECTANGLE,5/11/2023 5:50,Yes,UK
+56235e19ed6e5a0011c80a7b,color,1,top_left,3,Yes,A BLUE SQUARE,5/11/2023 5:50,Yes,UK
+5a05b488120fb30001948623,color,4,top_left,0,Yes,Diamond,5/11/2023 5:50,Yes,UK
+5a05b488120fb30001948623,color,2,top_right,1,No,Rectangle,5/11/2023 5:50,Yes,UK
+5a05b488120fb30001948623,color,3,bottom_left,2,Yes,Circle,5/11/2023 5:50,Yes,UK
+5a05b488120fb30001948623,color,1,bottom_right,3,No,Triangle,5/11/2023 5:50,Yes,UK
+60e02be4699a3f5cbe314e99,color,2,top_left,0,Yes,pink rectangle,5/11/2023 5:50,Yes,UK
+60e02be4699a3f5cbe314e99,color,1,bottom_right,1,No,pink triangle,5/11/2023 5:50,Yes,UK
+60e02be4699a3f5cbe314e99,color,4,bottom_left,2,Yes,red heart,5/11/2023 5:50,Yes,UK
+60e02be4699a3f5cbe314e99,color,3,top_right,3,No,yellow rectangle,5/11/2023 5:50,Yes,UK
+63d8f454b65106a74c6c45a0,color,1,bottom_right,0,No,Pink Triangle ,5/11/2023 5:50,Yes,UK
+63d8f454b65106a74c6c45a0,color,2,top_left,1,Yes,Pink Rectangle ,5/11/2023 5:50,Yes,UK
+63d8f454b65106a74c6c45a0,color,4,top_right,2,No,Orange rectangle ,5/11/2023 5:50,Yes,UK
+63d8f454b65106a74c6c45a0,color,3,bottom_left,3,Yes,Grey circle ,5/11/2023 5:50,Yes,UK
+5e304e239d3234045b72d829,color,1,top_right,0,No,Brown Sunshine ,5/11/2023 5:50,Yes,UK
+5e304e239d3234045b72d829,color,2,top_left,1,Yes,Pink Rectangle ,5/11/2023 5:50,Yes,UK
+5e304e239d3234045b72d829,color,3,bottom_left,2,Yes,Grey circle ,5/11/2023 5:50,Yes,UK
+5e304e239d3234045b72d829,color,4,bottom_right,3,No,Purple cross ,5/11/2023 5:50,Yes,UK
+6103082117238ae6d0c3e805,color,4,top_left,0,Yes,Grey diamond,5/11/2023 5:50,Yes,UK
+6103082117238ae6d0c3e805,color,2,bottom_left,1,Yes,Pink square,5/11/2023 5:50,Yes,UK
+6103082117238ae6d0c3e805,color,1,top_right,2,No,Brown sunshine,5/11/2023 5:50,Yes,UK
+6103082117238ae6d0c3e805,color,3,bottom_right,3,No,Yellow triangle,5/11/2023 5:50,Yes,UK
+63d8267294c685a091016df0,color,1,bottom_left,0,Yes,purple heart,5/11/2023 5:50,Yes,UK
+63d8267294c685a091016df0,color,3,bottom_right,1,No,yellow triangle,5/11/2023 5:50,Yes,UK
+63d8267294c685a091016df0,color,2,top_left,2,Yes,pink rectangle,5/11/2023 5:50,Yes,UK
+63d8267294c685a091016df0,color,4,top_right,3,No,orange rectangle,5/11/2023 5:50,Yes,UK
+6417413921c539fd7d59e6e6,color,2,top_right,0,No,yellow rectangle,5/11/2023 5:50,Yes,UK
+6417413921c539fd7d59e6e6,color,1,top_left,1,Yes,blue square,5/11/2023 5:50,Yes,UK
+6417413921c539fd7d59e6e6,color,4,bottom_left,2,Yes,red heart,5/11/2023 5:50,Yes,UK
+6417413921c539fd7d59e6e6,color,3,bottom_right,3,No,yellow triangle,5/11/2023 5:50,Yes,UK
+5c5d76b4c378220001e5f2f5,color,1,top_left,0,Yes,Blue square,5/11/2023 5:51,Yes,UK
+5c5d76b4c378220001e5f2f5,color,4,bottom_left,1,Yes,Red heart,5/11/2023 5:51,Yes,UK
+5c5d76b4c378220001e5f2f5,color,3,bottom_right,2,No,Yellow triangle ,5/11/2023 5:51,Yes,UK
+5c5d76b4c378220001e5f2f5,color,2,top_right,3,No,Yellow oblong ,5/11/2023 5:51,Yes,UK
+5bd18be2718e24000181ada8,color,3,top_left,0,Yes,Star,5/11/2023 5:51,Yes,United States
+5bd18be2718e24000181ada8,color,4,bottom_left,1,Yes,Heart,5/11/2023 5:51,Yes,United States
+5bd18be2718e24000181ada8,color,1,bottom_right,2,No,Triangle ,5/11/2023 5:51,Yes,United States
+5bd18be2718e24000181ada8,color,2,top_right,3,No,Rectangle ,5/11/2023 5:51,Yes,United States
+63ffab18b5b1db350a46524e,color,1,top_right,0,No,Brown sun,5/11/2023 5:51,Yes,UK
+63ffab18b5b1db350a46524e,color,3,top_left,1,Yes,Pink star,5/11/2023 5:51,Yes,UK
+63ffab18b5b1db350a46524e,color,4,bottom_left,2,Yes,Red heart,5/11/2023 5:51,Yes,UK
+63ffab18b5b1db350a46524e,color,2,bottom_right,3,No,Yellow circle,5/11/2023 5:51,Yes,UK
+594a481105e73f0001450009,color,3,bottom_left,0,Yes,Normal cirlcle,5/11/2023 5:51,Yes,UK
+594a481105e73f0001450009,color,4,bottom_right,1,No,Purple cross,5/11/2023 5:51,Yes,UK
+594a481105e73f0001450009,color,1,top_right,2,No,Brown sun,5/11/2023 5:51,Yes,UK
+594a481105e73f0001450009,color,2,top_left,3,Yes,pink rectangle,5/11/2023 5:51,Yes,UK
+5e7d2dd68356c70e07dac499,color,1,bottom_left,0,Yes,Purple heart,5/11/2023 5:51,Yes,United States
+5e7d2dd68356c70e07dac499,color,2,top_left,1,Yes,Pink rectangle,5/11/2023 5:51,Yes,United States
+5e7d2dd68356c70e07dac499,color,4,top_right,2,No,Orange rectangle,5/11/2023 5:51,Yes,United States
+5e7d2dd68356c70e07dac499,color,3,bottom_right,3,No,Yellow triangle,5/11/2023 5:51,Yes,United States
+60eb2754cb0dd8c971cb2aeb,color,1,bottom_left,0,Yes,Heart,5/11/2023 5:51,Yes,Other
+60eb2754cb0dd8c971cb2aeb,color,3,bottom_right,1,No,Triangle,5/11/2023 5:51,Yes,Other
+60eb2754cb0dd8c971cb2aeb,color,2,top_right,2,No,Rectangle ,5/11/2023 5:51,Yes,Other
+60eb2754cb0dd8c971cb2aeb,color,4,top_left,3,Yes,Diamond ,5/11/2023 5:51,Yes,Other
+5be44162fa676700011d80d7,color,3,top_right,0,No,Rectangle ,5/11/2023 5:51,Yes,UK
+5be44162fa676700011d80d7,color,4,bottom_left,1,Yes,Heart,5/11/2023 5:51,Yes,UK
+5be44162fa676700011d80d7,color,1,top_left,2,Yes,Square,5/11/2023 5:51,Yes,UK
+5be44162fa676700011d80d7,color,2,bottom_right,3,No,Circle,5/11/2023 5:51,Yes,UK
+60be448c7a00c44fbb47500e,color,4,bottom_right,0,No,Plus sign ,5/11/2023 5:51,Yes,UK
+60be448c7a00c44fbb47500e,color,3,bottom_left,1,Yes,Grey circle ,5/11/2023 5:51,Yes,UK
+60be448c7a00c44fbb47500e,color,2,top_right,2,No,Yellow rectangle ,5/11/2023 5:51,Yes,UK
+60be448c7a00c44fbb47500e,color,1,top_left,3,Yes,Blue square ,5/11/2023 5:51,Yes,UK
+59669e237c13bd00018ea020,color,1,bottom_left,0,Yes,Purple heart,5/11/2023 5:51,Yes,UK
+59669e237c13bd00018ea020,color,3,top_right,1,No,Yellow rectangle,5/11/2023 5:51,Yes,UK
+59669e237c13bd00018ea020,color,4,bottom_right,2,No,Purple addition sign,5/11/2023 5:51,Yes,UK
+59669e237c13bd00018ea020,color,2,top_left,3,Yes,Pink rectangle,5/11/2023 5:51,Yes,UK
+5b9bf9437027930001c6153a,color,1,top_left,0,Yes, Blue square ,5/11/2023 5:51,Yes,UK
+5b9bf9437027930001c6153a,color,4,bottom_left,1,Yes,Red heart ,5/11/2023 5:51,Yes,UK
+5b9bf9437027930001c6153a,color,2,bottom_right,2,No,Yellow circle ,5/11/2023 5:51,Yes,UK
+5b9bf9437027930001c6153a,color,3,top_right,3,No,Yellow oblong ,5/11/2023 5:51,Yes,UK
+5d25ee154b5c4f0018fdaaa7,color,2,bottom_right,0,No,yellow circle,5/11/2023 5:51,Yes,UK
+5d25ee154b5c4f0018fdaaa7,color,3,top_left,1,Yes,pink star,5/11/2023 5:51,Yes,UK
+5d25ee154b5c4f0018fdaaa7,color,1,top_right,2,No,brown sun,5/11/2023 5:51,Yes,UK
+5d25ee154b5c4f0018fdaaa7,color,4,bottom_left,3,Yes,red heart,5/11/2023 5:51,Yes,UK
+5b6a1096bd09a0000191be09,color,4,top_left,0,Yes,Grey diamond,5/11/2023 5:51,Yes,UK
+5b6a1096bd09a0000191be09,color,3,bottom_left,1,Yes,Grey circle ,5/11/2023 5:51,Yes,UK
+5b6a1096bd09a0000191be09,color,2,bottom_right,2,No,Yellow circle,5/11/2023 5:51,Yes,UK
+5b6a1096bd09a0000191be09,color,1,top_right,3,No,Brown sun,5/11/2023 5:51,Yes,UK
+5c4c612fa123930001ac103a,color,4,top_right,0,No,rectangle,5/11/2023 5:51,Yes,UK
+5c4c612fa123930001ac103a,color,2,bottom_left,1,Yes,square,5/11/2023 5:51,Yes,UK
+5c4c612fa123930001ac103a,color,3,top_left,2,Yes,star,5/11/2023 5:51,Yes,UK
+5c4c612fa123930001ac103a,color,1,bottom_right,3,No,triangle,5/11/2023 5:51,Yes,UK
+5f906e4553c0fa11f0302333,color,2,top_right,0,No,Yellow oblong ,5/11/2023 5:51,Yes,UK
+5f906e4553c0fa11f0302333,color,1,bottom_right,1,No,Pink triangle ,5/11/2023 5:51,Yes,UK
+5f906e4553c0fa11f0302333,color,3,top_left,2,Yes,Pink star,5/11/2023 5:51,Yes,UK
+5f906e4553c0fa11f0302333,color,4,bottom_left,3,Yes,Red heart,5/11/2023 5:51,Yes,UK
+5d532bb9d103e90018c69203,color,1,bottom_right,0,No,Pink triangle,5/11/2023 5:51,Yes,UK
+5d532bb9d103e90018c69203,color,4,bottom_left,1,Yes,Red heart,5/11/2023 5:51,Yes,UK
+5d532bb9d103e90018c69203,color,3,top_left,2,Yes,Pink star,5/11/2023 5:51,Yes,UK
+5d532bb9d103e90018c69203,color,2,top_right,3,No,Yellow rectangle,5/11/2023 5:51,Yes,UK
+5be8e2465b7ff700013c4ed5,color,1,bottom_right,0,No,Pink triangle ,5/11/2023 5:52,Yes,UK
+5be8e2465b7ff700013c4ed5,color,4,top_left,1,Yes,Grey diamond ,5/11/2023 5:52,Yes,UK
+5be8e2465b7ff700013c4ed5,color,2,top_right,2,No,Yellow rectangle ,5/11/2023 5:52,Yes,UK
+5be8e2465b7ff700013c4ed5,color,3,bottom_left,3,Yes,Grey circle ,5/11/2023 5:52,Yes,UK
+63d79f249b2729d9dd3c48ce,color,2,top_right,0,No,yellow rectangle (top right),5/11/2023 5:52,Yes,UK
+63d79f249b2729d9dd3c48ce,color,1,bottom_left,1,Yes,Purple Heart (bottom left),5/11/2023 5:52,Yes,UK
+63d79f249b2729d9dd3c48ce,color,3,bottom_right,2,No,Yellow triangle (bottom right),5/11/2023 5:52,Yes,UK
+63d79f249b2729d9dd3c48ce,color,4,top_left,3,Yes,grey diamond (top left),5/11/2023 5:52,Yes,UK
+6419ff1d1f2bdaabc7941983,color,3,top_left,0,Yes,Pink star,5/11/2023 5:52,Yes,UK
+6419ff1d1f2bdaabc7941983,color,4,top_right,1,No,Orange rectangle,5/11/2023 5:52,Yes,UK
+6419ff1d1f2bdaabc7941983,color,2,bottom_right,2,No,Yellow circle,5/11/2023 5:52,Yes,UK
+6419ff1d1f2bdaabc7941983,color,1,bottom_left,3,Yes,Purple heart,5/11/2023 5:52,Yes,UK
+5c345ebad4f77a0001a91ec0,color,4,top_right,0,No,Orange rectangle,5/11/2023 5:52,Yes,UK
+5c345ebad4f77a0001a91ec0,color,2,bottom_right,1,No,Yellow Circle,5/11/2023 5:52,Yes,UK
+5c345ebad4f77a0001a91ec0,color,3,bottom_left,2,Yes,Grey Circle,5/11/2023 5:52,Yes,UK
+5c345ebad4f77a0001a91ec0,color,1,top_left,3,Yes,Blue Square,5/11/2023 5:52,Yes,UK
+5f3aab2f9744cb702f058e99,color,1,bottom_left,0,Yes,Purple heart,5/11/2023 5:52,Yes,UK
+5f3aab2f9744cb702f058e99,color,3,top_left,1,Yes,Pink star,5/11/2023 5:52,Yes,UK
+5f3aab2f9744cb702f058e99,color,2,bottom_right,2,No,Yellow circle,5/11/2023 5:52,Yes,UK
+5f3aab2f9744cb702f058e99,color,4,top_right,3,No,Orange box,5/11/2023 5:52,Yes,UK
+602044c8c8de0361eee66834,color,3,bottom_left,0,Yes,Grey circle ,5/11/2023 5:52,Yes,UK
+602044c8c8de0361eee66834,color,1,top_right,1,No,Brown sun ,5/11/2023 5:52,Yes,UK
+602044c8c8de0361eee66834,color,2,top_left,2,Yes,Pink rectangle ,5/11/2023 5:52,Yes,UK
+602044c8c8de0361eee66834,color,4,bottom_right,3,No,Purple cross,5/11/2023 5:52,Yes,UK
+643c069c30e6ba111922f086,color,4,bottom_left,0,Yes,Heart,5/11/2023 5:52,Yes,UK
+643c069c30e6ba111922f086,color,3,top_left,1,Yes,Star,5/11/2023 5:52,Yes,UK
+643c069c30e6ba111922f086,color,2,bottom_right,2,No,Circle,5/11/2023 5:52,Yes,UK
+643c069c30e6ba111922f086,color,1,top_right,3,No,Sun,5/11/2023 5:52,Yes,UK
+58eb9c6c715f180001f8e89a,color,3,bottom_right,0,No,Yellow 3 sided,5/11/2023 5:52,Yes,UK
+58eb9c6c715f180001f8e89a,color,4,top_right,1,No,Orange 4 sided rectangle,5/11/2023 5:52,Yes,UK
+58eb9c6c715f180001f8e89a,color,2,top_left,2,Yes,Pink 4 sided rectangle,5/11/2023 5:52,Yes,UK
+58eb9c6c715f180001f8e89a,color,1,bottom_left,3,Yes,Purple Heart shape,5/11/2023 5:52,Yes,UK
+55d39f64da14d7001295375a,color,3,top_right,0,No,yellow rectangle,5/11/2023 5:52,Yes,UK
+55d39f64da14d7001295375a,color,1,top_left,1,Yes,blue square,5/11/2023 5:52,Yes,UK
+55d39f64da14d7001295375a,color,2,bottom_right,2,No,yellow circle,5/11/2023 5:52,Yes,UK
+55d39f64da14d7001295375a,color,4,bottom_left,3,Yes,red heart,5/11/2023 5:52,Yes,UK
+62b1d2b897646fe6bb832b1f,color,2,top_left,0,Yes,Box,5/11/2023 5:52,Yes,UK
+62b1d2b897646fe6bb832b1f,color,1,top_right,1,No,Sun,5/11/2023 5:52,Yes,UK
+62b1d2b897646fe6bb832b1f,color,4,bottom_right,2,No,Cross,5/11/2023 5:52,Yes,UK
+62b1d2b897646fe6bb832b1f,color,3,bottom_left,3,Yes,Circle,5/11/2023 5:52,Yes,UK
+63a0ba2b090476e91839f62e,color,1,top_right,0,No,Circle,5/11/2023 5:52,Yes,UK
+63a0ba2b090476e91839f62e,color,3,bottom_right,1,No,Triangle,5/11/2023 5:52,Yes,UK
+63a0ba2b090476e91839f62e,color,2,bottom_left,2,Yes,Square,5/11/2023 5:52,Yes,UK
+63a0ba2b090476e91839f62e,color,4,top_left,3,Yes,Diamond,5/11/2023 5:52,Yes,UK
+55e57aa9c70c7a00102a598e,color,2,top_left,0,Yes,Pink rectangle,5/11/2023 5:52,Yes,UK
+55e57aa9c70c7a00102a598e,color,3,bottom_right,1,No,Yellow triangle,5/11/2023 5:52,Yes,UK
+55e57aa9c70c7a00102a598e,color,1,top_right,2,No,Brown sun,5/11/2023 5:52,Yes,UK
+55e57aa9c70c7a00102a598e,color,4,bottom_left,3,Yes,Red heart,5/11/2023 5:52,Yes,UK
+5c73a9d92dfbdb0001b95375,color,4,top_left,0,Yes,Grey Diamond,5/11/2023 5:53,Yes,UK
+5c73a9d92dfbdb0001b95375,color,2,bottom_left,1,Yes,Pink square,5/11/2023 5:53,Yes,UK
+5c73a9d92dfbdb0001b95375,color,3,bottom_right,2,No,Yellow Triangle,5/11/2023 5:53,Yes,UK
+5c73a9d92dfbdb0001b95375,color,1,top_right,3,No,Brown sun ,5/11/2023 5:53,Yes,UK
+6266e377c03edf660348284a,color,3,bottom_left,0,Yes,gray circle,5/11/2023 5:53,Yes,United States
+6266e377c03edf660348284a,color,4,top_left,1,Yes,gray diamond,5/11/2023 5:53,Yes,United States
+6266e377c03edf660348284a,color,1,bottom_right,2,No,pink triangle,5/11/2023 5:53,Yes,United States
+6266e377c03edf660348284a,color,2,top_right,3,No,yellow rectangle,5/11/2023 5:53,Yes,United States
+5e789ca247422a42289e33d0,color,3,bottom_right,0,No,Yellow triangle,5/11/2023 5:53,Yes,UK
+5e789ca247422a42289e33d0,color,1,top_left,1,Yes,Blue square,5/11/2023 5:53,Yes,UK
+5e789ca247422a42289e33d0,color,4,bottom_left,2,Yes,Red heart,5/11/2023 5:53,Yes,UK
+5e789ca247422a42289e33d0,color,2,top_right,3,No,Yellow rectangle,5/11/2023 5:53,Yes,UK
+63d1767409746a98311e4aba,color,1,top_right,0,No,Brown sun,5/11/2023 5:53,Yes,UK
+63d1767409746a98311e4aba,color,3,top_left,1,Yes,Star,5/11/2023 5:53,Yes,UK
+63d1767409746a98311e4aba,color,4,bottom_left,2,Yes,Heart,5/11/2023 5:53,Yes,UK
+63d1767409746a98311e4aba,color,2,bottom_right,3,No,Circle,5/11/2023 5:53,Yes,UK
+597c4133cae3340001135a72,color,4,top_left,0,Yes,diamond,5/11/2023 5:53,Yes,UK
+597c4133cae3340001135a72,color,3,bottom_left,1,Yes,circle,5/11/2023 5:53,Yes,UK
+597c4133cae3340001135a72,color,1,bottom_right,2,No,triangle,5/11/2023 5:53,Yes,UK
+597c4133cae3340001135a72,color,2,top_right,3,No,rectangle,5/11/2023 5:53,Yes,UK
+597b92f0a33b0d0001fd3d90,color,3,bottom_left,0,Yes,grey circle ,5/11/2023 5:53,Yes,UK
+597b92f0a33b0d0001fd3d90,color,4,top_right,1,No,Red rectangle,5/11/2023 5:53,Yes,UK
+597b92f0a33b0d0001fd3d90,color,2,top_left,2,Yes,pink rectangle ,5/11/2023 5:53,Yes,UK
+597b92f0a33b0d0001fd3d90,color,1,bottom_right,3,No,pink triangle ,5/11/2023 5:53,Yes,UK
+63babb3f30c7eea8b8114f14,color,4,bottom_right,0,No,purple cross,5/11/2023 5:53,Yes,UK
+63babb3f30c7eea8b8114f14,color,1,top_left,1,Yes,blue square,5/11/2023 5:53,Yes,UK
+63babb3f30c7eea8b8114f14,color,3,top_right,2,No,yellow oblong,5/11/2023 5:53,Yes,UK
+63babb3f30c7eea8b8114f14,color,2,bottom_left,3,Yes,pink square,5/11/2023 5:53,Yes,UK
+5ca8eb68e6756300142a960c,color,2,top_right,0,No,Rectangle ,5/11/2023 5:55,Yes,UK
+5ca8eb68e6756300142a960c,color,4,bottom_right,1,No,Cross,5/11/2023 5:55,Yes,UK
+5ca8eb68e6756300142a960c,color,3,bottom_left,2,Yes,Circle ,5/11/2023 5:55,Yes,UK
+5ca8eb68e6756300142a960c,color,1,top_left,3,Yes,Square,5/11/2023 5:55,Yes,UK
+5a5a6318ac5624000153e365,color,4,top_left,0,Yes,Gray Diamond ,5/11/2023 5:57,Yes,UK
+5a5a6318ac5624000153e365,color,3,bottom_left,1,Yes,Gray circle,5/11/2023 5:57,Yes,UK
+5a5a6318ac5624000153e365,color,1,bottom_right,2,No,Pink triangle,5/11/2023 5:57,Yes,UK
+5a5a6318ac5624000153e365,color,2,top_right,3,No,Yellow rectangle ,5/11/2023 5:57,Yes,UK
+6321d9c78e8e3c04f82a0ea0,color,4,top_left,0,Yes,1,5/11/2023 6:04,Yes,UK
+6321d9c78e8e3c04f82a0ea0,color,3,top_right,1,No,2,5/11/2023 6:04,Yes,UK
+6321d9c78e8e3c04f82a0ea0,color,2,bottom_right,2,No,4,5/11/2023 6:04,Yes,UK
+6321d9c78e8e3c04f82a0ea0,color,1,bottom_left,3,Yes,3,5/11/2023 6:04,Yes,UK
+62d793b216e1b007c88f156f,color,2,bottom_right,0,No,Yellow Circle,5/11/2023 6:04,Yes,UK
+62d793b216e1b007c88f156f,color,1,top_right,1,No,Brown Sun,5/11/2023 6:04,Yes,UK
+62d793b216e1b007c88f156f,color,3,bottom_left,2,Yes,Grey Circle,5/11/2023 6:04,Yes,UK
+62d793b216e1b007c88f156f,color,4,top_left,3,Yes,Grey Diamond,5/11/2023 6:04,Yes,UK
+5c49edc17634520001c65aa5,color,1,top_right,0,No,Gold Sun,5/11/2023 6:05,Yes,UK
+5c49edc17634520001c65aa5,color,4,bottom_right,1,No,Purple Plus,5/11/2023 6:05,Yes,UK
+5c49edc17634520001c65aa5,color,3,bottom_left,2,Yes,Grey Circle ,5/11/2023 6:05,Yes,UK
+5c49edc17634520001c65aa5,color,2,top_left,3,Yes,Pink Rectangle ,5/11/2023 6:05,Yes,UK
+5ec79cbd44972a1fceed2719,color,2,bottom_left,0,Yes,Pink Square,5/11/2023 6:16,Yes,UK
+5ec79cbd44972a1fceed2719,color,1,top_left,1,Yes,Blue Square,5/11/2023 6:16,Yes,UK
+5ec79cbd44972a1fceed2719,color,4,bottom_right,2,No,Purple Cross,5/11/2023 6:16,Yes,UK
+5ec79cbd44972a1fceed2719,color,3,top_right,3,No,Yellow Rectangle,5/11/2023 6:16,Yes,UK
+5654166804212700054a12aa,color,4,top_right,0,No,TopRight,5/11/2023 6:16,Yes,UK
+5654166804212700054a12aa,color,3,bottom_left,1,Yes,BottomLeft,5/11/2023 6:16,Yes,UK
+5654166804212700054a12aa,color,2,bottom_right,2,No,BottomRight,5/11/2023 6:16,Yes,UK
+5654166804212700054a12aa,color,1,top_left,3,Yes,TopLeft,5/11/2023 6:16,Yes,UK
+58456eba000f1000010eb97c,color,4,bottom_right,0,No,purple,5/11/2023 14:27,Yes,UK
+58456eba000f1000010eb97c,color,1,top_left,1,Yes,blue,5/11/2023 14:27,Yes,UK
+58456eba000f1000010eb97c,color,2,top_right,2,No,yellow,5/11/2023 14:27,Yes,UK
+58456eba000f1000010eb97c,color,3,bottom_left,3,Yes,gray,5/11/2023 14:27,Yes,UK
