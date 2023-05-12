@@ -1,0 +1,785 @@
+participant_id,experiment,item,cond,presentation_order,literal_response,response,timestamp,english_first_language,country_of_birth
+610cca28e74fbb8c330464b8,size,4,top_left,0,Yes,estrella,2023-05-11 04:58:25,Sí,México
+610cca28e74fbb8c330464b8,size,1,bottom_left,1,No,triángulo,2023-05-11 04:58:25,Sí,México
+610cca28e74fbb8c330464b8,size,2,top_right,2,No,rectángulo,2023-05-11 04:58:25,Sí,México
+610cca28e74fbb8c330464b8,size,3,bottom_right,3,Yes,cruz,2023-05-11 04:58:25,Sí,México
+613aa39321ee0e47931e4157,size,2,top_left,0,Yes,Rectangulo,2023-05-11 04:58:57,Sí,México
+613aa39321ee0e47931e4157,size,1,bottom_right,1,Yes,Triangulo,2023-05-11 04:58:57,Sí,México
+613aa39321ee0e47931e4157,size,3,top_right,2,No,Cuadrado,2023-05-11 04:58:57,Sí,México
+613aa39321ee0e47931e4157,size,4,bottom_left,3,No,Rombo,2023-05-11 04:58:57,Sí,México
+5f31de301a469e11624f7948,size,2,bottom_right,0,Yes,círculo,2023-05-11 04:59:25,Sí,México
+5f31de301a469e11624f7948,size,1,bottom_left,1,No,triángulo,2023-05-11 04:59:25,Sí,México
+5f31de301a469e11624f7948,size,4,top_left,2,Yes,estrella,2023-05-11 04:59:25,Sí,México
+5f31de301a469e11624f7948,size,3,top_right,3,No,cuadrado,2023-05-11 04:59:25,Sí,México
+60f75f26e3288c527b677c7c,size,4,bottom_right,0,Yes,rombo,2023-05-11 04:59:40,Sí,México
+60f75f26e3288c527b677c7c,size,3,top_right,1,No,cuadrado,2023-05-11 04:59:40,Sí,México
+60f75f26e3288c527b677c7c,size,2,bottom_left,2,No,circulo,2023-05-11 04:59:40,Sí,México
+60f75f26e3288c527b677c7c,size,1,top_left,3,Yes,corazon,2023-05-11 04:59:40,Sí,México
+606529ce14b2184a016c629d,size,1,bottom_right,0,Yes,triangulo,2023-05-11 04:59:56,Sí,México
+606529ce14b2184a016c629d,size,2,top_left,1,Yes,rectangulo,2023-05-11 04:59:56,Sí,México
+606529ce14b2184a016c629d,size,3,top_right,2,No,cuadrado,2023-05-11 04:59:56,Sí,México
+606529ce14b2184a016c629d,size,4,bottom_left,3,No,rombo,2023-05-11 04:59:56,Sí,México
+5b477fdb56e0140001ac7720,size,3,top_left,0,Yes,cuadrado,2023-05-11 12:25:45,Sí,México
+5b477fdb56e0140001ac7720,size,2,bottom_right,1,Yes,circulo,2023-05-11 12:25:45,Sí,México
+5b477fdb56e0140001ac7720,size,1,top_right,2,No,corazon,2023-05-11 12:25:45,Sí,México
+5b477fdb56e0140001ac7720,size,4,bottom_left,3,No,rombo,2023-05-11 12:25:45,Sí,México
+6140be2fdc5e6f433f412f7a,size,4,bottom_left,0,No,rombo,2023-05-11 12:26:33,Sí,Sudamérica
+6140be2fdc5e6f433f412f7a,size,3,top_right,1,No,cuadrado,2023-05-11 12:26:33,Sí,Sudamérica
+6140be2fdc5e6f433f412f7a,size,1,bottom_right,2,Yes,triangulo,2023-05-11 12:26:33,Sí,Sudamérica
+6140be2fdc5e6f433f412f7a,size,2,top_left,3,Yes,rectángulo,2023-05-11 12:26:33,Sí,Sudamérica
+60c013416fb774165eb9d00b,size,4,top_left,0,Yes,Estrella ,2023-05-11 12:30:26,Sí,México
+60c013416fb774165eb9d00b,size,3,top_right,1,No,Cuadrado ,2023-05-11 12:30:26,Sí,México
+60c013416fb774165eb9d00b,size,1,bottom_left,2,No,Triángulo ,2023-05-11 12:30:26,Sí,México
+60c013416fb774165eb9d00b,size,2,bottom_right,3,Yes,Círculo ,2023-05-11 12:30:26,Sí,México
+612d7b5dbc8a6457965c1034,size,1,top_left,0,Yes,corazon pequeño ,2023-05-11 12:30:42,Sí,México
+612d7b5dbc8a6457965c1034,size,4,bottom_right,1,Yes,rombo negro,2023-05-11 12:30:42,Sí,México
+612d7b5dbc8a6457965c1034,size,2,bottom_left,2,No,circulo grande ,2023-05-11 12:30:42,Sí,México
+612d7b5dbc8a6457965c1034,size,3,top_right,3,No,Cuadro negro ,2023-05-11 12:30:42,Sí,México
+6162bf42048363a56b08995e,size,4,bottom_right,0,Yes,rombo,2023-05-11 12:33:26,Sí,México
+6162bf42048363a56b08995e,size,2,bottom_left,1,No,circulo,2023-05-11 12:33:26,Sí,México
+6162bf42048363a56b08995e,size,1,top_left,2,Yes,corazon,2023-05-11 12:33:26,Sí,México
+6162bf42048363a56b08995e,size,3,top_right,3,No,cuadrado,2023-05-11 12:33:26,Sí,México
+60183e25b4423c05ee0ee791,size,1,top_left,0,Yes,"Corazón negro, pequeño y centrado",2023-05-11 12:34:06,Sí,México
+60183e25b4423c05ee0ee791,size,4,bottom_right,1,Yes,"Rombo negro, pequeño y centrado",2023-05-11 12:34:06,Sí,México
+60183e25b4423c05ee0ee791,size,2,bottom_left,2,No,"Circulo negro, grande",2023-05-11 12:34:06,Sí,México
+60183e25b4423c05ee0ee791,size,3,top_right,3,No,"Cuadrado negro, grande",2023-05-11 12:34:06,Sí,México
+611154c1278503776878d3ae,size,3,bottom_left,0,No,Cruz,2023-05-11 12:35:29,Sí,México
+611154c1278503776878d3ae,size,2,top_right,1,No,Rectangulo,2023-05-11 12:35:29,Sí,México
+611154c1278503776878d3ae,size,4,bottom_right,2,Yes,rombo,2023-05-11 12:35:29,Sí,México
+611154c1278503776878d3ae,size,1,top_left,3,Yes,corazon,2023-05-11 12:35:29,Sí,México
+60fdff45f8064acbac9fbd3c,size,4,top_left,0,Yes,estrella pequeña,2023-05-11 12:35:37,Sí,México
+60fdff45f8064acbac9fbd3c,size,3,top_right,1,No,cuadrado,2023-05-11 12:35:37,Sí,México
+60fdff45f8064acbac9fbd3c,size,2,bottom_left,2,No,circulo,2023-05-11 12:35:37,Sí,México
+60fdff45f8064acbac9fbd3c,size,1,bottom_right,3,Yes,triangulo pequeño,2023-05-11 12:35:37,Sí,México
+6168432c5662ef2b142ec095,size,4,bottom_left,0,No,Rombo,2023-05-11 12:36:45,Sí,México
+6168432c5662ef2b142ec095,size,2,bottom_right,1,Yes,Circulo,2023-05-11 12:36:45,Sí,México
+6168432c5662ef2b142ec095,size,1,top_right,2,No,Corazón ,2023-05-11 12:36:45,Sí,México
+6168432c5662ef2b142ec095,size,3,top_left,3,Yes,Cuadrado ,2023-05-11 12:36:45,Sí,México
+614b6e4a03ded5acfe2ef9b0,size,1,top_left,0,Yes,corazon,2023-05-11 12:37:25,Sí,México
+614b6e4a03ded5acfe2ef9b0,size,3,bottom_left,1,No,cruz,2023-05-11 12:37:25,Sí,México
+614b6e4a03ded5acfe2ef9b0,size,4,bottom_right,2,Yes,rombo,2023-05-11 12:37:25,Sí,México
+614b6e4a03ded5acfe2ef9b0,size,2,top_right,3,No,rectangulo,2023-05-11 12:37:25,Sí,México
+5f2e09dd8b86e315a3525087,size,2,bottom_left,0,No,Círculo ,2023-05-11 12:38:48,Sí,México
+5f2e09dd8b86e315a3525087,size,3,top_left,1,Yes,Cuadrado ,2023-05-11 12:38:48,Sí,México
+5f2e09dd8b86e315a3525087,size,4,top_right,2,No,Estrella ,2023-05-11 12:38:48,Sí,México
+5f2e09dd8b86e315a3525087,size,1,bottom_right,3,Yes,Triangulo ,2023-05-11 12:38:48,Sí,México
+61400425790ab5dbef568393,size,3,top_left,0,Yes,Cuadrado,2023-05-11 12:39:47,Sí,México
+61400425790ab5dbef568393,size,2,bottom_left,1,No,Más grande ,2023-05-11 12:39:47,Sí,México
+61400425790ab5dbef568393,size,4,top_right,2,No,Estrella ,2023-05-11 12:39:47,Sí,México
+61400425790ab5dbef568393,size,1,bottom_right,3,Yes,Triángulo ,2023-05-11 12:39:47,Sí,México
+6092f21eb483692c6ea09303,size,4,top_left,0,Yes,Estrella de 5 picos,2023-05-11 12:40:05,Sí,México
+6092f21eb483692c6ea09303,size,2,bottom_left,1,No,Círculo,2023-05-11 12:40:05,Sí,México
+6092f21eb483692c6ea09303,size,1,bottom_right,2,Yes,Tríangulo,2023-05-11 12:40:05,Sí,México
+6092f21eb483692c6ea09303,size,3,top_right,3,No,Cuadrado,2023-05-11 12:40:05,Sí,México
+5ff265688f62107122f931f2,size,4,top_right,0,No,Es una estrella grande negra con cinco picos,2023-05-11 12:40:18,Sí,México
+5ff265688f62107122f931f2,size,3,bottom_right,1,Yes,Eres una Cruz negra pequeña,2023-05-11 12:40:18,Sí,México
+5ff265688f62107122f931f2,size,2,bottom_left,2,No,Es un círculo grande negro,2023-05-11 12:40:18,Sí,México
+5ff265688f62107122f931f2,size,1,top_left,3,Yes,Es un corazoncito negro,2023-05-11 12:40:18,Sí,México
+5d366eba9749cc00185c21fb,size,1,top_left,0,Yes,corazón ,2023-05-11 12:40:42,Sí,México
+5d366eba9749cc00185c21fb,size,4,top_right,1,No,estrella,2023-05-11 12:40:42,Sí,México
+5d366eba9749cc00185c21fb,size,2,bottom_right,2,Yes,circulo ,2023-05-11 12:40:42,Sí,México
+5d366eba9749cc00185c21fb,size,3,bottom_left,3,No,signo de más,2023-05-11 12:40:42,Sí,México
+613bb769316b7da1020ebeb8,size,2,top_left,0,Yes,rectángulo,2023-05-11 12:43:19,Sí,México
+613bb769316b7da1020ebeb8,size,1,bottom_right,1,Yes,triangulo ,2023-05-11 12:43:19,Sí,México
+613bb769316b7da1020ebeb8,size,3,top_right,2,No,cuadrado,2023-05-11 12:43:19,Sí,México
+613bb769316b7da1020ebeb8,size,4,bottom_left,3,No,rombo,2023-05-11 12:43:19,Sí,México
+5f236a8268241d13568e4de0,size,2,bottom_left,0,No,Círculo ,2023-05-11 12:44:24,Sí,México
+5f236a8268241d13568e4de0,size,3,top_right,1,No,Cuadrado,2023-05-11 12:44:24,Sí,México
+5f236a8268241d13568e4de0,size,1,top_left,2,Yes,Corazón,2023-05-11 12:44:24,Sí,México
+5f236a8268241d13568e4de0,size,4,bottom_right,3,Yes,Diamante,2023-05-11 12:44:24,Sí,México
+5edeef385ae5f81a082be62a,size,2,top_right,0,No,rectángulo,2023-05-11 12:46:21,Sí,México
+5edeef385ae5f81a082be62a,size,3,bottom_left,1,No,cruz,2023-05-11 12:46:21,Sí,México
+5edeef385ae5f81a082be62a,size,4,bottom_right,2,Yes,rombo,2023-05-11 12:46:21,Sí,México
+5edeef385ae5f81a082be62a,size,1,top_left,3,Yes,corazón,2023-05-11 12:46:21,Sí,México
+614e4293cc2629b9b02953b9,size,3,top_left,0,Yes,Cuadrado ,2023-05-11 12:46:34,Sí,México
+614e4293cc2629b9b02953b9,size,1,bottom_right,1,Yes,Triangulo ,2023-05-11 12:46:34,Sí,México
+614e4293cc2629b9b02953b9,size,4,bottom_left,2,No,Rombo,2023-05-11 12:46:34,Sí,México
+614e4293cc2629b9b02953b9,size,2,top_right,3,No,Rectángulo,2023-05-11 12:46:34,Sí,México
+613a80cc61f7aa5309b8acb3,size,2,top_left,0,Yes,Rectángulo,2023-05-11 12:46:35,Sí,México
+613a80cc61f7aa5309b8acb3,size,1,bottom_right,1,Yes,Triángulo ,2023-05-11 12:46:35,Sí,México
+613a80cc61f7aa5309b8acb3,size,3,top_right,2,No,Cuadrado,2023-05-11 12:46:35,Sí,México
+613a80cc61f7aa5309b8acb3,size,4,bottom_left,3,No,Rombo,2023-05-11 12:46:35,Sí,México
+613bbe37bb5e6fa81c182308,size,3,bottom_right,0,Yes,Cruz negra pequeña,2023-05-11 12:48:00,Sí,México
+613bbe37bb5e6fa81c182308,size,1,top_left,1,Yes,Corazón negro pequeño,2023-05-11 12:48:00,Sí,México
+613bbe37bb5e6fa81c182308,size,2,bottom_left,2,No,Círculo negro grande,2023-05-11 12:48:00,Sí,México
+613bbe37bb5e6fa81c182308,size,4,top_right,3,No,Estrella negra grande,2023-05-11 12:48:00,Sí,México
+5d9a74f72aae4c031a29af9b,size,1,top_right,0,No,Corazon,2023-05-11 12:49:21,Sí,México
+5d9a74f72aae4c031a29af9b,size,2,bottom_right,1,Yes,Circulo,2023-05-11 12:49:21,Sí,México
+5d9a74f72aae4c031a29af9b,size,3,top_left,2,Yes,Cuadrado,2023-05-11 12:49:21,Sí,México
+5d9a74f72aae4c031a29af9b,size,4,bottom_left,3,No,Rombo,2023-05-11 12:49:21,Sí,México
+610b0e8c8cd09a0c933773e6,size,3,bottom_left,0,No,Cruz,2023-05-11 12:49:37,Sí,México
+610b0e8c8cd09a0c933773e6,size,2,top_left,1,Yes,Rectángulo ,2023-05-11 12:49:37,Sí,México
+610b0e8c8cd09a0c933773e6,size,1,bottom_right,2,Yes,Triángulo ,2023-05-11 12:49:37,Sí,México
+610b0e8c8cd09a0c933773e6,size,4,top_right,3,No,Estrella,2023-05-11 12:49:37,Sí,México
+5b146e7bc85dc40001624518,size,3,bottom_left,0,No,Cruz,2023-05-11 12:50:11,Sí,México
+5b146e7bc85dc40001624518,size,1,top_left,1,Yes,Corazón ,2023-05-11 12:50:11,Sí,México
+5b146e7bc85dc40001624518,size,4,bottom_right,2,Yes,Rombo,2023-05-11 12:50:11,Sí,México
+5b146e7bc85dc40001624518,size,2,top_right,3,No,Rectángulo ,2023-05-11 12:50:11,Sí,México
+5adf7fbc09eae200011305a5,size,3,top_left,0,Yes,Cuadrado,2023-05-11 12:51:00,Sí,México
+5adf7fbc09eae200011305a5,size,1,top_right,1,No,Corazon,2023-05-11 12:51:00,Sí,México
+5adf7fbc09eae200011305a5,size,2,bottom_right,2,Yes,Circulo,2023-05-11 12:51:00,Sí,México
+5adf7fbc09eae200011305a5,size,4,bottom_left,3,No,Rombo,2023-05-11 12:51:00,Sí,México
+60f49505c949c2feff3db2d7,size,3,top_left,0,Yes,cuadrado ,2023-05-11 12:51:56,Sí,México
+60f49505c949c2feff3db2d7,size,1,bottom_left,1,No,triángulo ,2023-05-11 12:51:56,Sí,México
+60f49505c949c2feff3db2d7,size,4,bottom_right,2,Yes,rombo ,2023-05-11 12:51:56,Sí,México
+60f49505c949c2feff3db2d7,size,2,top_right,3,No,rectángulo ,2023-05-11 12:51:56,Sí,México
+6169e8a8311d269013eb73c7,size,1,bottom_left,0,No,triangulo,2023-05-11 12:52:11,Sí,México
+6169e8a8311d269013eb73c7,size,3,bottom_right,1,Yes,cruz,2023-05-11 12:52:11,Sí,México
+6169e8a8311d269013eb73c7,size,4,top_right,2,No,estrella,2023-05-11 12:52:11,Sí,México
+6169e8a8311d269013eb73c7,size,2,top_left,3,Yes,guion ,2023-05-11 12:52:11,Sí,México
+5e792d23c826500d4c0ccec0,size,3,bottom_right,0,Yes,Mas,2023-05-11 12:52:51,Sí,México
+5e792d23c826500d4c0ccec0,size,2,top_right,1,No,Rectangulo,2023-05-11 12:52:51,Sí,México
+5e792d23c826500d4c0ccec0,size,1,bottom_left,2,No,Triangulo,2023-05-11 12:52:51,Sí,México
+5e792d23c826500d4c0ccec0,size,4,top_left,3,Yes,Estrella,2023-05-11 12:52:51,Sí,México
+60b00d27ceea5b0580570cf6,size,4,top_left,0,Yes,Estrella,2023-05-11 12:53:29,Sí,México
+60b00d27ceea5b0580570cf6,size,2,bottom_left,1,No,Círculo,2023-05-11 12:53:29,Sí,México
+60b00d27ceea5b0580570cf6,size,3,bottom_right,2,Yes,Cruz,2023-05-11 12:53:29,Sí,México
+60b00d27ceea5b0580570cf6,size,1,top_right,3,No,Corazón,2023-05-11 12:53:29,Sí,México
+5a9aa8554eecca0001dd7fdc,size,2,top_right,0,No,rectángulo,2023-05-11 12:53:30,Sí,México
+5a9aa8554eecca0001dd7fdc,size,3,top_left,1,Yes,cuadrado,2023-05-11 12:53:30,Sí,México
+5a9aa8554eecca0001dd7fdc,size,1,bottom_left,2,No,triángulo,2023-05-11 12:53:30,Sí,México
+5a9aa8554eecca0001dd7fdc,size,4,bottom_right,3,Yes,rombo,2023-05-11 12:53:30,Sí,México
+614e843c2bb21b4527d39d0d,size,4,bottom_left,0,No,Rombo,2023-05-11 12:54:06,Sí,México
+614e843c2bb21b4527d39d0d,size,3,top_left,1,Yes,Cuadrado Pequeño ,2023-05-11 12:54:06,Sí,México
+614e843c2bb21b4527d39d0d,size,1,bottom_right,2,Yes,Triángulo Pequeño ,2023-05-11 12:54:06,Sí,México
+614e843c2bb21b4527d39d0d,size,2,top_right,3,No,Rectángulo ,2023-05-11 12:54:06,Sí,México
+5bc2b61583de340001bf830f,size,3,top_right,0,No,Cuadro,2023-05-11 12:54:26,Sí,México
+5bc2b61583de340001bf830f,size,1,bottom_right,1,Yes,Triangulo,2023-05-11 12:54:26,Sí,México
+5bc2b61583de340001bf830f,size,4,bottom_left,2,No,Rombo,2023-05-11 12:54:26,Sí,México
+5bc2b61583de340001bf830f,size,2,top_left,3,Yes,Rectángulo,2023-05-11 12:54:26,Sí,México
+5b9858a3fe82f50001caef03,size,2,top_left,0,Yes,Rectángulo pequeño ,2023-05-11 12:54:34,Sí,México
+5b9858a3fe82f50001caef03,size,1,top_right,1,No,Corazón grande ,2023-05-11 12:54:34,Sí,México
+5b9858a3fe82f50001caef03,size,4,bottom_left,2,No,Rombo grane,2023-05-11 12:54:34,Sí,México
+5b9858a3fe82f50001caef03,size,3,bottom_right,3,Yes,Cruz pequeña ,2023-05-11 12:54:34,Sí,México
+614cce1a0dcaa6b078d3d5a7,size,3,top_left,0,Yes,Cuadrado,2023-05-11 12:55:18,Sí,México
+614cce1a0dcaa6b078d3d5a7,size,2,bottom_left,1,No,Circulo,2023-05-11 12:55:18,Sí,México
+614cce1a0dcaa6b078d3d5a7,size,1,bottom_right,2,Yes,Triángulo,2023-05-11 12:55:18,Sí,México
+614cce1a0dcaa6b078d3d5a7,size,4,top_right,3,No,Estrella,2023-05-11 12:55:18,Sí,México
+5ee95917bdb5522f9ee95e4f,size,4,bottom_left,0,No,Rombo,2023-05-11 12:55:38,Sí,México
+5ee95917bdb5522f9ee95e4f,size,2,bottom_right,1,Yes,Círculo,2023-05-11 12:55:38,Sí,México
+5ee95917bdb5522f9ee95e4f,size,1,top_left,2,Yes,Corazón,2023-05-11 12:55:38,Sí,México
+5ee95917bdb5522f9ee95e4f,size,3,top_right,3,No,Cuadrado,2023-05-11 12:55:38,Sí,México
+5fefcbb9bbdf7f348f598fa6,size,1,bottom_left,0,No,Tres caras,2023-05-11 12:55:43,Sí,México
+5fefcbb9bbdf7f348f598fa6,size,3,bottom_right,1,Yes,Suma,2023-05-11 12:55:43,Sí,México
+5fefcbb9bbdf7f348f598fa6,size,2,top_left,2,Yes,Resta,2023-05-11 12:55:43,Sí,México
+5fefcbb9bbdf7f348f598fa6,size,4,top_right,3,No,Estrella,2023-05-11 12:55:43,Sí,México
+610196bd5cf1346341fbaf3f,size,3,bottom_left,0,No,Cruz,2023-05-11 12:55:47,Sí,México
+610196bd5cf1346341fbaf3f,size,1,top_right,1,No,Corazón,2023-05-11 12:55:47,Sí,México
+610196bd5cf1346341fbaf3f,size,2,top_left,2,Yes,Rectángulo,2023-05-11 12:55:47,Sí,México
+610196bd5cf1346341fbaf3f,size,4,bottom_right,3,Yes,Diamante,2023-05-11 12:55:47,Sí,México
+5c465ffdf608210001a4d536 ,size,2,bottom_right,0,Yes,Circulo,2023-05-11 12:56:30,Sí,Sudamérica
+5c465ffdf608210001a4d536 ,size,3,top_left,1,Yes,Cuadrado ,2023-05-11 12:56:30,Sí,Sudamérica
+5c465ffdf608210001a4d536 ,size,1,top_right,2,No,Corazon,2023-05-11 12:56:30,Sí,Sudamérica
+5c465ffdf608210001a4d536 ,size,4,bottom_left,3,No,Rombo,2023-05-11 12:56:30,Sí,Sudamérica
+5f9754d58d86ac10c2068b90,size,2,bottom_right,0,Yes,Circunferencia de tamaño mediano,2023-05-11 12:57:23,Sí,México
+5f9754d58d86ac10c2068b90,size,4,top_left,1,Yes,estrella pequeña de cinco picos,2023-05-11 12:57:23,Sí,México
+5f9754d58d86ac10c2068b90,size,1,top_right,2,No,corazón grande ,2023-05-11 12:57:23,Sí,México
+5f9754d58d86ac10c2068b90,size,3,bottom_left,3,No,cruz ,2023-05-11 12:57:23,Sí,México
+606951b5108e90bb25006ce6,size,3,top_right,0,No,Cuadrado ,2023-05-11 12:57:33,Sí,México
+606951b5108e90bb25006ce6,size,4,top_left,1,Yes,Estrella,2023-05-11 12:57:33,Sí,México
+606951b5108e90bb25006ce6,size,1,bottom_left,2,No,Triangulo,2023-05-11 12:57:33,Sí,México
+606951b5108e90bb25006ce6,size,2,bottom_right,3,Yes,Circulo ,2023-05-11 12:57:33,Sí,México
+5fc86c1b2df6ff1ff7a51ea5,size,2,top_right,0,No,rectángulo,2023-05-11 12:57:36,Sí,México
+5fc86c1b2df6ff1ff7a51ea5,size,3,bottom_left,1,No,cruz,2023-05-11 12:57:36,Sí,México
+5fc86c1b2df6ff1ff7a51ea5,size,4,bottom_right,2,Yes,rombo,2023-05-11 12:57:36,Sí,México
+5fc86c1b2df6ff1ff7a51ea5,size,1,top_left,3,Yes,corazon,2023-05-11 12:57:36,Sí,México
+613a972033d79df11a6570de,size,3,bottom_left,0,No,cruz,2023-05-11 12:57:47,Sí,México
+613a972033d79df11a6570de,size,4,top_right,1,No,estrella,2023-05-11 12:57:47,Sí,México
+613a972033d79df11a6570de,size,1,top_left,2,Yes,corazón,2023-05-11 12:57:47,Sí,México
+613a972033d79df11a6570de,size,2,bottom_right,3,Yes,círculo,2023-05-11 12:57:47,Sí,México
+60fee0ce4f29ce84e8be327d,size,3,top_left,0,Yes,Cuadrado ,2023-05-11 12:57:59,Sí,México
+60fee0ce4f29ce84e8be327d,size,2,bottom_left,1,No,Círculo ,2023-05-11 12:57:59,Sí,México
+60fee0ce4f29ce84e8be327d,size,4,top_right,2,No,Estrella ,2023-05-11 12:57:59,Sí,México
+60fee0ce4f29ce84e8be327d,size,1,bottom_right,3,Yes,Triángulo ,2023-05-11 12:57:59,Sí,México
+613a9700bf01a93d7008c3f7,size,4,bottom_left,0,No,rombo,2023-05-11 12:58:29,Sí,México
+613a9700bf01a93d7008c3f7,size,2,top_right,1,No,rectángulo,2023-05-11 12:58:29,Sí,México
+613a9700bf01a93d7008c3f7,size,1,top_left,2,Yes,corazón,2023-05-11 12:58:29,Sí,México
+613a9700bf01a93d7008c3f7,size,3,bottom_right,3,Yes,cruz,2023-05-11 12:58:29,Sí,México
+598c2748e339120001fb8875,size,1,bottom_right,0,Yes,triángulo chico,2023-05-11 13:00:07,Sí,México
+598c2748e339120001fb8875,size,4,top_right,1,No,Estrella grande,2023-05-11 13:00:07,Sí,México
+598c2748e339120001fb8875,size,3,top_left,2,Yes,Cuadrado chico,2023-05-11 13:00:07,Sí,México
+598c2748e339120001fb8875,size,2,bottom_left,3,No,Círculo grande,2023-05-11 13:00:07,Sí,México
+5f2f0014688d632bfee11cbf,size,1,bottom_right,0,Yes,Triángulo ,2023-05-11 13:01:58,Sí,México
+5f2f0014688d632bfee11cbf,size,3,top_right,1,No,Cuadrado ,2023-05-11 13:01:58,Sí,México
+5f2f0014688d632bfee11cbf,size,2,bottom_left,2,No,Círculo ,2023-05-11 13:01:58,Sí,México
+5f2f0014688d632bfee11cbf,size,4,top_left,3,Yes,Estrella ,2023-05-11 13:01:58,Sí,México
+61678183af5867c98652331a,size,4,top_right,0,No,Estrella ,2023-05-11 13:04:21,Sí,México
+61678183af5867c98652331a,size,3,bottom_right,1,Yes,Signo de más ,2023-05-11 13:04:21,Sí,México
+61678183af5867c98652331a,size,1,top_left,2,Yes,Corazón ,2023-05-11 13:04:21,Sí,México
+61678183af5867c98652331a,size,2,bottom_left,3,No,Círculo ,2023-05-11 13:04:21,Sí,México
+606e7d7942e4973f7ea8408e,size,1,bottom_left,0,No,Triangulo,2023-05-11 13:04:41,Sí,México
+606e7d7942e4973f7ea8408e,size,2,top_right,1,No,Rectangulo,2023-05-11 13:04:41,Sí,México
+606e7d7942e4973f7ea8408e,size,3,top_left,2,Yes,Cuadrado,2023-05-11 13:04:41,Sí,México
+606e7d7942e4973f7ea8408e,size,4,bottom_right,3,Yes,Rombo,2023-05-11 13:04:41,Sí,México
+61225eed9644b99769bb90a0,size,3,top_right,0,No,Cuadrado,2023-05-11 13:05:24,Sí,Otro
+61225eed9644b99769bb90a0,size,4,top_left,1,Yes,Estrella,2023-05-11 13:05:24,Sí,Otro
+61225eed9644b99769bb90a0,size,2,bottom_left,2,No,Círculo,2023-05-11 13:05:24,Sí,Otro
+61225eed9644b99769bb90a0,size,1,bottom_right,3,Yes,Triángulo,2023-05-11 13:05:24,Sí,Otro
+5cccd9bee48e6700175286ca,size,1,bottom_left,0,No,Triangulo,2023-05-11 13:06:55,Sí,México
+5cccd9bee48e6700175286ca,size,3,top_right,1,No,Cuadrado,2023-05-11 13:06:55,Sí,México
+5cccd9bee48e6700175286ca,size,4,bottom_right,2,Yes,Rombo,2023-05-11 13:06:55,Sí,México
+5cccd9bee48e6700175286ca,size,2,top_left,3,Yes,Rectangulo,2023-05-11 13:06:55,Sí,México
+5b36e844cf5e6a00018303a8,size,3,top_left,0,Yes,cuadrado,2023-05-11 13:07:28,Sí,México
+5b36e844cf5e6a00018303a8,size,1,bottom_left,1,No,triangulo,2023-05-11 13:07:28,Sí,México
+5b36e844cf5e6a00018303a8,size,2,top_right,2,No,rectangulo,2023-05-11 13:07:28,Sí,México
+5b36e844cf5e6a00018303a8,size,4,bottom_right,3,Yes,rombo,2023-05-11 13:07:28,Sí,México
+613b7cf2f368095595aa6ef2,size,2,top_right,0,No,rectangulo ,2023-05-11 13:07:46,Sí,México
+613b7cf2f368095595aa6ef2,size,1,bottom_right,1,Yes,triangulo,2023-05-11 13:07:46,Sí,México
+613b7cf2f368095595aa6ef2,size,4,bottom_left,2,No,rombo grande,2023-05-11 13:07:46,Sí,México
+613b7cf2f368095595aa6ef2,size,3,top_left,3,Yes,cuadrado,2023-05-11 13:07:46,Sí,México
+613fde0b34b0cbed4c9250ad,size,4,bottom_right,0,Yes,Rombo,2023-05-11 13:08:05,Sí,México
+613fde0b34b0cbed4c9250ad,size,1,top_right,1,No,Corazón ,2023-05-11 13:08:05,Sí,México
+613fde0b34b0cbed4c9250ad,size,3,bottom_left,2,No,Cruz,2023-05-11 13:08:05,Sí,México
+613fde0b34b0cbed4c9250ad,size,2,top_left,3,Yes,Guion ,2023-05-11 13:08:05,Sí,México
+5f2dc3b1a2052d0fc281a2c4,size,3,top_left,0,Yes,Cuadro pequeño ,2023-05-11 13:08:46,Sí,México
+5f2dc3b1a2052d0fc281a2c4,size,4,bottom_left,1,No,Rombo grande,2023-05-11 13:08:46,Sí,México
+5f2dc3b1a2052d0fc281a2c4,size,1,top_right,2,No,Corazón grande ,2023-05-11 13:08:46,Sí,México
+5f2dc3b1a2052d0fc281a2c4,size,2,bottom_right,3,Yes,Circulo pequeño,2023-05-11 13:08:46,Sí,México
+6143fce3f32125a7e2811fbd,size,4,top_right,0,No,Estrella de cinco puntas,2023-05-11 13:08:52,Sí,México
+6143fce3f32125a7e2811fbd,size,2,bottom_left,1,No,Circulo negro,2023-05-11 13:08:52,Sí,México
+6143fce3f32125a7e2811fbd,size,3,bottom_right,2,Yes,Cruz negra,2023-05-11 13:08:52,Sí,México
+6143fce3f32125a7e2811fbd,size,1,top_left,3,Yes,Corazón negri,2023-05-11 13:08:52,Sí,México
+613b68e36ab8e4f737db4977,size,2,bottom_left,0,No,Círculo,2023-05-11 13:09:14,Sí,México
+613b68e36ab8e4f737db4977,size,3,top_right,1,No,Cuadrado,2023-05-11 13:09:14,Sí,México
+613b68e36ab8e4f737db4977,size,4,bottom_right,2,Yes,Rombo,2023-05-11 13:09:14,Sí,México
+613b68e36ab8e4f737db4977,size,1,top_left,3,Yes,Corazón,2023-05-11 13:09:14,Sí,México
+613a8742b46a12e1ddbd3353,size,1,top_left,0,Yes,corazón pequeño,2023-05-11 13:09:33,Sí,México
+613a8742b46a12e1ddbd3353,size,2,top_right,1,No,Rectángulo grande,2023-05-11 13:09:33,Sí,México
+613a8742b46a12e1ddbd3353,size,4,bottom_left,2,No,Rombo grande,2023-05-11 13:09:33,Sí,México
+613a8742b46a12e1ddbd3353,size,3,bottom_right,3,Yes,Cruz,2023-05-11 13:09:33,Sí,México
+60be6fc94b7c2735e003d93b,size,1,top_right,0,No,Corazon,2023-05-11 13:10:59,Sí,México
+60be6fc94b7c2735e003d93b,size,2,bottom_right,1,Yes,Punto,2023-05-11 13:10:59,Sí,México
+60be6fc94b7c2735e003d93b,size,3,bottom_left,2,No,Cruz,2023-05-11 13:10:59,Sí,México
+60be6fc94b7c2735e003d93b,size,4,top_left,3,Yes,Estrella ,2023-05-11 13:10:59,Sí,México
+5f3c202dc59223a250d37f11,size,3,top_right,0,No,Cuadrado negro ,2023-05-11 13:12:15,Sí,México
+5f3c202dc59223a250d37f11,size,4,bottom_right,1,Yes,Rombo negro pequeño,2023-05-11 13:12:15,Sí,México
+5f3c202dc59223a250d37f11,size,1,top_left,2,Yes,Corazón negro pequeño,2023-05-11 13:12:15,Sí,México
+5f3c202dc59223a250d37f11,size,2,bottom_left,3,No,Círculo negro grande,2023-05-11 13:12:15,Sí,México
+6143a74ee2a59fe9ef24de02,size,1,top_right,0,No,corazón,2023-05-11 13:12:49,Sí,México
+6143a74ee2a59fe9ef24de02,size,3,bottom_right,1,Yes,cruz,2023-05-11 13:12:49,Sí,México
+6143a74ee2a59fe9ef24de02,size,4,bottom_left,2,No,rombo,2023-05-11 13:12:49,Sí,México
+6143a74ee2a59fe9ef24de02,size,2,top_left,3,Yes,rectangulo,2023-05-11 13:12:49,Sí,México
+615a7ceb2684470628034f10,size,4,top_right,0,No,Estrella de 5 puntas,2023-05-11 13:13:17,Sí,México
+615a7ceb2684470628034f10,size,1,top_left,1,Yes,Corazón pequeño,2023-05-11 13:13:17,Sí,México
+615a7ceb2684470628034f10,size,2,bottom_right,2,Yes,Círculo sencillo,2023-05-11 13:13:17,Sí,México
+615a7ceb2684470628034f10,size,3,bottom_left,3,No,Cruz de 4 picos,2023-05-11 13:13:17,Sí,México
+60a595292752aa1fcd8e07e7,size,4,top_left,0,Yes,estrella,2023-05-11 13:13:30,Sí,México
+60a595292752aa1fcd8e07e7,size,1,bottom_left,1,No,triangulo,2023-05-11 13:13:30,Sí,México
+60a595292752aa1fcd8e07e7,size,2,top_right,2,No,rectangulo,2023-05-11 13:13:30,Sí,México
+60a595292752aa1fcd8e07e7,size,3,bottom_right,3,Yes,cruz,2023-05-11 13:13:30,Sí,México
+5f4c1b5626199983e1285d83,size,1,top_left,0,Yes,Corazón,2023-05-11 13:15:01,Sí,México
+5f4c1b5626199983e1285d83,size,3,bottom_right,1,Yes,Cruz,2023-05-11 13:15:01,Sí,México
+5f4c1b5626199983e1285d83,size,4,top_right,2,No,Estrella,2023-05-11 13:15:01,Sí,México
+5f4c1b5626199983e1285d83,size,2,bottom_left,3,No,Círculo,2023-05-11 13:15:01,Sí,México
+5bb511c6689fc5000149c703,size,2,bottom_right,0,Yes,Es un circulo negro pequeño nada mas,2023-05-11 13:15:36,Sí,México
+5bb511c6689fc5000149c703,size,1,top_right,1,No,Es un corazon grande negro,2023-05-11 13:15:36,Sí,México
+5bb511c6689fc5000149c703,size,3,top_left,2,Yes,Es un cuadrado negro de tamaño pequeño,2023-05-11 13:15:36,Sí,México
+5bb511c6689fc5000149c703,size,4,bottom_left,3,No,Es un rombo negro grande,2023-05-11 13:15:36,Sí,México
+6139512182e8aca64496c5e6,size,3,top_left,0,Yes,cuadrado,2023-05-11 13:17:48,Sí,México
+6139512182e8aca64496c5e6,size,1,bottom_left,1,No,triangulo,2023-05-11 13:17:48,Sí,México
+6139512182e8aca64496c5e6,size,4,bottom_right,2,Yes,rombo,2023-05-11 13:17:48,Sí,México
+6139512182e8aca64496c5e6,size,2,top_right,3,No,rectangulo,2023-05-11 13:17:48,Sí,México
+6129ad2c6cb5df50f63efab7,size,4,bottom_left,0,No,diamante,2023-05-11 13:19:18,Sí,México
+6129ad2c6cb5df50f63efab7,size,2,bottom_right,1,Yes,círculo,2023-05-11 13:19:18,Sí,México
+6129ad2c6cb5df50f63efab7,size,1,top_right,2,No,corazón,2023-05-11 13:19:18,Sí,México
+6129ad2c6cb5df50f63efab7,size,3,top_left,3,Yes,cuadrado,2023-05-11 13:19:18,Sí,México
+5bbe4ab0ea3e2600012cefb3,size,1,top_right,0,No,Corazón ,2023-05-11 13:20:16,Sí,México
+5bbe4ab0ea3e2600012cefb3,size,2,bottom_left,1,No,Círculo ,2023-05-11 13:20:16,Sí,México
+5bbe4ab0ea3e2600012cefb3,size,4,top_left,2,Yes,Estrella,2023-05-11 13:20:16,Sí,México
+5bbe4ab0ea3e2600012cefb3,size,3,bottom_right,3,Yes,Cruz,2023-05-11 13:20:16,Sí,México
+613a469755c08ab3b9d682ad,size,2,bottom_left,0,No,Circulo,2023-05-11 13:23:23,Sí,México
+613a469755c08ab3b9d682ad,size,1,top_left,1,Yes,Corazón,2023-05-11 13:23:23,Sí,México
+613a469755c08ab3b9d682ad,size,3,top_right,2,No,Cuadrado,2023-05-11 13:23:23,Sí,México
+613a469755c08ab3b9d682ad,size,4,bottom_right,3,Yes,Rombo,2023-05-11 13:23:23,Sí,México
+6172c19ff79e4bec69b80c10,size,3,bottom_right,0,Yes,cruz,2023-05-11 13:24:25,Sí,México
+6172c19ff79e4bec69b80c10,size,4,top_left,1,Yes,estrella,2023-05-11 13:24:25,Sí,México
+6172c19ff79e4bec69b80c10,size,1,bottom_left,2,No,triangulo,2023-05-11 13:24:25,Sí,México
+6172c19ff79e4bec69b80c10,size,2,top_right,3,No,rectangulo,2023-05-11 13:24:25,Sí,México
+5cc86bb2e7d28d001962ddf4,size,1,bottom_right,0,Yes,Triangulo,2023-05-11 13:24:34,Sí,México
+5cc86bb2e7d28d001962ddf4,size,2,top_left,1,Yes,Rectangulo,2023-05-11 13:24:34,Sí,México
+5cc86bb2e7d28d001962ddf4,size,4,top_right,2,No,Estrella,2023-05-11 13:24:34,Sí,México
+5cc86bb2e7d28d001962ddf4,size,3,bottom_left,3,No,Cruz,2023-05-11 13:24:34,Sí,México
+615bc2bfcbb7dff35fb83eb1,size,3,top_right,0,No,Cuadrado ,2023-05-11 13:26:30,Sí,México
+615bc2bfcbb7dff35fb83eb1,size,4,bottom_left,1,No,Rombo,2023-05-11 13:26:30,Sí,México
+615bc2bfcbb7dff35fb83eb1,size,1,top_left,2,Yes,Corazón ,2023-05-11 13:26:30,Sí,México
+615bc2bfcbb7dff35fb83eb1,size,2,bottom_right,3,Yes,Circulo ,2023-05-11 13:26:30,Sí,México
+609d94f365954bbfe7d4f58b,size,3,bottom_left,0,No,"es una cruz negra,de tamaño grande, en la esquina inferior izquierda",2023-05-11 13:26:58,Sí,México
+609d94f365954bbfe7d4f58b,size,4,top_right,1,No,"es una estrella grande de color negro, en la esquina inferior derecha",2023-05-11 13:26:58,Sí,México
+609d94f365954bbfe7d4f58b,size,1,top_left,2,Yes,"es un corazón de color negro, es pequeño y se ubica en la esquina superior izquierda",2023-05-11 13:26:58,Sí,México
+609d94f365954bbfe7d4f58b,size,2,bottom_right,3,Yes,"es un círculo negro de tamaño mediano, ubicado en la esquina inferior derecha",2023-05-11 13:26:58,Sí,México
+61368b205c8f03ed1bfefb92,size,1,top_right,0,No,Corazón ,2023-05-11 13:28:02,Sí,México
+61368b205c8f03ed1bfefb92,size,3,top_left,1,Yes,Cuadrado ,2023-05-11 13:28:02,Sí,México
+61368b205c8f03ed1bfefb92,size,4,bottom_left,2,No,Rombo ,2023-05-11 13:28:02,Sí,México
+61368b205c8f03ed1bfefb92,size,2,bottom_right,3,Yes,Círculo ,2023-05-11 13:28:02,Sí,México
+5b8c8e7d0c740e00019d55c3,size,2,bottom_right,0,Yes,Círculo negro.,2023-05-11 13:31:39,Sí,México
+5b8c8e7d0c740e00019d55c3,size,3,bottom_left,1,No,Cruz negra.,2023-05-11 13:31:39,Sí,México
+5b8c8e7d0c740e00019d55c3,size,1,top_left,2,Yes,Corazón negro.,2023-05-11 13:31:39,Sí,México
+5b8c8e7d0c740e00019d55c3,size,4,top_right,3,No,Estrella negra.,2023-05-11 13:31:39,Sí,México
+60069526535f9aa0acab5ba3,size,1,top_right,0,No,Corazón ,2023-05-11 13:31:41,Sí,México
+60069526535f9aa0acab5ba3,size,2,top_left,1,Yes,Rectangulito,2023-05-11 13:31:41,Sí,México
+60069526535f9aa0acab5ba3,size,3,bottom_left,2,No,Cruz,2023-05-11 13:31:41,Sí,México
+60069526535f9aa0acab5ba3,size,4,bottom_right,3,Yes,Rombito,2023-05-11 13:31:41,Sí,México
+6092d4071f5a95dfcfc04fe0,size,4,bottom_right,0,Yes,rombo,2023-05-11 13:33:03,NA,México
+6092d4071f5a95dfcfc04fe0,size,2,top_left,1,Yes,rectángulo ,2023-05-11 13:33:03,NA,México
+6092d4071f5a95dfcfc04fe0,size,3,bottom_left,2,No,cruz,2023-05-11 13:33:03,NA,México
+6092d4071f5a95dfcfc04fe0,size,1,top_right,3,No,desconocido,2023-05-11 13:33:03,NA,México
+614fb62d27185da9cc2a9a24,size,2,bottom_left,0,No,Imagen no disponible ,2023-05-11 13:33:28,Sí,México
+614fb62d27185da9cc2a9a24,size,4,top_left,1,Yes,Imagen no disponible ,2023-05-11 13:33:28,Sí,México
+614fb62d27185da9cc2a9a24,size,3,top_right,2,No,Imagen no disponible ,2023-05-11 13:33:28,Sí,México
+614fb62d27185da9cc2a9a24,size,1,bottom_right,3,Yes,Triángulo pequeño negro ,2023-05-11 13:33:28,Sí,México
+614b56db574226da0851f05c,size,4,top_right,0,No,estrella ,2023-05-11 13:34:01,Sí,México
+614b56db574226da0851f05c,size,3,bottom_left,1,No,no carga la imagen ,2023-05-11 13:34:01,Sí,México
+614b56db574226da0851f05c,size,2,bottom_right,2,Yes,no carga la imagen ,2023-05-11 13:34:01,Sí,México
+614b56db574226da0851f05c,size,1,top_left,3,Yes,corazón ,2023-05-11 13:34:01,Sí,México
+5e8e0a10e9878f06eb114260,size,1,top_right,0,No,imagen no es visible,2023-05-11 13:35:55,Sí,México
+5e8e0a10e9878f06eb114260,size,2,top_left,1,Yes,imagen no es visible,2023-05-11 13:35:55,Sí,México
+5e8e0a10e9878f06eb114260,size,4,bottom_left,2,No,imagen no es visible,2023-05-11 13:35:55,Sí,México
+5e8e0a10e9878f06eb114260,size,3,bottom_right,3,Yes,imagen no es visible,2023-05-11 13:35:55,Sí,México
+61403ccaf15c48625b82ec6b,size,4,bottom_right,1,Yes,Rectángulo negro,2023-05-11 13:36:07,Sí,México
+617600aa26fa05b6decdaaef,size,3,top_left,0,Yes,NO SE VE LA IMAGEN,2023-05-11 13:36:45,Sí,México
+617600aa26fa05b6decdaaef,size,1,bottom_left,1,No,NO SE VE LA IMAGEN,2023-05-11 13:36:45,Sí,México
+617600aa26fa05b6decdaaef,size,4,bottom_right,2,Yes,ROMBO PEQUEÑO,2023-05-11 13:36:45,Sí,México
+617600aa26fa05b6decdaaef,size,2,top_right,3,No,NO SE VE LA IMAGEN,2023-05-11 13:36:45,Sí,México
+5b3455bf532e3d00018e6e8b,size,1,bottom_right,0,Yes,triangulo,2023-05-11 13:37:55,Sí,México
+5b3455bf532e3d00018e6e8b,size,4,top_right,1,No,circulo,2023-05-11 13:37:55,Sí,México
+5b3455bf532e3d00018e6e8b,size,2,top_left,2,Yes,cuadrado,2023-05-11 13:37:55,Sí,México
+5b3455bf532e3d00018e6e8b,size,3,bottom_left,3,No,rectangulo,2023-05-11 13:37:55,Sí,México
+5b88c1124cdb3d00017f4008,size,1,bottom_right,0,Yes,Triangulo,2023-05-11 13:40:56,Sí,México
+5b88c1124cdb3d00017f4008,size,2,bottom_left,2,No,Circulo,2023-05-11 13:40:56,Sí,México
+5b88c1124cdb3d00017f4008,size,3,top_left,3,Yes,Cuadrado,2023-05-11 13:40:56,Sí,México
+5f1076c249de740912414cc1,size,1,bottom_left,0,No,No se ve la imagen,2023-05-11 13:41:12,Sí,México
+5f1076c249de740912414cc1,size,4,top_left,1,Yes,No se ve la imagen,2023-05-11 13:41:12,Sí,México
+5f1076c249de740912414cc1,size,3,bottom_right,2,Yes,No se ve la imagen,2023-05-11 13:41:12,Sí,México
+5f1076c249de740912414cc1,size,2,top_right,3,No,No se ve la imagen,2023-05-11 13:41:12,Sí,México
+615f316da40e7564fd9c1856,size,4,top_right,0,No,Estrella,2023-05-11 13:41:48,Sí,México
+615f316da40e7564fd9c1856,size,1,bottom_left,1,No,No carga la imagen,2023-05-11 13:41:48,Sí,México
+615f316da40e7564fd9c1856,size,3,bottom_right,2,Yes,No carga la imagen ,2023-05-11 13:41:48,Sí,México
+615f316da40e7564fd9c1856,size,2,top_left,3,Yes,Rectángulo pequeño,2023-05-11 13:41:48,Sí,México
+613a6f333eacb2c4641d0540,size,3,top_right,0,No,No carga la imagen ,2023-05-11 13:42:49,Sí,México
+613a6f333eacb2c4641d0540,size,1,bottom_left,1,No,No carga la imagen ,2023-05-11 13:42:49,Sí,México
+613a6f333eacb2c4641d0540,size,2,bottom_right,2,Yes,No carga la imagen ,2023-05-11 13:42:49,Sí,México
+613a6f333eacb2c4641d0540,size,4,top_left,3,Yes,No carga la imagen ,2023-05-11 13:42:49,Sí,México
+613a69d8ed1c11f70b3d37c7,size,4,top_right,0,No,Estrella,2023-05-11 13:43:18,Sí,México
+613a69d8ed1c11f70b3d37c7,size,1,bottom_left,1,No,No cargo,2023-05-11 13:43:18,Sí,México
+613a69d8ed1c11f70b3d37c7,size,2,top_left,2,Yes,Rectangulo,2023-05-11 13:43:18,Sí,México
+613a69d8ed1c11f70b3d37c7,size,3,bottom_right,3,Yes,No cargo ,2023-05-11 13:43:18,Sí,México
+5f1facb92bd03205e4d754e1,size,4,bottom_left,0,No,Rombo,2023-05-11 13:44:29,Sí,Otro
+5f1facb92bd03205e4d754e1,size,2,top_right,1,No,Rectángulo,2023-05-11 13:44:29,Sí,Otro
+5f1facb92bd03205e4d754e1,size,3,bottom_right,2,Yes,Cruz,2023-05-11 13:44:29,Sí,Otro
+5f1facb92bd03205e4d754e1,size,1,top_left,3,Yes,Corazón,2023-05-11 13:44:29,Sí,Otro
+61026b6b389c99fba84cb5ed,size,2,top_right,0,No,"The image is not loading, I have tried several times but it's only showing a broken icon",2023-05-11 13:44:51,Sí,México
+61026b6b389c99fba84cb5ed,size,3,bottom_right,1,Yes,"The image is not loading, I have tried several times but it's only showing a broken icon",2023-05-11 13:44:51,Sí,México
+61026b6b389c99fba84cb5ed,size,4,top_left,2,Yes,"The image is not loading, I have tried several times but it's only showing a broken icon",2023-05-11 13:44:51,Sí,México
+61026b6b389c99fba84cb5ed,size,1,bottom_left,3,No,"The image is not loading, I have tried several times but it's only showing a broken icon",2023-05-11 13:44:51,Sí,México
+5f35fb8d31b4ce08164edb91,size,4,bottom_left,0,No,Rombo,2023-05-11 13:45:11,Sí,México
+5f35fb8d31b4ce08164edb91,size,1,top_right,1,No,Corazon,2023-05-11 13:45:11,Sí,México
+5f35fb8d31b4ce08164edb91,size,3,bottom_right,2,Yes,Cruz,2023-05-11 13:45:11,Sí,México
+5f35fb8d31b4ce08164edb91,size,2,top_left,3,Yes,Guion ,2023-05-11 13:45:11,Sí,México
+613a497692c1db07e2fc599f,size,4,top_left,0,Yes,Estrella paqueña negra,2023-05-11 13:45:19,Sí,México
+613a497692c1db07e2fc599f,size,3,top_right,1,No,Cuadro negro grande,2023-05-11 13:45:19,Sí,México
+613a497692c1db07e2fc599f,size,1,bottom_right,2,Yes,Triangulo pequeño negro,2023-05-11 13:45:19,Sí,México
+613a497692c1db07e2fc599f,size,2,bottom_left,3,No,Circulo grande negro,2023-05-11 13:45:19,Sí,México
+5ed5c67a751f9814f8ffd344,size,1,bottom_right,0,Yes,Not loading,2023-05-11 13:45:46,Sí,México
+5ed5c67a751f9814f8ffd344,size,3,top_left,1,Yes,Not loading,2023-05-11 13:45:46,Sí,México
+5ed5c67a751f9814f8ffd344,size,2,top_right,2,No,Not loading,2023-05-11 13:45:46,Sí,México
+5ed5c67a751f9814f8ffd344,size,4,bottom_left,3,No,Not loading,2023-05-11 13:45:46,Sí,México
+5bdf91dbb32fa800012ea282,size,4,bottom_right,0,Yes,ROMBO,2023-05-11 13:45:52,Sí,México
+5bdf91dbb32fa800012ea282,size,1,top_left,1,Yes,CORAZON,2023-05-11 13:45:52,Sí,México
+5bdf91dbb32fa800012ea282,size,2,bottom_left,2,No,CIRCULO,2023-05-11 13:45:52,Sí,México
+5bdf91dbb32fa800012ea282,size,3,top_right,3,No,CUADRADO,2023-05-11 13:45:52,Sí,México
+5b16adc0388d8b00014fa3a0,size,4,top_left,0,Yes,Estrella de 5 picos,2023-05-11 13:46:02,Sí,México
+5b16adc0388d8b00014fa3a0,size,3,bottom_right,1,Yes,Signo de mas,2023-05-11 13:46:02,Sí,México
+5b16adc0388d8b00014fa3a0,size,2,top_right,2,No,Rectangulo,2023-05-11 13:46:02,Sí,México
+5b16adc0388d8b00014fa3a0,size,1,bottom_left,3,No,Triangulo,2023-05-11 13:46:02,Sí,México
+6140f49855d0bb381d41eddf,size,2,bottom_left,0,No,Figura que tiene siempre el mismo radio,2023-05-11 13:46:14,Sí,México
+6140f49855d0bb381d41eddf,size,1,top_left,1,Yes,Figura que representa el amor,2023-05-11 13:46:14,Sí,México
+6140f49855d0bb381d41eddf,size,4,bottom_right,2,Yes,No se visualizo la imagen ,2023-05-11 13:46:14,Sí,México
+6140f49855d0bb381d41eddf,size,3,top_right,3,No,No se visualizo  lq imagen ,2023-05-11 13:46:14,Sí,México
+5f627674b6f93f19ff74592d,size,4,bottom_left,0,No,Rombo grande ,2023-05-11 13:47:46,Sí,México
+5f627674b6f93f19ff74592d,size,1,top_left,1,Yes,Corazón ,2023-05-11 13:47:46,Sí,México
+5f627674b6f93f19ff74592d,size,2,top_right,2,No,Rectángulo ,2023-05-11 13:47:46,Sí,México
+5f627674b6f93f19ff74592d,size,3,bottom_right,3,Yes,Cruz ,2023-05-11 13:47:46,Sí,México
+613b4b65ce84db0afe5e691a,size,1,bottom_left,0,No,triángulo,2023-05-11 13:48:20,Sí,México
+613b4b65ce84db0afe5e691a,size,3,top_left,1,Yes,cuadrado,2023-05-11 13:48:20,Sí,México
+613b4b65ce84db0afe5e691a,size,2,bottom_right,2,Yes,círculo,2023-05-11 13:48:20,Sí,México
+613b4b65ce84db0afe5e691a,size,4,top_right,3,No,estrella,2023-05-11 13:48:20,Sí,México
+5f08f3e3ff3278174e40069b,size,1,top_left,0,Yes,Corazón,2023-05-11 13:48:31,Sí,México
+5f08f3e3ff3278174e40069b,size,3,bottom_right,1,Yes,No se ve,2023-05-11 13:48:31,Sí,México
+5f08f3e3ff3278174e40069b,size,4,bottom_left,2,No,Rombo,2023-05-11 13:48:31,Sí,México
+5f08f3e3ff3278174e40069b,size,2,top_right,3,No,Rectángulo,2023-05-11 13:48:31,Sí,México
+5e95c0a2deb85e0009f071ec,size,1,top_left,0,Yes,Corazón ,2023-05-11 13:48:41,Sí,México
+5e95c0a2deb85e0009f071ec,size,3,top_right,1,No,Cuadrado ,2023-05-11 13:48:41,Sí,México
+5e95c0a2deb85e0009f071ec,size,2,bottom_left,2,No,Circulo ,2023-05-11 13:48:41,Sí,México
+5e95c0a2deb85e0009f071ec,size,4,bottom_right,3,Yes,Rombo ,2023-05-11 13:48:41,Sí,México
+616244965952fd8c4c32a0d3,size,2,top_left,0,Yes,Rectangulo,2023-05-11 13:48:42,Sí,México
+616244965952fd8c4c32a0d3,size,4,bottom_left,1,No,Rombo,2023-05-11 13:48:42,Sí,México
+616244965952fd8c4c32a0d3,size,3,bottom_right,2,Yes,Cruz,2023-05-11 13:48:42,Sí,México
+616244965952fd8c4c32a0d3,size,1,top_right,3,No,Corazón,2023-05-11 13:48:42,Sí,México
+616f423e8893bea6dd1e7f52,size,4,bottom_left,0,No,Rombo grande y de color negro,2023-05-11 13:48:49,Sí,México
+616f423e8893bea6dd1e7f52,size,1,top_left,1,Yes,Corazón negro pequeño,2023-05-11 13:48:49,Sí,México
+616f423e8893bea6dd1e7f52,size,3,top_right,2,No,Cuadrado muy grande de color negro,2023-05-11 13:48:49,Sí,México
+616f423e8893bea6dd1e7f52,size,2,bottom_right,3,Yes,Circulo pequeño de color negro,2023-05-11 13:48:49,Sí,México
+5fa7498a07f8c14ac2d2cf30,size,4,top_left,0,Yes,"La imagen no está disponible, aparece un error.",2023-05-11 13:50:50,Sí,México
+5fa7498a07f8c14ac2d2cf30,size,3,top_right,1,No,"La imagen no está disponible, aparece un error.",2023-05-11 13:50:50,Sí,México
+5fa7498a07f8c14ac2d2cf30,size,2,bottom_right,2,Yes,Un círculo pequeño.,2023-05-11 13:50:50,Sí,México
+5fa7498a07f8c14ac2d2cf30,size,1,bottom_left,3,No,Un triángulo grande.,2023-05-11 13:50:50,Sí,México
+5d4dbe7df20feb00010b596d,size,4,bottom_right,0,Yes,rombo,2023-05-11 13:52:02,Sí,México
+5d4dbe7df20feb00010b596d,size,3,bottom_left,1,No,Cruz,2023-05-11 13:52:02,Sí,México
+5d4dbe7df20feb00010b596d,size,1,top_left,2,Yes,corazon,2023-05-11 13:52:02,Sí,México
+5d4dbe7df20feb00010b596d,size,2,top_right,3,No,rectangulo,2023-05-11 13:52:02,Sí,México
+61293e86bf1512d7b7a4e2a1,size,1,top_right,0,No,Corazon,2023-05-11 13:54:11,Sí,México
+61293e86bf1512d7b7a4e2a1,size,4,top_left,1,Yes,Estrella,2023-05-11 13:54:11,Sí,México
+61293e86bf1512d7b7a4e2a1,size,2,bottom_left,2,No,Circulo,2023-05-11 13:54:11,Sí,México
+61293e86bf1512d7b7a4e2a1,size,3,bottom_right,3,Yes,Cruz,2023-05-11 13:54:11,Sí,México
+614f7585cf13b9be74dd0f86,size,3,top_right,0,No,Cuadro,2023-05-11 13:55:28,Sí,México
+614f7585cf13b9be74dd0f86,size,4,top_left,1,Yes,Estrella,2023-05-11 13:55:28,Sí,México
+614f7585cf13b9be74dd0f86,size,2,bottom_right,2,Yes,Circulo pequeño,2023-05-11 13:55:28,Sí,México
+614f7585cf13b9be74dd0f86,size,1,bottom_left,3,No,Triángulo ,2023-05-11 13:55:28,Sí,México
+5ee371a168a09104dc317158,size,3,bottom_right,0,Yes,Cruz,2023-05-11 13:55:30,Sí,México
+5ee371a168a09104dc317158,size,1,top_right,1,No,Corazón ,2023-05-11 13:55:30,Sí,México
+5ee371a168a09104dc317158,size,4,top_left,2,Yes,Estrella ,2023-05-11 13:55:30,Sí,México
+5ee371a168a09104dc317158,size,2,bottom_left,3,No,Círculo ,2023-05-11 13:55:30,Sí,México
+5c90617326e3ed00019896a5,size,3,top_right,0,No,Cuadrado,2023-05-11 13:55:33,Sí,México
+5c90617326e3ed00019896a5,size,4,bottom_left,1,No,Rombo,2023-05-11 13:55:33,Sí,México
+5c90617326e3ed00019896a5,size,1,top_left,2,Yes,Corazon,2023-05-11 13:55:33,Sí,México
+5c90617326e3ed00019896a5,size,2,bottom_right,3,Yes,Circulo,2023-05-11 13:55:33,Sí,México
+613a8c91548fc87b8093876c,size,1,bottom_left,0,No,Triángulo negro grande,2023-05-11 13:55:51,Sí,México
+613a8c91548fc87b8093876c,size,2,bottom_right,1,Yes,Círculo negro pequeño,2023-05-11 13:55:51,Sí,México
+613a8c91548fc87b8093876c,size,3,top_right,2,No,Cuadrado grande negro,2023-05-11 13:55:51,Sí,México
+613a8c91548fc87b8093876c,size,4,top_left,3,Yes,Estrella negra pequeña,2023-05-11 13:55:51,Sí,México
+613b5959d8c8b12a746fdc21,size,4,top_right,0,No,estrella,2023-05-11 13:56:32,Sí,México
+613b5959d8c8b12a746fdc21,size,2,top_left,1,Yes,rectangulo,2023-05-11 13:56:32,Sí,México
+613b5959d8c8b12a746fdc21,size,1,bottom_left,2,No,triangulo,2023-05-11 13:56:32,Sí,México
+613b5959d8c8b12a746fdc21,size,3,bottom_right,3,Yes,cruz,2023-05-11 13:56:32,Sí,México
+5f6785ff73bbcf3923de77cc,size,2,bottom_right,0,Yes,Círculo ,2023-05-11 13:57:03,Sí,México
+5f6785ff73bbcf3923de77cc,size,4,bottom_left,1,No,Diamante,2023-05-11 13:57:03,Sí,México
+5f6785ff73bbcf3923de77cc,size,1,top_left,2,Yes,Corazón,2023-05-11 13:57:03,Sí,México
+5f6785ff73bbcf3923de77cc,size,3,top_right,3,No,Cuadrado,2023-05-11 13:57:03,Sí,México
+5c96c2ad584978000142357a,size,1,bottom_right,0,Yes,figura geometrica de 3 lados iguales,2023-05-11 13:57:10,Sí,México
+5c96c2ad584978000142357a,size,4,top_right,1,No,figura geometrica de 5 picos que representa algo en el cielo de noche,2023-05-11 13:57:10,Sí,México
+5c96c2ad584978000142357a,size,2,bottom_left,2,No,figura geometrica sin inicio ni fin,2023-05-11 13:57:10,Sí,México
+5c96c2ad584978000142357a,size,3,top_left,3,Yes,figura geometrica de 4 lados,2023-05-11 13:57:10,Sí,México
+6155402f3ce59cb498a773ae,size,4,top_left,0,Yes,Estrella,2023-05-11 13:57:34,Sí,México
+6155402f3ce59cb498a773ae,size,2,bottom_right,1,Yes,circulo,2023-05-11 13:57:34,Sí,México
+6155402f3ce59cb498a773ae,size,1,top_right,2,No,Corazòn,2023-05-11 13:57:34,Sí,México
+6155402f3ce59cb498a773ae,size,3,bottom_left,3,No,Cruz,2023-05-11 13:57:34,Sí,México
+613bd3a683a2ac56a4119aa6,size,3,top_left,0,Yes,Cuadrado,2023-05-11 13:58:08,Sí,México
+613bd3a683a2ac56a4119aa6,size,4,bottom_right,1,Yes,Rombo,2023-05-11 13:58:08,Sí,México
+613bd3a683a2ac56a4119aa6,size,2,bottom_left,2,No,Círculo,2023-05-11 13:58:08,Sí,México
+613bd3a683a2ac56a4119aa6,size,1,top_right,3,No,Corazón,2023-05-11 13:58:08,Sí,México
+5e8a0912524dca6ad71ecb86,size,1,top_right,0,No,Corazón ,2023-05-11 13:59:43,Sí,México
+5e8a0912524dca6ad71ecb86,size,4,top_left,1,Yes,Estrella,2023-05-11 13:59:43,Sí,México
+5e8a0912524dca6ad71ecb86,size,3,bottom_right,2,Yes,Adición,2023-05-11 13:59:43,Sí,México
+5e8a0912524dca6ad71ecb86,size,2,bottom_left,3,No,Círculo ,2023-05-11 13:59:43,Sí,México
+613a78cf2dfb50e6ed729c61,size,2,bottom_left,0,No,circulo,2023-05-11 13:59:50,Sí,México
+613a78cf2dfb50e6ed729c61,size,4,bottom_right,1,Yes,rombo,2023-05-11 13:59:50,Sí,México
+613a78cf2dfb50e6ed729c61,size,3,top_left,2,Yes,cuadrado,2023-05-11 13:59:50,Sí,México
+613a78cf2dfb50e6ed729c61,size,1,top_right,3,No,corazón,2023-05-11 13:59:50,Sí,México
+613eb4f0b0ed6c2ce930bfba,size,2,bottom_left,0,No,CIRCULO,2023-05-11 14:00:08,Sí,México
+613eb4f0b0ed6c2ce930bfba,size,4,top_right,1,No,ESTRELLA,2023-05-11 14:00:08,Sí,México
+613eb4f0b0ed6c2ce930bfba,size,3,top_left,2,Yes,CUADRADO,2023-05-11 14:00:08,Sí,México
+613eb4f0b0ed6c2ce930bfba,size,1,bottom_right,3,Yes,TRIANGULO,2023-05-11 14:00:08,Sí,México
+5f4310b391369a1776db2dde,size,4,top_left,0,Yes,Estrella pequeña de cinco puntas,2023-05-11 14:02:42,Sí,México
+5f4310b391369a1776db2dde,size,2,bottom_left,1,No,Círculo grande,2023-05-11 14:02:42,Sí,México
+5f4310b391369a1776db2dde,size,1,top_right,2,No,Corazón grande,2023-05-11 14:02:42,Sí,México
+5f4310b391369a1776db2dde,size,3,bottom_right,3,Yes,Símbolo de suma pequeño,2023-05-11 14:02:42,Sí,México
+5bc0ffa6b548c500012783cc,size,3,top_right,0,No,Cuadrado,2023-05-11 14:03:01,Sí,México
+5bc0ffa6b548c500012783cc,size,2,top_left,1,Yes,Rectángulo,2023-05-11 14:03:01,Sí,México
+5bc0ffa6b548c500012783cc,size,4,bottom_right,2,Yes,Rombo,2023-05-11 14:03:01,Sí,México
+5bc0ffa6b548c500012783cc,size,1,bottom_left,3,No,Triángulo,2023-05-11 14:03:01,Sí,México
+5a874306f49c9a0001f39714,size,1,top_left,0,Yes,corazon,2023-05-11 14:04:48,Sí,México
+5a874306f49c9a0001f39714,size,2,bottom_left,1,No,circulo,2023-05-11 14:04:48,Sí,México
+5a874306f49c9a0001f39714,size,4,top_right,2,No,estrella,2023-05-11 14:04:48,Sí,México
+5a874306f49c9a0001f39714,size,3,bottom_right,3,Yes,cruz,2023-05-11 14:04:48,Sí,México
+60c101e4634ffb1aa797b924,size,3,top_right,0,No,cuadrado,2023-05-11 14:05:48,Sí,México
+60c101e4634ffb1aa797b924,size,2,bottom_left,1,No,circulo,2023-05-11 14:05:48,Sí,México
+60c101e4634ffb1aa797b924,size,4,bottom_right,2,Yes,rombo,2023-05-11 14:05:48,Sí,México
+60c101e4634ffb1aa797b924,size,1,top_left,3,Yes,corazon,2023-05-11 14:05:48,Sí,México
+60c7bb0505443a8f17b43267,size,4,top_left,0,Yes,Estrella,2023-05-11 14:05:56,Sí,México
+60c7bb0505443a8f17b43267,size,1,bottom_left,1,No,Triangulo,2023-05-11 14:05:56,Sí,México
+60c7bb0505443a8f17b43267,size,2,bottom_right,2,Yes,Circulo ,2023-05-11 14:05:56,Sí,México
+60c7bb0505443a8f17b43267,size,3,top_right,3,No,Cuadrado,2023-05-11 14:05:56,Sí,México
+5eacad39ef271f3206810eeb,size,4,top_left,0,Yes,Es una pequeña estrella de cinco picos,2023-05-11 14:06:26,Sí,México
+5eacad39ef271f3206810eeb,size,1,bottom_left,1,No,Es un triangulo de tamaño grande,2023-05-11 14:06:26,Sí,México
+5eacad39ef271f3206810eeb,size,3,top_right,2,No,Es un cuadrado grande,2023-05-11 14:06:26,Sí,México
+5eacad39ef271f3206810eeb,size,2,bottom_right,3,Yes,Pequeño círculo de color negro,2023-05-11 14:06:26,Sí,México
+5ec6a814c615390ad63cbf1f,size,2,bottom_right,0,Yes,circulo,2023-05-11 14:06:34,Sí,México
+5ec6a814c615390ad63cbf1f,size,1,bottom_left,1,No,triangulo,2023-05-11 14:06:34,Sí,México
+5ec6a814c615390ad63cbf1f,size,4,top_right,2,No,estrella,2023-05-11 14:06:34,Sí,México
+5ec6a814c615390ad63cbf1f,size,3,top_left,3,Yes,cuadrado,2023-05-11 14:06:34,Sí,México
+5ec78dfed068801ed6ca121c,size,3,top_left,0,Yes,cuadrado,2023-05-11 14:06:48,Sí,México
+5ec78dfed068801ed6ca121c,size,1,top_right,1,No,corazon,2023-05-11 14:06:48,Sí,México
+5ec78dfed068801ed6ca121c,size,4,bottom_left,2,No,rombo grande,2023-05-11 14:06:48,Sí,México
+5ec78dfed068801ed6ca121c,size,2,bottom_right,3,Yes,circulo,2023-05-11 14:06:48,Sí,México
+613e18e92e4ed15176362aa2,size,1,bottom_left,0,No,Triángulo,2023-05-11 14:10:03,Sí,México
+613e18e92e4ed15176362aa2,size,2,top_left,1,Yes,Rectángulo,2023-05-11 14:10:03,Sí,México
+613e18e92e4ed15176362aa2,size,3,top_right,2,No,Cuadrado,2023-05-11 14:10:03,Sí,México
+613e18e92e4ed15176362aa2,size,4,bottom_right,3,Yes,Rombo,2023-05-11 14:10:03,Sí,México
+5ffbaa66b95fcb2291cd9e54,size,3,bottom_left,0,No,Cruz,2023-05-11 14:10:47,Sí,México
+5ffbaa66b95fcb2291cd9e54,size,4,top_left,1,Yes,Estrella,2023-05-11 14:10:47,Sí,México
+5ffbaa66b95fcb2291cd9e54,size,1,bottom_right,2,Yes,Triángulo,2023-05-11 14:10:47,Sí,México
+5ffbaa66b95fcb2291cd9e54,size,2,top_right,3,No,Rectángulo,2023-05-11 14:10:47,Sí,México
+6172078b966225960be2a7b5,size,3,bottom_left,0,No,cruz,2023-05-11 14:11:22,Sí,México
+6172078b966225960be2a7b5,size,4,top_right,1,No,estrella,2023-05-11 14:11:22,Sí,México
+6172078b966225960be2a7b5,size,2,top_left,2,Yes,rectangulo,2023-05-11 14:11:22,Sí,México
+6172078b966225960be2a7b5,size,1,bottom_right,3,Yes,triangulo,2023-05-11 14:11:22,Sí,México
+613ad069b7f1de6a11fbf6b5,size,2,bottom_right,0,Yes,Círculo ,2023-05-11 14:11:39,Sí,México
+613ad069b7f1de6a11fbf6b5,size,4,bottom_left,1,No,Rombo,2023-05-11 14:11:39,Sí,México
+613ad069b7f1de6a11fbf6b5,size,1,top_right,2,No,Corazon,2023-05-11 14:11:39,Sí,México
+613ad069b7f1de6a11fbf6b5,size,3,top_left,3,Yes,Cuadrado,2023-05-11 14:11:39,Sí,México
+613b65a718b675db12ff164f,size,1,top_left,0,Yes,Corazón pequeño negro,2023-05-11 14:11:41,Sí,México
+613b65a718b675db12ff164f,size,2,top_right,1,No,Rectángulo negro,2023-05-11 14:11:41,Sí,México
+613b65a718b675db12ff164f,size,3,bottom_right,2,Yes,Cruz negra pequeña,2023-05-11 14:11:41,Sí,México
+613b65a718b675db12ff164f,size,4,bottom_left,3,No,Diamante negro grande,2023-05-11 14:11:41,Sí,México
+5f9f2149fd257e5401063293,size,2,top_left,0,Yes,Figura mas pequeña,2023-05-11 14:11:47,Sí,México
+5f9f2149fd257e5401063293,size,4,bottom_left,1,No,Rombo grande ,2023-05-11 14:11:47,Sí,México
+5f9f2149fd257e5401063293,size,3,top_right,2,No,Cuadrado,2023-05-11 14:11:47,Sí,México
+5f9f2149fd257e5401063293,size,1,bottom_right,3,Yes,Triangulo,2023-05-11 14:11:47,Sí,México
+6175a21c9a0b946e86e8792d,size,4,bottom_right,0,Yes,El rombo ,2023-05-11 14:12:56,Sí,México
+6175a21c9a0b946e86e8792d,size,1,top_left,1,Yes,El corazon ,2023-05-11 14:12:56,Sí,México
+6175a21c9a0b946e86e8792d,size,2,top_right,2,No,El rectángulo ,2023-05-11 14:12:56,Sí,México
+6175a21c9a0b946e86e8792d,size,3,bottom_left,3,No,La cruz,2023-05-11 14:12:56,Sí,México
+6160ba8aa3c67e4797bf18ef,size,3,top_left,0,Yes,cuadrado,2023-05-11 14:13:06,Sí,México
+6160ba8aa3c67e4797bf18ef,size,2,top_right,1,No,rectángulo,2023-05-11 14:13:06,Sí,México
+6160ba8aa3c67e4797bf18ef,size,4,bottom_right,2,Yes,romboide,2023-05-11 14:13:06,Sí,México
+6160ba8aa3c67e4797bf18ef,size,1,bottom_left,3,No,triángulo,2023-05-11 14:13:06,Sí,México
+613c11ce8696b84afc0ef290,size,3,top_right,0,No,Cuadrado,2023-05-11 14:13:25,Sí,México
+613c11ce8696b84afc0ef290,size,4,top_left,1,Yes,Estrella,2023-05-11 14:13:25,Sí,México
+613c11ce8696b84afc0ef290,size,1,bottom_left,2,No,Triángulo,2023-05-11 14:13:25,Sí,México
+613c11ce8696b84afc0ef290,size,2,bottom_right,3,Yes,Círculo,2023-05-11 14:13:25,Sí,México
+61438e293e8ecab1013d293b,size,1,bottom_left,0,No,triangulo,2023-05-11 14:14:22,Sí,México
+61438e293e8ecab1013d293b,size,2,top_right,1,No,rectangulo,2023-05-11 14:14:22,Sí,México
+61438e293e8ecab1013d293b,size,3,top_left,2,Yes,cuadro,2023-05-11 14:14:22,Sí,México
+61438e293e8ecab1013d293b,size,4,bottom_right,3,Yes,rombo,2023-05-11 14:14:22,Sí,México
+613a748b1164174a301261cf,size,1,top_right,0,No,Corazón,2023-05-11 14:14:51,Sí,México
+613a748b1164174a301261cf,size,4,top_left,1,Yes,Estrella,2023-05-11 14:14:51,Sí,México
+613a748b1164174a301261cf,size,3,bottom_right,2,Yes,Cruz,2023-05-11 14:14:51,Sí,México
+613a748b1164174a301261cf,size,2,bottom_left,3,No,Círculo,2023-05-11 14:14:51,Sí,México
+613a3f32a52f4d656d45bff7,size,4,top_left,0,Yes,Estrella,2023-05-11 14:15:03,Sí,México
+613a3f32a52f4d656d45bff7,size,1,top_right,1,No,Corazon,2023-05-11 14:15:03,Sí,México
+613a3f32a52f4d656d45bff7,size,3,bottom_left,2,No,Suma,2023-05-11 14:15:03,Sí,México
+613a3f32a52f4d656d45bff7,size,2,bottom_right,3,Yes,Circulo,2023-05-11 14:15:03,Sí,México
+613a6e2a87110b1c9e356ce0,size,1,bottom_right,0,Yes,triangulo,2023-05-11 14:15:51,Sí,México
+613a6e2a87110b1c9e356ce0,size,2,bottom_left,1,No,circulo,2023-05-11 14:15:51,Sí,México
+613a6e2a87110b1c9e356ce0,size,3,top_left,2,Yes,cuadrado,2023-05-11 14:15:51,Sí,México
+613a6e2a87110b1c9e356ce0,size,4,top_right,3,No,estrella,2023-05-11 14:15:51,Sí,México
+613f6b1630971f18562691f9,size,4,top_left,0,Yes,estrella,2023-05-11 14:15:56,Sí,México
+613f6b1630971f18562691f9,size,1,bottom_left,1,No,triangulo,2023-05-11 14:15:56,Sí,México
+613f6b1630971f18562691f9,size,2,bottom_right,2,Yes,circulo,2023-05-11 14:15:56,Sí,México
+613f6b1630971f18562691f9,size,3,top_right,3,No,cuadrado,2023-05-11 14:15:56,Sí,México
+613a3d980fd9796d4b302d08,size,2,top_left,0,Yes,Rectangulo,2023-05-11 14:17:00,Sí,México
+613a3d980fd9796d4b302d08,size,3,bottom_right,1,Yes,cruz,2023-05-11 14:17:00,Sí,México
+613a3d980fd9796d4b302d08,size,1,top_right,2,No,Corazón,2023-05-11 14:17:00,Sí,México
+613a3d980fd9796d4b302d08,size,4,bottom_left,3,No,Gran Rombo,2023-05-11 14:17:00,Sí,México
+6151cac776c9ba6b61b3351b,size,2,bottom_left,0,No,Circulo ,2023-05-11 14:18:29,Sí,México
+6151cac776c9ba6b61b3351b,size,4,bottom_right,1,Yes,Rombo ,2023-05-11 14:18:29,Sí,México
+6151cac776c9ba6b61b3351b,size,3,top_left,2,Yes,Rectángulo ,2023-05-11 14:18:29,Sí,México
+6151cac776c9ba6b61b3351b,size,1,top_right,3,No,Corazón,2023-05-11 14:18:29,Sí,México
+613a7a74f1350fce63e54c7c,size,1,top_left,0,Yes,Corazon,2023-05-11 14:20:34,Sí,México
+613a7a74f1350fce63e54c7c,size,4,bottom_right,1,Yes,Rombo,2023-05-11 14:20:34,Sí,México
+613a7a74f1350fce63e54c7c,size,3,top_right,2,No,Cuadrado,2023-05-11 14:20:34,Sí,México
+613a7a74f1350fce63e54c7c,size,2,bottom_left,3,No,Circulo,2023-05-11 14:20:34,Sí,México
+5eb4f5a68aa23236a7dee5a3,size,1,bottom_right,0,Yes,Triángulo ,2023-05-11 14:21:03,Sí,México
+5eb4f5a68aa23236a7dee5a3,size,3,top_right,1,No,Cuadrado,2023-05-11 14:21:03,Sí,México
+5eb4f5a68aa23236a7dee5a3,size,2,top_left,2,Yes,Rectángulo,2023-05-11 14:21:03,Sí,México
+5eb4f5a68aa23236a7dee5a3,size,4,bottom_left,3,No,Rombo grande,2023-05-11 14:21:03,Sí,México
+5f497c1e6aa6394ebac7f840,size,2,top_left,0,Yes,rectángulo pequeño,2023-05-11 14:21:14,Sí,México
+5f497c1e6aa6394ebac7f840,size,4,top_right,1,No,estrella grande,2023-05-11 14:21:14,Sí,México
+5f497c1e6aa6394ebac7f840,size,3,bottom_right,2,Yes,símbolo de suma ,2023-05-11 14:21:14,Sí,México
+5f497c1e6aa6394ebac7f840,size,1,bottom_left,3,No,triangulo grande ,2023-05-11 14:21:14,Sí,México
+61075b217ce52432867755f1,size,1,top_left,0,Yes,corazón,2023-05-11 14:22:00,Sí,México
+61075b217ce52432867755f1,size,2,bottom_left,1,No,círculo,2023-05-11 14:22:00,Sí,México
+61075b217ce52432867755f1,size,3,top_right,2,No,Cuadrado,2023-05-11 14:22:00,Sí,México
+61075b217ce52432867755f1,size,4,bottom_right,3,Yes,Rombo,2023-05-11 14:22:00,Sí,México
+613abaa8ef02caba11c47bc3,size,3,bottom_left,0,No,Cruz,2023-05-11 14:22:19,Sí,México
+613abaa8ef02caba11c47bc3,size,4,bottom_right,1,Yes,Rombo,2023-05-11 14:22:19,Sí,México
+613abaa8ef02caba11c47bc3,size,1,top_right,2,No,Corazón ,2023-05-11 14:22:19,Sí,México
+613abaa8ef02caba11c47bc3,size,2,top_left,3,Yes,Rectángulo,2023-05-11 14:22:19,Sí,México
+6043f909d14273455e5e7436,size,4,top_left,0,Yes,Estrella,2023-05-11 14:22:29,Sí,México
+6043f909d14273455e5e7436,size,3,top_right,1,No,Cuadrado ,2023-05-11 14:22:29,Sí,México
+6043f909d14273455e5e7436,size,1,bottom_right,2,Yes,Triangulo ,2023-05-11 14:22:29,Sí,México
+6043f909d14273455e5e7436,size,2,bottom_left,3,No,Círculo ,2023-05-11 14:22:29,Sí,México
+5b79d3e5060f5b0001bb9958,size,1,bottom_left,0,No,Triangulo ,2023-05-11 14:22:39,NA,México
+5b79d3e5060f5b0001bb9958,size,2,top_right,1,No,Rectángulo,2023-05-11 14:22:39,NA,México
+5b79d3e5060f5b0001bb9958,size,4,bottom_right,2,Yes,Rombo ,2023-05-11 14:22:39,NA,México
+5b79d3e5060f5b0001bb9958,size,3,top_left,3,Yes,Cuadrado ,2023-05-11 14:22:39,NA,México
+5f31dc7121591a10c08201f8,size,1,bottom_left,0,No,Triangulo,2023-05-11 14:22:56,Sí,México
+5f31dc7121591a10c08201f8,size,2,top_right,1,No,rectangulo,2023-05-11 14:22:56,Sí,México
+5f31dc7121591a10c08201f8,size,4,bottom_right,2,Yes,rombo,2023-05-11 14:22:56,Sí,México
+5f31dc7121591a10c08201f8,size,3,top_left,3,Yes,cuadrado,2023-05-11 14:22:56,Sí,México
+6106eefd02a24910712c201b,size,1,bottom_right,0,Yes,Triángulo,2023-05-11 14:22:59,Sí,México
+6106eefd02a24910712c201b,size,2,top_left,1,Yes,Rectángulo,2023-05-11 14:22:59,Sí,México
+6106eefd02a24910712c201b,size,3,top_right,2,No,Cuadrado,2023-05-11 14:22:59,Sí,México
+6106eefd02a24910712c201b,size,4,bottom_left,3,No,Rombo / Diamante,2023-05-11 14:22:59,Sí,México
+5ef930974bc6e0000848aff7,size,1,bottom_right,0,Yes,Triángulo,2023-05-11 14:23:01,Sí,México
+5ef930974bc6e0000848aff7,size,2,top_right,1,No,Rectángulo,2023-05-11 14:23:01,Sí,México
+5ef930974bc6e0000848aff7,size,3,top_left,2,Yes,Cuadrado,2023-05-11 14:23:01,Sí,México
+5ef930974bc6e0000848aff7,size,4,bottom_left,3,No,Rombo,2023-05-11 14:23:01,Sí,México
+60bfbd995593c866168718e0,size,4,bottom_right,0,Yes,Diamante,2023-05-11 14:24:06,Sí,México
+60bfbd995593c866168718e0,size,1,bottom_left,1,No,Triángulo,2023-05-11 14:24:06,Sí,México
+60bfbd995593c866168718e0,size,2,top_left,2,Yes,Rectángulo pequeño,2023-05-11 14:24:06,Sí,México
+60bfbd995593c866168718e0,size,3,top_right,3,No,Cuadrado,2023-05-11 14:24:06,Sí,México
+6151fc337e8e6c69ea53efd8,size,1,bottom_left,0,No,triangulo,2023-05-11 14:24:54,Sí,México
+6151fc337e8e6c69ea53efd8,size,4,top_right,1,No,estrella,2023-05-11 14:24:54,Sí,México
+6151fc337e8e6c69ea53efd8,size,2,bottom_right,2,Yes,circulo,2023-05-11 14:24:54,Sí,México
+6151fc337e8e6c69ea53efd8,size,3,top_left,3,Yes,cuadrado,2023-05-11 14:24:54,Sí,México
+613b7ff0e625773956bbe116,size,3,bottom_right,0,Yes,CRUZ,2023-05-11 14:25:54,Sí,México
+613b7ff0e625773956bbe116,size,4,top_right,1,No,ESTRELLA,2023-05-11 14:25:54,Sí,México
+613b7ff0e625773956bbe116,size,2,bottom_left,2,No,CIRCULO,2023-05-11 14:25:54,Sí,México
+613b7ff0e625773956bbe116,size,1,top_left,3,Yes,CORAZON,2023-05-11 14:25:54,Sí,México
+5af43b1ea37f390001276490,size,3,bottom_left,0,No,Cruz,2023-05-11 14:25:59,Sí,México
+5af43b1ea37f390001276490,size,4,top_right,1,No,Estrella,2023-05-11 14:25:59,Sí,México
+5af43b1ea37f390001276490,size,2,top_left,2,Yes,Guion corto,2023-05-11 14:25:59,Sí,México
+5af43b1ea37f390001276490,size,1,bottom_right,3,Yes,Triangulo,2023-05-11 14:25:59,Sí,México
+5f347251fbeb1438f42517fc,size,4,top_left,0,Yes,"La figura está completamente centrad, está rellena y es pequeña, tiene 5 picos ",2023-05-11 14:26:00,Sí,México
+5f347251fbeb1438f42517fc,size,3,bottom_right,1,Yes,"La figura está totalmente en el centro, es rellena y tiene 4 vértices ",2023-05-11 14:26:00,Sí,México
+5f347251fbeb1438f42517fc,size,2,top_right,2,No,"La figura es bastante grande, rellena, tiene 4 vértices, pero es de las primeras figuras que te enseñan en primaria ",2023-05-11 14:26:00,Sí,México
+5f347251fbeb1438f42517fc,size,1,bottom_left,3,No,"Es bastante grande la figura, rellena, tiene 3 vértices ",2023-05-11 14:26:00,Sí,México
+6161a947307a1052753600be,size,3,bottom_right,0,Yes,Signo más ,2023-05-11 14:26:53,Sí,México
+6161a947307a1052753600be,size,2,bottom_left,1,No,Círculo sólido negro,2023-05-11 14:26:53,Sí,México
+6161a947307a1052753600be,size,1,top_left,2,Yes,Corazón sólido negro,2023-05-11 14:26:53,Sí,México
+6161a947307a1052753600be,size,4,top_right,3,No,Estrella sólida negra,2023-05-11 14:26:53,Sí,México
+611b0f8d86ff0419ff69c838,size,1,top_left,0,Yes,corazón pequeño,2023-05-11 14:26:55,Sí,México
+611b0f8d86ff0419ff69c838,size,2,bottom_left,1,No,"El círculo más grande, color negro",2023-05-11 14:26:55,Sí,México
+611b0f8d86ff0419ff69c838,size,4,bottom_right,2,Yes,Rombo pequeño color negro,2023-05-11 14:26:55,Sí,México
+611b0f8d86ff0419ff69c838,size,3,top_right,3,No,Cuadro grande color negro,2023-05-11 14:26:55,Sí,México
+613aa40f1e0b69d1fb8e1774,size,2,top_left,0,Yes,Rectángulo ,2023-05-11 14:26:59,Sí,México
+613aa40f1e0b69d1fb8e1774,size,3,bottom_left,1,No,Cruz,2023-05-11 14:26:59,Sí,México
+613aa40f1e0b69d1fb8e1774,size,1,bottom_right,2,Yes,Triángulo ,2023-05-11 14:26:59,Sí,México
+613aa40f1e0b69d1fb8e1774,size,4,top_right,3,No,Estrella ,2023-05-11 14:26:59,Sí,México
+5bbc0997f1f9ba000141cf0f,size,1,top_right,0,No,corazon,2023-05-11 14:27:24,Sí,México
+5bbc0997f1f9ba000141cf0f,size,4,top_left,1,Yes,estrella,2023-05-11 14:27:24,Sí,México
+5bbc0997f1f9ba000141cf0f,size,2,bottom_left,2,No,circulo,2023-05-11 14:27:24,Sí,México
+5bbc0997f1f9ba000141cf0f,size,3,bottom_right,3,Yes,cruz,2023-05-11 14:27:24,Sí,México
+5cd9cd20300c8c00016ea1c4,size,4,bottom_right,0,Yes,rombo negro,2023-05-11 14:29:08,Sí,México
+5cd9cd20300c8c00016ea1c4,size,2,top_left,1,Yes,rectángulo negro,2023-05-11 14:29:08,Sí,México
+5cd9cd20300c8c00016ea1c4,size,1,bottom_left,2,No,triangulo equilatero negro,2023-05-11 14:29:08,Sí,México
+5cd9cd20300c8c00016ea1c4,size,3,top_right,3,No,cuadrado negro,2023-05-11 14:29:08,Sí,México
+5f68f02c41716709ee9be42d,size,4,top_right,0,No,Estrella,2023-05-11 14:29:08,Sí,México
+5f68f02c41716709ee9be42d,size,2,bottom_left,1,No,Circulo,2023-05-11 14:29:08,Sí,México
+5f68f02c41716709ee9be42d,size,3,bottom_right,2,Yes,Cruz,2023-05-11 14:29:08,Sí,México
+5f68f02c41716709ee9be42d,size,1,top_left,3,Yes,Corazon,2023-05-11 14:29:08,Sí,México
+613ce0908bb5dbe6bcb5944a,size,1,bottom_right,0,Yes,triangulo,2023-05-11 14:29:10,Sí,México
+613ce0908bb5dbe6bcb5944a,size,3,top_left,1,Yes,cuadrado,2023-05-11 14:29:10,Sí,México
+613ce0908bb5dbe6bcb5944a,size,4,bottom_left,2,No,rombo,2023-05-11 14:29:10,Sí,México
+613ce0908bb5dbe6bcb5944a,size,2,top_right,3,No,rectangulo,2023-05-11 14:29:10,Sí,México
+61450d35861ed696636cb73d,size,3,top_right,0,No,Cuadro,2023-05-11 14:29:13,Sí,Sudamérica
+61450d35861ed696636cb73d,size,1,top_left,1,Yes,Corazón,2023-05-11 14:29:13,Sí,Sudamérica
+61450d35861ed696636cb73d,size,2,bottom_left,2,No,Circulo,2023-05-11 14:29:13,Sí,Sudamérica
+61450d35861ed696636cb73d,size,4,bottom_right,3,Yes,Rombo,2023-05-11 14:29:13,Sí,Sudamérica
+5f66e131cb8b062d0ea776f0,size,2,bottom_right,0,Yes,Círculo negro mediano,2023-05-11 14:29:58,Sí,México
+5f66e131cb8b062d0ea776f0,size,1,top_left,1,Yes,Corazón negro pequeño,2023-05-11 14:29:58,Sí,México
+5f66e131cb8b062d0ea776f0,size,3,bottom_left,2,No,Cruz negra grande,2023-05-11 14:29:58,Sí,México
+5f66e131cb8b062d0ea776f0,size,4,top_right,3,No,Estrella negra grande,2023-05-11 14:29:58,Sí,México
+6152003488526410fe7cc763,size,2,top_left,0,Yes,rectangulo,2023-05-11 14:31:14,Sí,México
+6152003488526410fe7cc763,size,4,bottom_left,1,No,rombo,2023-05-11 14:31:14,Sí,México
+6152003488526410fe7cc763,size,1,top_right,2,No,corazon,2023-05-11 14:31:14,Sí,México
+6152003488526410fe7cc763,size,3,bottom_right,3,Yes,cruz,2023-05-11 14:31:14,Sí,México
+5f24dcf6dd9834112f4db16b,size,2,top_left,0,Yes,rectangulo negro,2023-05-11 14:31:24,Sí,México
+5f24dcf6dd9834112f4db16b,size,4,bottom_left,1,No,rombo negro,2023-05-11 14:31:24,Sí,México
+5f24dcf6dd9834112f4db16b,size,1,bottom_right,2,Yes,triangulo negro,2023-05-11 14:31:24,Sí,México
+5f24dcf6dd9834112f4db16b,size,3,top_right,3,No,cuadrado negro,2023-05-11 14:31:24,Sí,México
+601857c3c3f5ce0c3e5fb913,size,4,bottom_right,0,Yes,"Un rombo algo pequeño, de color negro, posicionado en la mitad",2023-05-11 14:31:42,Sí,México
+601857c3c3f5ce0c3e5fb913,size,1,top_right,1,No,Un gran corazón de color negro,2023-05-11 14:31:42,Sí,México
+601857c3c3f5ce0c3e5fb913,size,3,top_left,2,Yes,Un pequeño cuadrado colocado justo en el centro y de color negro,2023-05-11 14:31:42,Sí,México
+601857c3c3f5ce0c3e5fb913,size,2,bottom_left,3,No,"Un gran circulo centrado, de color negro",2023-05-11 14:31:42,Sí,México
+614ca52e4fde46b0df5c728d,size,4,top_right,0,No,estrella,2023-05-11 14:31:54,Sí,México
+614ca52e4fde46b0df5c728d,size,3,bottom_right,1,Yes,signo de mas,2023-05-11 14:31:54,Sí,México
+614ca52e4fde46b0df5c728d,size,2,bottom_left,2,No,circulo,2023-05-11 14:31:54,Sí,México
+614ca52e4fde46b0df5c728d,size,1,top_left,3,Yes,corazon,2023-05-11 14:31:54,Sí,México
+60513316605b73cfd1f8d167,size,4,top_right,0,No,Estrella Grande,2023-05-11 14:33:24,Sí,México
+60513316605b73cfd1f8d167,size,3,bottom_left,1,No,Cruz Grande,2023-05-11 14:33:24,Sí,México
+60513316605b73cfd1f8d167,size,1,bottom_right,2,Yes,Triangulo pequeño,2023-05-11 14:33:24,Sí,México
+60513316605b73cfd1f8d167,size,2,top_left,3,Yes,Rectángulo Pequeño,2023-05-11 14:33:24,Sí,México
+5f2f46b2c1cba4190424f343,size,3,bottom_right,0,Yes,cruz,2023-05-11 14:33:46,Sí,México
+5f2f46b2c1cba4190424f343,size,4,bottom_left,1,No,rombo grande,2023-05-11 14:33:46,Sí,México
+5f2f46b2c1cba4190424f343,size,2,top_right,2,No,rectangulo,2023-05-11 14:33:46,Sí,México
+5f2f46b2c1cba4190424f343,size,1,top_left,3,Yes,corazón pequeño,2023-05-11 14:33:46,Sí,México
+613a9492023e2c60404e3881,size,2,bottom_right,0,Yes,cuadrado,2023-05-11 14:34:50,Sí,México
+613a9492023e2c60404e3881,size,3,top_right,1,No,cuadrado,2023-05-11 14:34:50,Sí,México
+613a9492023e2c60404e3881,size,1,bottom_left,2,No,cuadrado,2023-05-11 14:34:50,Sí,México
+613a9492023e2c60404e3881,size,4,top_left,3,Yes,cuadraro,2023-05-11 14:34:50,Sí,México
+61258b0f5a6eed6295d4f067,size,2,top_right,0,No,Rectángulo,2023-05-11 14:35:15,Sí,México
+61258b0f5a6eed6295d4f067,size,4,bottom_right,1,Yes,Rombo,2023-05-11 14:35:15,Sí,México
+61258b0f5a6eed6295d4f067,size,1,bottom_left,2,No,Triángulo,2023-05-11 14:35:15,Sí,México
+61258b0f5a6eed6295d4f067,size,3,top_left,3,Yes,Cuadrado,2023-05-11 14:35:15,Sí,México
+60e3a49b69e8d767b615e7a0,size,2,bottom_right,0,Yes,Circulo,2023-05-11 14:35:15,Sí,México
+60e3a49b69e8d767b615e7a0,size,3,top_left,1,Yes,Cuadrado,2023-05-11 14:35:15,Sí,México
+60e3a49b69e8d767b615e7a0,size,4,top_right,2,No,Estrella,2023-05-11 14:35:15,Sí,México
+60e3a49b69e8d767b615e7a0,size,1,bottom_left,3,No,Triangulo,2023-05-11 14:35:15,Sí,México
+614a433bba99b00a68b0a435,size,2,bottom_left,0,No,circle,2023-05-11 14:35:16,Sí,México
+614a433bba99b00a68b0a435,size,3,top_right,1,No,square,2023-05-11 14:35:16,Sí,México
+614a433bba99b00a68b0a435,size,4,bottom_right,2,Yes,diamond,2023-05-11 14:35:16,Sí,México
+614a433bba99b00a68b0a435,size,1,top_left,3,Yes,heart,2023-05-11 14:35:16,Sí,México
+616768a6a3e8a3050ab58685,size,4,bottom_left,0,No,Rombo,2023-05-11 14:35:54,Sí,México
+616768a6a3e8a3050ab58685,size,1,bottom_right,1,Yes,Triangulo,2023-05-11 14:35:54,Sí,México
+616768a6a3e8a3050ab58685,size,2,top_left,2,Yes,Rectángulocu,2023-05-11 14:35:54,Sí,México
+616768a6a3e8a3050ab58685,size,3,top_right,3,No,Cuadrado,2023-05-11 14:35:54,Sí,México
+61144c403a9f41dcb4acc040,size,3,bottom_right,0,Yes,Cruz,2023-05-11 14:36:00,Sí,México
+61144c403a9f41dcb4acc040,size,4,bottom_left,1,No,Rombo,2023-05-11 14:36:00,Sí,México
+61144c403a9f41dcb4acc040,size,1,top_right,2,No,Corazón ,2023-05-11 14:36:00,Sí,México
+61144c403a9f41dcb4acc040,size,2,top_left,3,Yes,Rectangulo,2023-05-11 14:36:00,Sí,México
+616768a6a3e8a3050ab58685,size,4,bottom_left,0,No,Rombo,2023-05-11 14:36:15,Sí,México
+616768a6a3e8a3050ab58685,size,1,bottom_right,1,Yes,Triangulo,2023-05-11 14:36:15,Sí,México
+616768a6a3e8a3050ab58685,size,2,top_left,2,Yes,Rectángulocu,2023-05-11 14:36:15,Sí,México
+616768a6a3e8a3050ab58685,size,3,top_right,3,No,Cuadrado,2023-05-11 14:36:15,Sí,México
+5ffab69a57132749844b8020,size,4,bottom_left,0,No,Rombo grande,2023-05-11 14:36:17,Sí,México
+5ffab69a57132749844b8020,size,3,top_left,1,Yes,Cuadrado pequeño,2023-05-11 14:36:17,Sí,México
+5ffab69a57132749844b8020,size,1,bottom_right,2,Yes,Triángulo pequeño,2023-05-11 14:36:17,Sí,México
+5ffab69a57132749844b8020,size,2,top_right,3,No,Rectángulo,2023-05-11 14:36:17,Sí,México
+5d4ca0ef259d580001cde9bb,size,4,top_right,0,No,Estrella,2023-05-11 14:38:04,Sí,México
+5d4ca0ef259d580001cde9bb,size,2,bottom_left,1,No,Círculo,2023-05-11 14:38:04,Sí,México
+5d4ca0ef259d580001cde9bb,size,3,bottom_right,2,Yes,Cruz,2023-05-11 14:38:04,Sí,México
+5d4ca0ef259d580001cde9bb,size,1,top_left,3,Yes,Corazón,2023-05-11 14:38:04,Sí,México
+606dfabebad1c5d51d3377af,size,4,top_right,0,No,Estrella,2023-05-11 14:38:07,Sí,México
+606dfabebad1c5d51d3377af,size,2,bottom_right,1,Yes,Punto,2023-05-11 14:38:07,Sí,México
+606dfabebad1c5d51d3377af,size,3,bottom_left,2,No,Cruz,2023-05-11 14:38:07,Sí,México
+606dfabebad1c5d51d3377af,size,1,top_left,3,Yes,Corazon,2023-05-11 14:38:07,Sí,México
+6148fd675993224dc86016d3,size,4,top_right,0,No,ESTRELLA,2023-05-11 14:38:14,Sí,México
+6148fd675993224dc86016d3,size,1,bottom_right,1,Yes,triangulo,2023-05-11 14:38:14,Sí,México
+6148fd675993224dc86016d3,size,2,bottom_left,2,No,circulo,2023-05-11 14:38:14,Sí,México
+6148fd675993224dc86016d3,size,3,top_left,3,Yes,cuadrado,2023-05-11 14:38:14,Sí,México
+5f2e1362fe3e9515fd7c3afc,size,3,top_left,0,Yes,Cuadrado,2023-05-11 14:38:52,Sí,México
+5f2e1362fe3e9515fd7c3afc,size,4,bottom_left,1,No,Rombo,2023-05-11 14:38:52,Sí,México
+5f2e1362fe3e9515fd7c3afc,size,1,bottom_right,2,Yes,Triángulo ,2023-05-11 14:38:52,Sí,México
+5f2e1362fe3e9515fd7c3afc,size,2,top_right,3,No,Rectangulo,2023-05-11 14:38:52,Sí,México
+5f3089cba2052d4f14e10381,size,4,bottom_right,0,Yes,La forma de un cometa.,2023-05-11 14:39:36,Sí,México
+5f3089cba2052d4f14e10381,size,3,top_right,1,No,Es la forma de una caja en 2D.,2023-05-11 14:39:36,Sí,México
+5f3089cba2052d4f14e10381,size,2,top_left,2,Yes,"La forma que tiene un jugo de caja, un estereo, una pantalla plana.",2023-05-11 14:39:36,Sí,México
+5f3089cba2052d4f14e10381,size,1,bottom_left,3,No,La formula de pitagoras se basa en esta figura.,2023-05-11 14:39:36,Sí,México
+5fc8088906bd7a10c6eced41,size,4,bottom_right,0,Yes,rombo,2023-05-11 14:43:26,Sí,México
+5fc8088906bd7a10c6eced41,size,3,top_right,1,No,cuadrado,2023-05-11 14:43:26,Sí,México
+5fc8088906bd7a10c6eced41,size,1,bottom_left,2,No,triángulo,2023-05-11 14:43:26,Sí,México
+5fc8088906bd7a10c6eced41,size,2,top_left,3,Yes,rectángulo,2023-05-11 14:43:26,Sí,México
+61663e3c5db40a8ff9e8e1c8,size,1,bottom_right,0,Yes,Triangulo,2023-05-11 14:43:37,Sí,México
+61663e3c5db40a8ff9e8e1c8,size,4,top_right,1,No,Estrella,2023-05-11 14:43:37,Sí,México
+61663e3c5db40a8ff9e8e1c8,size,3,top_left,2,Yes,cuadrado,2023-05-11 14:43:37,Sí,México
+61663e3c5db40a8ff9e8e1c8,size,2,bottom_left,3,No,circulo,2023-05-11 14:43:37,Sí,México
+61660b4af0be02375d417718,size,3,top_right,0,No,Cuadrado ,2023-05-11 14:44:19,Sí,México
+61660b4af0be02375d417718,size,1,bottom_right,1,Yes,Triangulo ,2023-05-11 14:44:19,Sí,México
+61660b4af0be02375d417718,size,4,bottom_left,2,No,Rombo,2023-05-11 14:44:19,Sí,México
+61660b4af0be02375d417718,size,2,top_left,3,Yes,Rectángulo ,2023-05-11 14:44:19,Sí,México
+613a4e942ec6f9878dae86f1,size,4,bottom_left,0,No,Rombo,2023-05-11 14:44:40,Sí,México
+613a4e942ec6f9878dae86f1,size,3,top_right,1,No,Cuadrado,2023-05-11 14:44:40,Sí,México
+613a4e942ec6f9878dae86f1,size,2,bottom_right,2,Yes,Círculo,2023-05-11 14:44:40,Sí,México
+613a4e942ec6f9878dae86f1,size,1,top_left,3,Yes,Corazón,2023-05-11 14:44:40,Sí,México
+613a49ba0eae835719765d0d,size,1,top_right,0,No,corazón,2023-05-11 14:45:29,Sí,México
+613a49ba0eae835719765d0d,size,4,bottom_right,1,Yes,diamante,2023-05-11 14:45:29,Sí,México
+613a49ba0eae835719765d0d,size,3,bottom_left,2,No,cruz,2023-05-11 14:45:29,Sí,México
+613a49ba0eae835719765d0d,size,2,top_left,3,Yes,guion,2023-05-11 14:45:29,Sí,México
+613bef2497e2a69fc3519c97,size,1,top_right,0,No,corazón,2023-05-11 14:46:22,Sí,México
+613bef2497e2a69fc3519c97,size,4,bottom_right,1,Yes,rombo,2023-05-11 14:46:22,Sí,México
+613bef2497e2a69fc3519c97,size,2,top_left,2,Yes,rectángulo,2023-05-11 14:46:22,Sí,México
+613bef2497e2a69fc3519c97,size,3,bottom_left,3,No,más,2023-05-11 14:46:22,Sí,México
+5ea8176676434f02a39db063,size,2,top_right,0,No,Rectángulo,2023-05-11 14:46:52,Sí,México
+5ea8176676434f02a39db063,size,4,top_left,1,Yes,Estrella,2023-05-11 14:46:52,Sí,México
+5ea8176676434f02a39db063,size,3,bottom_left,2,No,Cruz,2023-05-11 14:46:52,Sí,México
+5ea8176676434f02a39db063,size,1,bottom_right,3,Yes,Tríangulo,2023-05-11 14:46:52,Sí,México
+617078af72ac57476fffaa1f,size,3,top_right,0,No,Figura grande ,2023-05-11 14:47:47,Sí,México
+617078af72ac57476fffaa1f,size,1,bottom_right,1,Yes,Figura pequeña con 3 ángulos ,2023-05-11 14:47:47,Sí,México
+617078af72ac57476fffaa1f,size,4,bottom_left,2,No,Figura que predomina en tamaño,2023-05-11 14:47:47,Sí,México
+617078af72ac57476fffaa1f,size,2,top_left,3,Yes,Figura pequeña 4 lados,2023-05-11 14:47:47,Sí,México
+614524d773b290ab9eccd15a,size,3,bottom_right,0,Yes,4,2023-05-11 14:56:36,Sí,México
+614524d773b290ab9eccd15a,size,1,top_right,1,No,2,2023-05-11 14:56:36,Sí,México
+614524d773b290ab9eccd15a,size,2,bottom_left,2,No,3,2023-05-11 14:56:36,Sí,México
+614524d773b290ab9eccd15a,size,4,top_left,3,Yes,2,2023-05-11 14:56:36,Sí,México

@@ -1,0 +1,804 @@
+participant_id,experiment,item,cond,presentation_order,literal_response,response,timestamp,english_first_language,country_of_birth
+5c4c5bc98897520001567f80,size,4,top_left,0,Yes,small star,2023-05-11 04:46:09,Yes,United States
+5c4c5bc98897520001567f80,size,2,top_right,1,No,large rectangle,2023-05-11 04:46:09,Yes,United States
+5c4c5bc98897520001567f80,size,1,bottom_right,2,Yes,small triangle,2023-05-11 04:46:09,Yes,United States
+5c4c5bc98897520001567f80,size,3,bottom_left,3,No,large cross,2023-05-11 04:46:09,Yes,United States
+5ea9ee70bd6e6c158af94cca,size,4,bottom_left,0,No,diamond,2023-05-11 04:48:40,Yes,United States
+5ea9ee70bd6e6c158af94cca,size,1,bottom_right,1,Yes,tirangle,2023-05-11 04:48:40,Yes,United States
+5ea9ee70bd6e6c158af94cca,size,2,top_right,2,No,rectangle,2023-05-11 04:48:40,Yes,United States
+5ea9ee70bd6e6c158af94cca,size,3,top_left,3,Yes,square,2023-05-11 04:48:40,Yes,United States
+5d89c4dd68f9d60001a21500,size,4,top_left,0,Yes,Small Star,2023-05-11 04:57:33,Yes,United States
+5d89c4dd68f9d60001a21500,size,2,top_right,1,No,Big Rectangle,2023-05-11 04:57:33,Yes,United States
+5d89c4dd68f9d60001a21500,size,1,bottom_right,2,Yes,Tiny Triangle,2023-05-11 04:57:33,Yes,United States
+5d89c4dd68f9d60001a21500,size,3,bottom_left,3,No,Big Plus,2023-05-11 04:57:33,Yes,United States
+5ddd730ffce606ce31a105d4,size,4,bottom_left,0,No,large diamond,2023-05-11 04:58:10,Yes,United States
+5ddd730ffce606ce31a105d4,size,1,top_right,1,No,heart,2023-05-11 04:58:10,Yes,United States
+5ddd730ffce606ce31a105d4,size,3,bottom_right,2,Yes,small cross,2023-05-11 04:58:10,Yes,United States
+5ddd730ffce606ce31a105d4,size,2,top_left,3,Yes,small and thin rectangle,2023-05-11 04:58:10,Yes,United States
+60b8fb32cf60b9905fb72f17,size,4,bottom_right,0,Yes,Small diamond,2023-05-11 04:59:12,Yes,United States
+60b8fb32cf60b9905fb72f17,size,1,top_left,1,Yes,Small heart,2023-05-11 04:59:12,Yes,United States
+60b8fb32cf60b9905fb72f17,size,3,bottom_left,2,No,Small cross,2023-05-11 04:59:12,Yes,United States
+60b8fb32cf60b9905fb72f17,size,2,top_right,3,No,Large rectangle,2023-05-11 04:59:12,Yes,United States
+631a8cf972615c1fc25fe501,size,1,top_right,0,No,A heart,2023-05-11 12:26:07,Yes,United States
+631a8cf972615c1fc25fe501,size,3,bottom_left,1,No,a cross,2023-05-11 12:26:07,Yes,United States
+631a8cf972615c1fc25fe501,size,2,bottom_right,2,Yes,a circle,2023-05-11 12:26:07,Yes,United States
+631a8cf972615c1fc25fe501,size,4,top_left,3,Yes,a star,2023-05-11 12:26:07,Yes,United States
+5f4aeb98fffa876b6ab5372d,size,1,top_right,0,No,Heart,2023-05-11 12:27:53,Yes,United States
+5f4aeb98fffa876b6ab5372d,size,4,bottom_left,1,No,Diamond ,2023-05-11 12:27:53,Yes,United States
+5f4aeb98fffa876b6ab5372d,size,2,top_left,2,Yes,Rectangle ,2023-05-11 12:27:53,Yes,United States
+5f4aeb98fffa876b6ab5372d,size,3,bottom_right,3,Yes,Plus sign,2023-05-11 12:27:53,Yes,United States
+60fd05e540846ba7851b2928,size,2,top_left,0,Yes,rectangle ,2023-05-11 12:28:21,Yes,United States
+60fd05e540846ba7851b2928,size,3,bottom_right,1,Yes,cross,2023-05-11 12:28:21,Yes,United States
+60fd05e540846ba7851b2928,size,4,bottom_left,2,No,diamond,2023-05-11 12:28:21,Yes,United States
+60fd05e540846ba7851b2928,size,1,top_right,3,No,heart,2023-05-11 12:28:21,Yes,United States
+5ffe168936fe8d478cbee469,size,1,bottom_left,0,No,Triangle,2023-05-11 12:30:19,Yes,United States
+5ffe168936fe8d478cbee469,size,2,bottom_right,1,Yes,Circle,2023-05-11 12:30:19,Yes,United States
+5ffe168936fe8d478cbee469,size,4,top_left,2,Yes,Star,2023-05-11 12:30:19,Yes,United States
+5ffe168936fe8d478cbee469,size,3,top_right,3,No,Square,2023-05-11 12:30:19,Yes,United States
+5df71357fa3d104ca3be3c62,size,2,bottom_right,0,Yes,Dot,2023-05-11 12:31:33,Yes,United States
+5df71357fa3d104ca3be3c62,size,4,top_right,1,No,Star,2023-05-11 12:31:33,Yes,United States
+5df71357fa3d104ca3be3c62,size,3,bottom_left,2,No,Cross,2023-05-11 12:31:33,Yes,United States
+5df71357fa3d104ca3be3c62,size,1,top_left,3,Yes,Heart,2023-05-11 12:31:33,Yes,United States
+60801aa3467fd2f54022f40d,size,1,top_left,0,Yes,Small heart,2023-05-11 12:35:28,Yes,United States
+60801aa3467fd2f54022f40d,size,4,top_right,1,No,Large star,2023-05-11 12:35:28,Yes,United States
+60801aa3467fd2f54022f40d,size,3,bottom_left,2,No,Large plus sign,2023-05-11 12:35:28,Yes,United States
+60801aa3467fd2f54022f40d,size,2,bottom_right,3,Yes,Small circle ,2023-05-11 12:35:28,Yes,United States
+60ae54561666056b2558ba4d,size,4,top_right,0,No,Star,2023-05-11 12:37:20,Yes,Other
+60ae54561666056b2558ba4d,size,1,bottom_right,1,Yes,Triangle,2023-05-11 12:37:20,Yes,Other
+60ae54561666056b2558ba4d,size,3,top_left,2,Yes,Square,2023-05-11 12:37:20,Yes,Other
+60ae54561666056b2558ba4d,size,2,bottom_left,3,No,Circle,2023-05-11 12:37:20,Yes,Other
+63f79732be04acbf7e39080f,size,4,bottom_left,0,No,Large Diamond,2023-05-11 12:37:26,Yes,United States
+63f79732be04acbf7e39080f,size,3,top_left,1,Yes,Small square,2023-05-11 12:37:26,Yes,United States
+63f79732be04acbf7e39080f,size,2,bottom_right,2,Yes,small circle,2023-05-11 12:37:26,Yes,United States
+63f79732be04acbf7e39080f,size,1,top_right,3,No,Heart,2023-05-11 12:37:26,Yes,United States
+6400d8a5a63c1b229c841b29,size,4,bottom_left,0,No,Diamond ,2023-05-11 12:37:26,Yes,United States
+6400d8a5a63c1b229c841b29,size,3,top_left,1,Yes,Square,2023-05-11 12:37:26,Yes,United States
+6400d8a5a63c1b229c841b29,size,1,bottom_right,2,Yes,Triangle ,2023-05-11 12:37:26,Yes,United States
+6400d8a5a63c1b229c841b29,size,2,top_right,3,No,Rectangle,2023-05-11 12:37:26,Yes,United States
+60d5ff02fef54b0399953c12,size,1,top_left,0,Yes,Heart,2023-05-11 12:37:27,Yes,United States
+60d5ff02fef54b0399953c12,size,2,bottom_left,1,No,Circle,2023-05-11 12:37:27,Yes,United States
+60d5ff02fef54b0399953c12,size,3,top_right,2,No,Square,2023-05-11 12:37:27,Yes,United States
+60d5ff02fef54b0399953c12,size,4,bottom_right,3,Yes,Diamond,2023-05-11 12:37:27,Yes,United States
+5bdf7fe373c83800015898bc,size,1,top_right,0,No,heart,2023-05-11 12:37:45,Yes,United States
+5bdf7fe373c83800015898bc,size,4,top_left,1,Yes,star,2023-05-11 12:37:45,Yes,United States
+5bdf7fe373c83800015898bc,size,2,bottom_left,2,No,circle,2023-05-11 12:37:45,Yes,United States
+5bdf7fe373c83800015898bc,size,3,bottom_right,3,Yes,plus,2023-05-11 12:37:45,Yes,United States
+610d8f908ae3bb20ad22e034,size,1,top_right,0,No,heart,2023-05-11 12:38:19,Yes,United States
+610d8f908ae3bb20ad22e034,size,3,bottom_left,1,No,red cross symbol,2023-05-11 12:38:19,Yes,United States
+610d8f908ae3bb20ad22e034,size,2,bottom_right,2,Yes,dot,2023-05-11 12:38:19,Yes,United States
+610d8f908ae3bb20ad22e034,size,4,top_left,3,Yes,small star,2023-05-11 12:38:19,Yes,United States
+5feccdbdc92395ec2cc2a4a0,size,2,bottom_right,0,Yes,circle,2023-05-11 12:38:25,Yes,United States
+5feccdbdc92395ec2cc2a4a0,size,3,bottom_left,1,No,cross,2023-05-11 12:38:25,Yes,United States
+5feccdbdc92395ec2cc2a4a0,size,4,top_left,2,Yes,star,2023-05-11 12:38:25,Yes,United States
+5feccdbdc92395ec2cc2a4a0,size,1,top_right,3,No,heart,2023-05-11 12:38:25,Yes,United States
+6129496a59a1902bba202a45,size,1,top_right,0,No,Heart,2023-05-11 12:38:29,Yes,United States
+6129496a59a1902bba202a45,size,4,bottom_left,1,No,Large Kite ,2023-05-11 12:38:29,Yes,United States
+6129496a59a1902bba202a45,size,3,bottom_right,2,Yes,Plus sign,2023-05-11 12:38:29,Yes,United States
+6129496a59a1902bba202a45,size,2,top_left,3,Yes,Small rectangle,2023-05-11 12:38:29,Yes,United States
+60e1e2e5bf8cfa6e08a411cb,size,1,top_right,0,No,heart,2023-05-11 12:39:27,Yes,United States
+60e1e2e5bf8cfa6e08a411cb,size,3,bottom_right,1,Yes,plus,2023-05-11 12:39:27,Yes,United States
+60e1e2e5bf8cfa6e08a411cb,size,2,bottom_left,2,No,circle,2023-05-11 12:39:27,Yes,United States
+60e1e2e5bf8cfa6e08a411cb,size,4,top_left,3,Yes,star,2023-05-11 12:39:27,Yes,United States
+6325be0383521bf19d932615,size,3,top_right,0,No,square,2023-05-11 12:39:37,Yes,United States
+6325be0383521bf19d932615,size,4,top_left,1,Yes,star,2023-05-11 12:39:37,Yes,United States
+6325be0383521bf19d932615,size,1,bottom_left,2,No,triangle,2023-05-11 12:39:37,Yes,United States
+6325be0383521bf19d932615,size,2,bottom_right,3,Yes,circle,2023-05-11 12:39:37,Yes,United States
+5bdf22de2562330001b987e3,size,2,top_right,0,No,rectangle,2023-05-11 12:40:18,Yes,United States
+5bdf22de2562330001b987e3,size,3,top_left,1,Yes,square,2023-05-11 12:40:18,Yes,United States
+5bdf22de2562330001b987e3,size,1,bottom_right,2,Yes,triangle,2023-05-11 12:40:18,Yes,United States
+5bdf22de2562330001b987e3,size,4,bottom_left,3,No,diamond,2023-05-11 12:40:18,Yes,United States
+64022fe38cea7158c34de087,size,4,top_left,0,Yes,North Star,2023-05-11 12:41:40,Yes,United States
+64022fe38cea7158c34de087,size,2,top_right,1,No,Large Rectangle,2023-05-11 12:41:40,Yes,United States
+64022fe38cea7158c34de087,size,3,bottom_right,2,Yes,Big Plus,2023-05-11 12:41:40,Yes,United States
+64022fe38cea7158c34de087,size,1,bottom_left,3,No,Looks like a Pyramid and has 3 sides.,2023-05-11 12:41:40,Yes,United States
+6151c8ea2f7b31bdda93807d,size,1,bottom_left,0,No,Triangle,2023-05-11 12:42:25,Yes,United States
+6151c8ea2f7b31bdda93807d,size,2,bottom_right,1,Yes,Plain circle,2023-05-11 12:42:25,Yes,United States
+6151c8ea2f7b31bdda93807d,size,4,top_left,2,Yes,Star,2023-05-11 12:42:25,Yes,United States
+6151c8ea2f7b31bdda93807d,size,3,top_right,3,No,Square,2023-05-11 12:42:25,Yes,United States
+643fd1b3d38a918656d41317,size,3,top_left,0,Yes,solid square block,2023-05-11 12:43:25,Yes,United States
+643fd1b3d38a918656d41317,size,2,top_right,1,No,"large, solid, rectangle",2023-05-11 12:43:25,Yes,United States
+643fd1b3d38a918656d41317,size,1,bottom_right,2,Yes,small triangle shape,2023-05-11 12:43:25,Yes,United States
+643fd1b3d38a918656d41317,size,4,bottom_left,3,No,large diamond shape,2023-05-11 12:43:25,Yes,United States
+63bf6105f71f720415f0198b,size,4,bottom_right,0,Yes,diamond,2023-05-11 12:43:32,Yes,United States
+63bf6105f71f720415f0198b,size,1,bottom_left,1,No,triangle,2023-05-11 12:43:32,Yes,United States
+63bf6105f71f720415f0198b,size,2,top_right,2,No,rectangle,2023-05-11 12:43:32,Yes,United States
+63bf6105f71f720415f0198b,size,3,top_left,3,Yes,square,2023-05-11 12:43:32,Yes,United States
+5dd5c04f86c88658b24d4cde,size,4,top_right,0,No,star,2023-05-11 12:43:39,Yes,United States
+5dd5c04f86c88658b24d4cde,size,2,bottom_left,1,No,circle,2023-05-11 12:43:39,Yes,United States
+5dd5c04f86c88658b24d4cde,size,3,top_left,2,Yes,square,2023-05-11 12:43:39,Yes,United States
+5dd5c04f86c88658b24d4cde,size,1,bottom_right,3,Yes,triangle,2023-05-11 12:43:39,Yes,United States
+61033ec7e702e52a3bc8e606,size,4,bottom_right,0,Yes,diamond,2023-05-11 12:43:56,Yes,United States
+61033ec7e702e52a3bc8e606,size,3,bottom_left,1,No,plus sign,2023-05-11 12:43:56,Yes,United States
+61033ec7e702e52a3bc8e606,size,2,top_right,2,No,rectangle ,2023-05-11 12:43:56,Yes,United States
+61033ec7e702e52a3bc8e606,size,1,top_left,3,Yes,heart,2023-05-11 12:43:56,Yes,United States
+5d7c4978e34654001a80f1ba,size,2,top_right,0,No,rectangle,2023-05-11 12:44:36,Yes,United States
+5d7c4978e34654001a80f1ba,size,4,bottom_right,1,Yes,rhombus,2023-05-11 12:44:36,Yes,United States
+5d7c4978e34654001a80f1ba,size,1,top_left,2,Yes,heart,2023-05-11 12:44:36,Yes,United States
+5d7c4978e34654001a80f1ba,size,3,bottom_left,3,No,cross,2023-05-11 12:44:36,Yes,United States
+6448789852899cecc46b1914,size,4,top_right,0,No,Star,2023-05-11 12:45:26,Yes,United States
+6448789852899cecc46b1914,size,1,bottom_right,1,Yes,Triangle ,2023-05-11 12:45:26,Yes,United States
+6448789852899cecc46b1914,size,3,top_left,2,Yes,Square,2023-05-11 12:45:26,Yes,United States
+6448789852899cecc46b1914,size,2,bottom_left,3,No,Circle,2023-05-11 12:45:26,Yes,United States
+5d38056eb846880001b41df7,size,2,top_left,0,Yes,Rectangle,2023-05-11 12:45:50,Yes,United States
+5d38056eb846880001b41df7,size,1,bottom_left,1,No,Triangle,2023-05-11 12:45:50,Yes,United States
+5d38056eb846880001b41df7,size,3,top_right,2,No,Square,2023-05-11 12:45:50,Yes,United States
+5d38056eb846880001b41df7,size,4,bottom_right,3,Yes,Diamond,2023-05-11 12:45:50,Yes,United States
+5eb192fcbb01520b5cae89ee,size,4,top_left,0,Yes,Star,2023-05-11 12:46:36,Yes,United States
+5eb192fcbb01520b5cae89ee,size,3,bottom_left,1,No,Cross,2023-05-11 12:46:36,Yes,United States
+5eb192fcbb01520b5cae89ee,size,2,bottom_right,2,Yes,Circle,2023-05-11 12:46:36,Yes,United States
+5eb192fcbb01520b5cae89ee,size,1,top_right,3,No,Heart,2023-05-11 12:46:36,Yes,United States
+5bdc8d12b2fff7000189b6f8,size,1,bottom_right,0,Yes,small triangle,2023-05-11 12:46:48,Yes,United States
+5bdc8d12b2fff7000189b6f8,size,4,top_right,1,No,large star,2023-05-11 12:46:48,Yes,United States
+5bdc8d12b2fff7000189b6f8,size,3,top_left,2,Yes,small square,2023-05-11 12:46:48,Yes,United States
+5bdc8d12b2fff7000189b6f8,size,2,bottom_left,3,No,large circle,2023-05-11 12:46:48,Yes,United States
+5ba10ee370181f00014992fa,size,3,bottom_right,0,Yes,corss,2023-05-11 12:46:48,Yes,United States
+5ba10ee370181f00014992fa,size,2,top_right,1,No,rectangle,2023-05-11 12:46:48,Yes,United States
+5ba10ee370181f00014992fa,size,1,top_left,2,Yes,heart,2023-05-11 12:46:48,Yes,United States
+5ba10ee370181f00014992fa,size,4,bottom_left,3,No,large diamond,2023-05-11 12:46:48,Yes,United States
+5b8473a8449ef2000114a4f6,size,3,top_right,0,No,Square,2023-05-11 12:47:10,Yes,United States
+5b8473a8449ef2000114a4f6,size,4,top_left,1,Yes,Star,2023-05-11 12:47:10,Yes,United States
+5b8473a8449ef2000114a4f6,size,2,bottom_right,2,Yes,Circle,2023-05-11 12:47:10,Yes,United States
+5b8473a8449ef2000114a4f6,size,1,bottom_left,3,No,Triangle,2023-05-11 12:47:10,Yes,United States
+58d54d211d0b350001b3e435,size,2,top_right,0,No,Rectangle,2023-05-11 12:47:35,Yes,United States
+58d54d211d0b350001b3e435,size,4,top_left,1,Yes,Star,2023-05-11 12:47:35,Yes,United States
+58d54d211d0b350001b3e435,size,1,bottom_left,2,No,Triangle,2023-05-11 12:47:35,Yes,United States
+58d54d211d0b350001b3e435,size,3,bottom_right,3,Yes,Plus sign,2023-05-11 12:47:35,Yes,United States
+62c5029803a6df1117182ade,size,2,bottom_right,0,Yes,Dot,2023-05-11 12:47:50,Yes,United States
+62c5029803a6df1117182ade,size,3,bottom_left,1,No,Plus,2023-05-11 12:47:50,Yes,United States
+62c5029803a6df1117182ade,size,4,top_left,2,Yes,Star,2023-05-11 12:47:50,Yes,United States
+62c5029803a6df1117182ade,size,1,top_right,3,No,Heart,2023-05-11 12:47:50,Yes,United States
+617378aeffbba11d8971051c,size,1,bottom_left,0,No,triangle,2023-05-11 12:48:27,Yes,United States
+617378aeffbba11d8971051c,size,4,top_left,1,Yes,star,2023-05-11 12:48:27,Yes,United States
+617378aeffbba11d8971051c,size,3,bottom_right,2,Yes,plus sign,2023-05-11 12:48:27,Yes,United States
+617378aeffbba11d8971051c,size,2,top_right,3,No,rectangle,2023-05-11 12:48:27,Yes,United States
+6170286967442d5df0e27c83,size,2,bottom_right,0,Yes,Circle,2023-05-11 12:48:34,Yes,United States
+6170286967442d5df0e27c83,size,1,bottom_left,1,No,Triangle,2023-05-11 12:48:34,Yes,United States
+6170286967442d5df0e27c83,size,4,top_left,2,Yes,Star,2023-05-11 12:48:34,Yes,United States
+6170286967442d5df0e27c83,size,3,top_right,3,No,Square,2023-05-11 12:48:34,Yes,United States
+6108b85737ee8514352aecb8,size,4,top_right,0,No,Star,2023-05-11 12:49:02,Yes,United States
+6108b85737ee8514352aecb8,size,2,bottom_right,1,Yes,Circle,2023-05-11 12:49:02,Yes,United States
+6108b85737ee8514352aecb8,size,1,top_left,2,Yes,Heart,2023-05-11 12:49:02,Yes,United States
+6108b85737ee8514352aecb8,size,3,bottom_left,3,No,Cross,2023-05-11 12:49:02,Yes,United States
+5d49dd914aff6e0001fb6eaf,size,3,bottom_left,0,No,Cross ,2023-05-11 12:49:57,Yes,United States
+5d49dd914aff6e0001fb6eaf,size,1,top_right,1,No,Heart ,2023-05-11 12:49:57,Yes,United States
+5d49dd914aff6e0001fb6eaf,size,2,bottom_right,2,Yes,Circle ,2023-05-11 12:49:57,Yes,United States
+5d49dd914aff6e0001fb6eaf,size,4,top_left,3,Yes,Star ,2023-05-11 12:49:57,Yes,United States
+5a98b39b89de8200013ef94f,size,1,bottom_left,0,No,triangle,2023-05-11 12:50:35,Yes,United States
+5a98b39b89de8200013ef94f,size,4,top_left,1,Yes,tiny star,2023-05-11 12:50:35,Yes,United States
+5a98b39b89de8200013ef94f,size,3,bottom_right,2,Yes,cross,2023-05-11 12:50:35,Yes,United States
+5a98b39b89de8200013ef94f,size,2,top_right,3,No,rectangle ,2023-05-11 12:50:35,Yes,United States
+5c6ee20c0506a200015c4275,size,4,bottom_left,0,No,Large Diamond,2023-05-11 12:50:36,Yes,United States
+5c6ee20c0506a200015c4275,size,1,top_left,1,Yes,heart,2023-05-11 12:50:36,Yes,United States
+5c6ee20c0506a200015c4275,size,3,bottom_right,2,Yes,plus sign,2023-05-11 12:50:36,Yes,United States
+5c6ee20c0506a200015c4275,size,2,top_right,3,No,rectangle,2023-05-11 12:50:36,Yes,United States
+6312bdcf64c0abf681b89dd5,size,1,top_left,0,Yes,heart,2023-05-11 12:50:45,Yes,United States
+6312bdcf64c0abf681b89dd5,size,3,bottom_left,1,No,cross,2023-05-11 12:50:45,Yes,United States
+6312bdcf64c0abf681b89dd5,size,4,top_right,2,No,star,2023-05-11 12:50:45,Yes,United States
+6312bdcf64c0abf681b89dd5,size,2,bottom_right,3,Yes,circle,2023-05-11 12:50:45,Yes,United States
+546f8a9cfdf99b4a593414ea,size,3,top_right,0,No,square,2023-05-11 12:51:35,Yes,United States
+546f8a9cfdf99b4a593414ea,size,1,bottom_left,1,No,triangle,2023-05-11 12:51:35,Yes,United States
+546f8a9cfdf99b4a593414ea,size,4,top_left,2,Yes,star,2023-05-11 12:51:35,Yes,United States
+546f8a9cfdf99b4a593414ea,size,2,bottom_right,3,Yes,circle,2023-05-11 12:51:35,Yes,United States
+564b5db96b914e000ffd701f,size,4,bottom_left,0,No,Diamond,2023-05-11 12:51:39,Yes,United States
+564b5db96b914e000ffd701f,size,2,top_left,1,Yes,Rectangle,2023-05-11 12:51:39,Yes,United States
+564b5db96b914e000ffd701f,size,3,bottom_right,2,Yes,Plus Sign,2023-05-11 12:51:39,Yes,United States
+564b5db96b914e000ffd701f,size,1,top_right,3,No,Heart,2023-05-11 12:51:39,Yes,United States
+5dd3581abca2e436d1c171cb,size,3,top_right,0,No,square,2023-05-11 12:52:00,Yes,United States
+5dd3581abca2e436d1c171cb,size,2,top_left,1,Yes,rectangle,2023-05-11 12:52:00,Yes,United States
+5dd3581abca2e436d1c171cb,size,1,bottom_right,2,Yes,triangle,2023-05-11 12:52:00,Yes,United States
+5dd3581abca2e436d1c171cb,size,4,bottom_left,3,No,large diamond,2023-05-11 12:52:00,Yes,United States
+5d2568343eee7d001841a16b,size,4,top_left,0,Yes,star,2023-05-11 12:52:07,Yes,United States
+5d2568343eee7d001841a16b,size,2,bottom_left,1,No,circle,2023-05-11 12:52:07,Yes,United States
+5d2568343eee7d001841a16b,size,3,bottom_right,2,Yes,plus,2023-05-11 12:52:07,Yes,United States
+5d2568343eee7d001841a16b,size,1,top_right,3,No,heart,2023-05-11 12:52:07,Yes,United States
+5e76ca9681ea06243ff82c46,size,2,top_right,0,No,rectangle,2023-05-11 12:52:30,Yes,United States
+5e76ca9681ea06243ff82c46,size,3,top_left,1,Yes,square,2023-05-11 12:52:30,Yes,United States
+5e76ca9681ea06243ff82c46,size,1,bottom_left,2,No,Triangle,2023-05-11 12:52:30,Yes,United States
+5e76ca9681ea06243ff82c46,size,4,bottom_right,3,Yes,Diamond,2023-05-11 12:52:30,Yes,United States
+63ecff63e49ff8951461bc4c,size,4,bottom_right,0,Yes,Romboid,2023-05-11 12:52:36,Yes,United States
+63ecff63e49ff8951461bc4c,size,2,top_right,1,No,Square,2023-05-11 12:52:36,Yes,United States
+63ecff63e49ff8951461bc4c,size,1,top_left,2,Yes,Heart,2023-05-11 12:52:36,Yes,United States
+63ecff63e49ff8951461bc4c,size,3,bottom_left,3,No,Plus,2023-05-11 12:52:36,Yes,United States
+612d435206d267d587b12789,size,2,bottom_right,0,Yes,Circle ,2023-05-11 12:53:01,Yes,United States
+612d435206d267d587b12789,size,1,bottom_left,1,No,Triangle ,2023-05-11 12:53:01,Yes,United States
+612d435206d267d587b12789,size,4,top_right,3,No,Star,2023-05-11 12:53:01,Yes,United States
+628e96b9b7679f5464681a9a,size,1,top_right,0,No,heart,2023-05-11 12:53:35,Yes,United States
+628e96b9b7679f5464681a9a,size,3,top_left,1,Yes,square,2023-05-11 12:53:35,Yes,United States
+628e96b9b7679f5464681a9a,size,4,bottom_left,2,No,large diamond,2023-05-11 12:53:35,Yes,United States
+628e96b9b7679f5464681a9a,size,2,bottom_right,3,Yes,circle,2023-05-11 12:53:35,Yes,United States
+629e1dcac03690dc02e2859c,size,4,top_left,0,Yes,star,2023-05-11 12:53:37,Yes,United States
+629e1dcac03690dc02e2859c,size,1,bottom_right,1,Yes,triangle,2023-05-11 12:53:37,Yes,United States
+629e1dcac03690dc02e2859c,size,2,top_right,2,No,rectangle,2023-05-11 12:53:37,Yes,United States
+629e1dcac03690dc02e2859c,size,3,bottom_left,3,No,plus,2023-05-11 12:53:37,Yes,United States
+60fd6607e7beec3c98d994b1,size,2,top_left,0,Yes,tiny rectangle,2023-05-11 12:53:42,Yes,United States
+60fd6607e7beec3c98d994b1,size,1,bottom_left,1,No,large triangle,2023-05-11 12:53:42,Yes,United States
+60fd6607e7beec3c98d994b1,size,3,top_right,2,No,Large Square ,2023-05-11 12:53:42,Yes,United States
+60fd6607e7beec3c98d994b1,size,4,bottom_right,3,Yes,tiny diamond,2023-05-11 12:53:42,Yes,United States
+5825dc1f7fcbaa000134776e,size,4,top_right,0,No,star,2023-05-11 12:53:46,Yes,United States
+5825dc1f7fcbaa000134776e,size,2,top_left,1,Yes,rectangle,2023-05-11 12:53:46,Yes,United States
+5825dc1f7fcbaa000134776e,size,3,bottom_right,2,Yes,plus sign,2023-05-11 12:53:46,Yes,United States
+5825dc1f7fcbaa000134776e,size,1,bottom_left,3,No,triangle,2023-05-11 12:53:46,Yes,United States
+61016fba26e42d1d449f890d,size,2,top_left,0,Yes,Dash,2023-05-11 12:53:49,Yes,United States
+61016fba26e42d1d449f890d,size,4,top_right,1,No,Star,2023-05-11 12:53:49,Yes,United States
+61016fba26e42d1d449f890d,size,1,bottom_left,2,No,Triangle ,2023-05-11 12:53:49,Yes,United States
+61016fba26e42d1d449f890d,size,3,bottom_right,3,Yes,Plus sign,2023-05-11 12:53:49,Yes,United States
+60fd54eeb92f1c8cdb0fc4bb,size,1,bottom_left,0,No,triangle,2023-05-11 12:54:00,Yes,United States
+60fd54eeb92f1c8cdb0fc4bb,size,3,top_right,1,No,square,2023-05-11 12:54:00,Yes,United States
+60fd54eeb92f1c8cdb0fc4bb,size,2,bottom_right,2,Yes,circle,2023-05-11 12:54:00,Yes,United States
+60fd54eeb92f1c8cdb0fc4bb,size,4,top_left,3,Yes,star,2023-05-11 12:54:00,Yes,United States
+5dc88a6643755e5f227e0488,size,1,bottom_right,0,Yes,triangle,2023-05-11 12:54:24,Yes,United States
+5dc88a6643755e5f227e0488,size,3,top_left,1,Yes,square,2023-05-11 12:54:24,Yes,United States
+5dc88a6643755e5f227e0488,size,4,bottom_left,2,No,large diamond,2023-05-11 12:54:24,Yes,United States
+5dc88a6643755e5f227e0488,size,2,top_right,3,No,Rectangle,2023-05-11 12:54:24,Yes,United States
+62e9c91168f8d1ff048964e9,size,1,bottom_left,0,No,triangle,2023-05-11 12:54:34,Yes,United States
+62e9c91168f8d1ff048964e9,size,4,bottom_right,1,Yes,dimond,2023-05-11 12:54:34,Yes,United States
+62e9c91168f8d1ff048964e9,size,3,top_right,2,No,square,2023-05-11 12:54:34,Yes,United States
+62e9c91168f8d1ff048964e9,size,2,top_left,3,Yes,rectangle,2023-05-11 12:54:34,Yes,United States
+631fc3e54c3c0515402fdd17,size,1,top_right,0,No,Heart,2023-05-11 12:54:54,Yes,United States
+631fc3e54c3c0515402fdd17,size,4,bottom_right,1,Yes,Diamond,2023-05-11 12:54:54,Yes,United States
+631fc3e54c3c0515402fdd17,size,2,top_left,2,Yes,Small rectangle,2023-05-11 12:54:54,Yes,United States
+631fc3e54c3c0515402fdd17,size,3,bottom_left,3,No,Cross,2023-05-11 12:54:54,Yes,United States
+5ea8fe56a6d1a135a5a442cd,size,1,top_right,0,No,Heart,2023-05-11 12:54:59,Yes,United States
+5ea8fe56a6d1a135a5a442cd,size,4,bottom_right,1,Yes,Diamond,2023-05-11 12:54:59,Yes,United States
+5ea8fe56a6d1a135a5a442cd,size,3,top_left,2,Yes,Square,2023-05-11 12:54:59,Yes,United States
+5ea8fe56a6d1a135a5a442cd,size,2,bottom_left,3,No,Circle,2023-05-11 12:54:59,Yes,United States
+59c65eb83306be000195bb01,size,1,bottom_right,0,Yes,Triangle,2023-05-11 12:55:07,Yes,United States
+59c65eb83306be000195bb01,size,3,top_left,1,Yes,Square,2023-05-11 12:55:07,Yes,United States
+59c65eb83306be000195bb01,size,4,bottom_left,2,No,Diamond,2023-05-11 12:55:07,Yes,United States
+59c65eb83306be000195bb01,size,2,top_right,3,No,Rectangle,2023-05-11 12:55:07,Yes,United States
+5f9b38a3e8bb2a1c4db0515e,size,2,bottom_left,0,No,Large black circle,2023-05-11 12:55:11,Yes,United States
+5f9b38a3e8bb2a1c4db0515e,size,1,bottom_right,1,Yes,Small black triangle ,2023-05-11 12:55:11,Yes,United States
+5f9b38a3e8bb2a1c4db0515e,size,4,top_left,2,Yes,Small black star,2023-05-11 12:55:11,Yes,United States
+5f9b38a3e8bb2a1c4db0515e,size,3,top_right,3,No,Large black square,2023-05-11 12:55:11,Yes,United States
+607ba45a421d301d24cf252b,size,3,bottom_right,0,Yes,Plus sign ,2023-05-11 12:55:14,Yes,United States
+607ba45a421d301d24cf252b,size,1,top_right,1,No,Heart ,2023-05-11 12:55:14,Yes,United States
+607ba45a421d301d24cf252b,size,4,bottom_left,2,No,Large diamond ,2023-05-11 12:55:14,Yes,United States
+607ba45a421d301d24cf252b,size,2,top_left,3,Yes,Small rectangle ,2023-05-11 12:55:14,Yes,United States
+5b97386d8e5b7b00010e1a8e,size,4,bottom_right,0,Yes,Diamond,2023-05-11 12:55:22,Yes,United States
+5b97386d8e5b7b00010e1a8e,size,3,top_right,1,No,Squarr,2023-05-11 12:55:22,Yes,United States
+5b97386d8e5b7b00010e1a8e,size,2,bottom_left,2,No,Circle,2023-05-11 12:55:22,Yes,United States
+5b97386d8e5b7b00010e1a8e,size,1,top_left,3,Yes,Heart ,2023-05-11 12:55:22,Yes,United States
+5dd9389d23f9f18b90cb69ce,size,4,top_right,0,No,Star,2023-05-11 12:55:23,Yes,United States
+5dd9389d23f9f18b90cb69ce,size,1,bottom_left,1,No,Triangle ,2023-05-11 12:55:23,Yes,United States
+5dd9389d23f9f18b90cb69ce,size,3,bottom_right,2,Yes,Plus sign,2023-05-11 12:55:23,Yes,United States
+5dd9389d23f9f18b90cb69ce,size,2,top_left,3,Yes,Minus sign,2023-05-11 12:55:23,Yes,United States
+5fc5c6e3dfa8ca1557012d44,size,2,bottom_right,0,Yes,Small circle,2023-05-11 12:55:58,Yes,United States
+5fc5c6e3dfa8ca1557012d44,size,4,top_left,1,Yes,Small star,2023-05-11 12:55:58,Yes,United States
+5fc5c6e3dfa8ca1557012d44,size,1,top_right,2,No,Big heart,2023-05-11 12:55:58,Yes,United States
+5fc5c6e3dfa8ca1557012d44,size,3,bottom_left,3,No,Cross,2023-05-11 12:55:58,Yes,United States
+60f4b14a9435eb98788273b0,size,4,bottom_left,0,No,diamond,2023-05-11 12:56:07,Yes,United States
+60f4b14a9435eb98788273b0,size,3,bottom_right,1,Yes,plus sign,2023-05-11 12:56:07,Yes,United States
+60f4b14a9435eb98788273b0,size,1,top_right,2,No,heart,2023-05-11 12:56:07,Yes,United States
+60f4b14a9435eb98788273b0,size,2,top_left,3,Yes,rectangle,2023-05-11 12:56:07,Yes,United States
+5c09b4f8c0ee550001adcab5,size,1,bottom_right,0,Yes,small triangle ,2023-05-11 12:56:18,Yes,United States
+5c09b4f8c0ee550001adcab5,size,2,top_left,1,Yes,small rectangle ,2023-05-11 12:56:18,Yes,United States
+5c09b4f8c0ee550001adcab5,size,4,bottom_left,2,No,diamond ,2023-05-11 12:56:18,Yes,United States
+5c09b4f8c0ee550001adcab5,size,3,top_right,3,No,big square ,2023-05-11 12:56:18,Yes,United States
+62f7cdb38b7eeb26308bae5b,size,3,bottom_right,0,Yes,Plus sign,2023-05-11 12:56:45,Yes,United States
+62f7cdb38b7eeb26308bae5b,size,1,bottom_left,1,No,Triangle,2023-05-11 12:56:45,Yes,United States
+62f7cdb38b7eeb26308bae5b,size,2,top_left,2,Yes,Minus sign,2023-05-11 12:56:45,Yes,United States
+62f7cdb38b7eeb26308bae5b,size,4,top_right,3,No,Star,2023-05-11 12:56:45,Yes,United States
+5abe4f25fa3b4e000173303f,size,4,bottom_left,0,No,Diamond,2023-05-11 12:57:29,Yes,United States
+5abe4f25fa3b4e000173303f,size,3,top_left,1,Yes,square,2023-05-11 12:57:29,Yes,United States
+5abe4f25fa3b4e000173303f,size,1,bottom_right,2,Yes,circle,2023-05-11 12:57:29,Yes,United States
+5abe4f25fa3b4e000173303f,size,2,top_right,3,No,rectangle ,2023-05-11 12:57:29,Yes,United States
+62f06c2a723912d6dd3f3f22,size,2,bottom_right,0,Yes,circle,2023-05-11 12:57:51,Yes,United States
+62f06c2a723912d6dd3f3f22,size,1,top_left,1,Yes,heart,2023-05-11 12:57:51,Yes,United States
+62f06c2a723912d6dd3f3f22,size,4,top_right,2,No,star,2023-05-11 12:57:51,Yes,United States
+62f06c2a723912d6dd3f3f22,size,3,bottom_left,3,No,cross,2023-05-11 12:57:51,Yes,United States
+5de91f07c04503000a6922ee,size,3,bottom_right,0,Yes,CROSS,2023-05-11 12:57:54,Yes,United States
+5de91f07c04503000a6922ee,size,1,top_right,1,No,HEART,2023-05-11 12:57:54,Yes,United States
+5de91f07c04503000a6922ee,size,4,top_left,2,Yes,STAR,2023-05-11 12:57:54,Yes,United States
+5de91f07c04503000a6922ee,size,2,bottom_left,3,No,CIRCLE,2023-05-11 12:57:54,Yes,United States
+5bd732dc9760e90001148cd0,size,4,top_right,0,No,medium star,2023-05-11 12:58:01,Yes,United States
+5bd732dc9760e90001148cd0,size,3,top_left,1,Yes,small square,2023-05-11 12:58:01,Yes,United States
+5bd732dc9760e90001148cd0,size,1,bottom_right,2,Yes,small triangle,2023-05-11 12:58:01,Yes,United States
+5bd732dc9760e90001148cd0,size,2,bottom_left,3,No,medium circle,2023-05-11 12:58:01,Yes,United States
+5c7c5c40ffaec400019b36d5,size,3,top_right,0,No,square,2023-05-11 12:58:18,Yes,United States
+5c7c5c40ffaec400019b36d5,size,2,bottom_right,1,Yes,dot,2023-05-11 12:58:18,Yes,United States
+5c7c5c40ffaec400019b36d5,size,4,bottom_left,2,No,bigger diamond,2023-05-11 12:58:18,Yes,United States
+5c7c5c40ffaec400019b36d5,size,1,top_left,3,Yes,heart,2023-05-11 12:58:18,Yes,United States
+5c0065c9b18ed30001943bfd,size,4,bottom_left,0,No,Diamond,2023-05-11 12:58:21,Yes,United States
+5c0065c9b18ed30001943bfd,size,2,bottom_right,1,Yes,Circle,2023-05-11 12:58:21,Yes,United States
+5c0065c9b18ed30001943bfd,size,1,top_right,2,No,Heart,2023-05-11 12:58:21,Yes,United States
+5c0065c9b18ed30001943bfd,size,3,top_left,3,Yes,Square,2023-05-11 12:58:21,Yes,United States
+5de78a77599d506f27692fcf,size,1,top_right,0,No,big heart,2023-05-11 12:58:30,Yes,United States
+5de78a77599d506f27692fcf,size,4,bottom_right,1,Yes,small diamond,2023-05-11 12:58:30,Yes,United States
+5de78a77599d506f27692fcf,size,2,bottom_left,2,No,big circle,2023-05-11 12:58:30,Yes,United States
+5de78a77599d506f27692fcf,size,3,top_left,3,Yes,small square,2023-05-11 12:58:30,Yes,United States
+5b18248744127b00013f90ce,size,4,top_right,0,No,star,2023-05-11 12:58:31,Yes,United States
+5b18248744127b00013f90ce,size,3,top_left,1,Yes,square,2023-05-11 12:58:31,Yes,United States
+5b18248744127b00013f90ce,size,2,bottom_left,2,No,large circle,2023-05-11 12:58:31,Yes,United States
+5b18248744127b00013f90ce,size,1,bottom_right,3,Yes,triangle,2023-05-11 12:58:31,Yes,United States
+627e9c9eeda3f513a8c6c548,size,3,top_right,0,No,square,2023-05-11 12:58:55,Yes,United States
+627e9c9eeda3f513a8c6c548,size,1,top_left,1,Yes,heart,2023-05-11 12:58:55,Yes,United States
+627e9c9eeda3f513a8c6c548,size,4,bottom_right,2,Yes,diamond,2023-05-11 12:58:55,Yes,United States
+627e9c9eeda3f513a8c6c548,size,2,bottom_left,3,No,circle,2023-05-11 12:58:55,Yes,United States
+5e9b5d5193295f05c902b8d2,size,2,top_left,0,Yes,small rectangle,2023-05-11 12:58:59,Yes,United States
+5e9b5d5193295f05c902b8d2,size,1,top_right,1,No,heart,2023-05-11 12:58:59,Yes,United States
+5e9b5d5193295f05c902b8d2,size,4,bottom_left,2,No,diamond ,2023-05-11 12:58:59,Yes,United States
+5e9b5d5193295f05c902b8d2,size,3,bottom_right,3,Yes,pharmacy and plus sign,2023-05-11 12:58:59,Yes,United States
+5fc7e4142a10490c47936a64,size,3,top_left,0,Yes,square,2023-05-11 12:59:01,Yes,United States
+5fc7e4142a10490c47936a64,size,4,bottom_right,1,Yes,diamond,2023-05-11 12:59:01,Yes,United States
+5fc7e4142a10490c47936a64,size,1,top_right,2,No,heart,2023-05-11 12:59:01,Yes,United States
+5fc7e4142a10490c47936a64,size,2,bottom_left,3,No,circle,2023-05-11 12:59:01,Yes,United States
+5ce7b20479642d00197682ea,size,1,top_left,0,Yes,Heart,2023-05-11 12:59:56,Yes,United States
+5ce7b20479642d00197682ea,size,3,bottom_left,1,No,Plus,2023-05-11 12:59:56,Yes,United States
+5ce7b20479642d00197682ea,size,4,top_right,2,No,Star,2023-05-11 12:59:56,Yes,United States
+5ce7b20479642d00197682ea,size,2,bottom_right,3,Yes,Period,2023-05-11 12:59:56,Yes,United States
+5a553e07e0cf3d0001261df6,size,3,bottom_right,0,Yes,cross,2023-05-11 13:00:12,Yes,United States
+5a553e07e0cf3d0001261df6,size,1,top_left,1,Yes,heart,2023-05-11 13:00:12,Yes,United States
+5a553e07e0cf3d0001261df6,size,4,bottom_left,2,No,big diamond,2023-05-11 13:00:12,Yes,United States
+5a553e07e0cf3d0001261df6,size,2,top_right,3,No,rectangle,2023-05-11 13:00:12,Yes,United States
+610b54c90613bd84d3e777a2,size,3,bottom_right,0,Yes,plus,2023-05-11 13:00:28,Yes,United States
+610b54c90613bd84d3e777a2,size,1,bottom_left,1,No,triangle,2023-05-11 13:00:28,Yes,United States
+610b54c90613bd84d3e777a2,size,2,top_left,2,Yes,dash,2023-05-11 13:00:28,Yes,United States
+610b54c90613bd84d3e777a2,size,4,top_right,3,No,star,2023-05-11 13:00:28,Yes,United States
+5c2789fc1694480001e4c4e3,size,4,bottom_right,0,Yes,diamond,2023-05-11 13:00:53,Yes,United States
+5c2789fc1694480001e4c4e3,size,1,bottom_left,1,No,triangle,2023-05-11 13:00:53,Yes,United States
+5c2789fc1694480001e4c4e3,size,3,top_left,2,Yes,square,2023-05-11 13:00:53,Yes,United States
+5c2789fc1694480001e4c4e3,size,2,top_right,3,No,rectangle,2023-05-11 13:00:53,Yes,United States
+5ec6df52f52d1111598b1221,size,3,top_right,0,No,Square,2023-05-11 13:01:04,Yes,United States
+5ec6df52f52d1111598b1221,size,4,top_left,1,Yes,Star ,2023-05-11 13:01:04,Yes,United States
+5ec6df52f52d1111598b1221,size,1,bottom_right,2,Yes,Triangle,2023-05-11 13:01:04,Yes,United States
+5ec6df52f52d1111598b1221,size,2,bottom_left,3,No,Circle,2023-05-11 13:01:04,Yes,United States
+63893361eb75b9bdcee7cc27,size,2,top_left,0,Yes,small dash,2023-05-11 13:01:28,Yes,Canada
+63893361eb75b9bdcee7cc27,size,4,bottom_right,1,Yes,small diamond,2023-05-11 13:01:28,Yes,Canada
+63893361eb75b9bdcee7cc27,size,3,top_right,2,No,large square,2023-05-11 13:01:28,Yes,Canada
+63893361eb75b9bdcee7cc27,size,1,bottom_left,3,No,large triangle,2023-05-11 13:01:28,Yes,Canada
+5e29d24605043a02e9043472,size,1,top_left,0,Yes,Heart,2023-05-11 13:01:42,Yes,United States
+5e29d24605043a02e9043472,size,2,top_right,1,No,Rectangle,2023-05-11 13:01:42,Yes,United States
+5e29d24605043a02e9043472,size,3,bottom_left,2,No,Cross,2023-05-11 13:01:42,Yes,United States
+5e29d24605043a02e9043472,size,4,bottom_right,3,Yes,Diamond,2023-05-11 13:01:42,Yes,United States
+5df99319ef7f5e71258ab6f3,size,2,top_right,0,No,Rectangle,2023-05-11 13:01:49,Yes,United States
+5df99319ef7f5e71258ab6f3,size,4,bottom_left,1,No,Diamond,2023-05-11 13:01:49,Yes,United States
+5df99319ef7f5e71258ab6f3,size,1,bottom_right,2,Yes,Small triangle,2023-05-11 13:01:49,Yes,United States
+5df99319ef7f5e71258ab6f3,size,3,top_left,3,Yes,Small square,2023-05-11 13:01:49,Yes,United States
+5711110152ab8e0008d0dc05,size,3,top_left,0,Yes,small box,2023-05-11 13:01:54,Yes,United States
+5711110152ab8e0008d0dc05,size,1,bottom_right,1,Yes,tiny triangle,2023-05-11 13:01:54,Yes,United States
+5711110152ab8e0008d0dc05,size,2,top_right,2,No,full-size rectangle,2023-05-11 13:01:54,Yes,United States
+5711110152ab8e0008d0dc05,size,4,bottom_left,3,No,full-size diamond,2023-05-11 13:01:54,Yes,United States
+5dd32432e0b21b3472c20ebe,size,4,top_left,0,Yes,Small star,2023-05-11 13:02:26,Yes,United States
+5dd32432e0b21b3472c20ebe,size,1,bottom_right,1,Yes,small triangle,2023-05-11 13:02:26,Yes,United States
+5dd32432e0b21b3472c20ebe,size,2,top_right,2,No,large rectangle,2023-05-11 13:02:26,Yes,United States
+5dd32432e0b21b3472c20ebe,size,3,bottom_left,3,No,Cross symbol,2023-05-11 13:02:26,Yes,United States
+5dd32432e0b21b3472c20ebe,size,4,top_left,0,Yes,small star,2023-05-11 13:02:26,Yes,United States
+5dd32432e0b21b3472c20ebe,size,1,bottom_right,1,Yes,small triangle,2023-05-11 13:02:26,Yes,United States
+5dd32432e0b21b3472c20ebe,size,2,top_right,2,No,large rectangle,2023-05-11 13:02:26,Yes,United States
+5dd32432e0b21b3472c20ebe,size,3,bottom_left,3,No,cross symbol,2023-05-11 13:02:26,Yes,United States
+5d0e88a255f0c70015345bdd,size,2,bottom_left,0,No,black circle,2023-05-11 13:02:36,Yes,United States
+5d0e88a255f0c70015345bdd,size,3,top_left,1,Yes,small square box,2023-05-11 13:02:36,Yes,United States
+5d0e88a255f0c70015345bdd,size,4,bottom_right,2,Yes,small black diamond,2023-05-11 13:02:36,Yes,United States
+5d0e88a255f0c70015345bdd,size,1,top_right,3,No,black heart,2023-05-11 13:02:36,Yes,United States
+5d498ea0faa15b001acd4a5d,size,2,top_left,0,Yes,rectangle,2023-05-11 13:02:40,Yes,United States
+5d498ea0faa15b001acd4a5d,size,4,top_right,1,No,Star,2023-05-11 13:02:40,Yes,United States
+5d498ea0faa15b001acd4a5d,size,3,bottom_left,2,No,plus sign,2023-05-11 13:02:40,Yes,United States
+5d498ea0faa15b001acd4a5d,size,1,bottom_right,3,Yes,triangle,2023-05-11 13:02:40,Yes,United States
+5d20da1ea70c970016f2a91f,size,1,bottom_left,0,No,Triangle,2023-05-11 13:02:44,Yes,United States
+5d20da1ea70c970016f2a91f,size,3,bottom_right,1,Yes,Plus Sign,2023-05-11 13:02:44,Yes,United States
+5d20da1ea70c970016f2a91f,size,4,top_left,2,Yes,Star,2023-05-11 13:02:44,Yes,United States
+5d20da1ea70c970016f2a91f,size,2,top_right,3,No,Rectangle,2023-05-11 13:02:44,Yes,United States
+63bf1fc6f5120e112d410756,size,3,top_left,0,Yes,Square,2023-05-11 13:03:27,Yes,United States
+63bf1fc6f5120e112d410756,size,2,top_right,1,No,Rectangle,2023-05-11 13:03:27,Yes,United States
+63bf1fc6f5120e112d410756,size,1,bottom_right,2,Yes,Triangle,2023-05-11 13:03:27,Yes,United States
+63bf1fc6f5120e112d410756,size,4,bottom_left,3,No,Large diamond,2023-05-11 13:03:27,Yes,United States
+5f4cd10836de2f02dbab436c,size,2,bottom_left,0,No,Circle,2023-05-11 13:03:28,Yes,United States
+5f4cd10836de2f02dbab436c,size,4,top_right,1,No,Star,2023-05-11 13:03:28,Yes,United States
+5f4cd10836de2f02dbab436c,size,3,top_left,2,Yes,Square,2023-05-11 13:03:28,Yes,United States
+5f4cd10836de2f02dbab436c,size,1,bottom_right,3,Yes,Triangle,2023-05-11 13:03:28,Yes,United States
+6091f9f7d380984298d76466,size,3,bottom_left,0,No,Large Cross,2023-05-11 13:03:32,Yes,United States
+6091f9f7d380984298d76466,size,1,bottom_right,1,Yes,Small Triangle,2023-05-11 13:03:32,Yes,United States
+6091f9f7d380984298d76466,size,2,top_left,2,Yes,Small rectangle ,2023-05-11 13:03:32,Yes,United States
+6091f9f7d380984298d76466,size,4,top_right,3,No,Large star ,2023-05-11 13:03:32,Yes,United States
+6135dd3307f6e86bcbc33a0d,size,3,bottom_left,0,No,Plus Mark,2023-05-11 13:03:33,Yes,United States
+6135dd3307f6e86bcbc33a0d,size,4,top_left,1,Yes,Star,2023-05-11 13:03:33,Yes,United States
+6135dd3307f6e86bcbc33a0d,size,2,top_right,2,No,Rectangle,2023-05-11 13:03:33,Yes,United States
+6135dd3307f6e86bcbc33a0d,size,1,bottom_right,3,Yes,Triangle,2023-05-11 13:03:33,Yes,United States
+63d996f37c5b1b3053f8251c,size,2,top_right,0,No,Rectangle ,2023-05-11 13:03:41,Yes,United States
+63d996f37c5b1b3053f8251c,size,4,top_left,1,Yes,Small star,2023-05-11 13:03:41,Yes,United States
+63d996f37c5b1b3053f8251c,size,1,bottom_left,2,No,Triangle,2023-05-11 13:03:41,Yes,United States
+63d996f37c5b1b3053f8251c,size,3,bottom_right,3,Yes,Plus sign,2023-05-11 13:03:41,Yes,United States
+60c25b6289c6ae2b40bcf2cb,size,3,top_left,0,Yes,Square,2023-05-11 13:03:41,Yes,United States
+60c25b6289c6ae2b40bcf2cb,size,2,bottom_left,1,No,Corcle,2023-05-11 13:03:41,Yes,United States
+60c25b6289c6ae2b40bcf2cb,size,4,top_right,2,No,Star,2023-05-11 13:03:41,Yes,United States
+60c25b6289c6ae2b40bcf2cb,size,1,bottom_right,3,Yes,Triangle,2023-05-11 13:03:41,Yes,United States
+5d80e72af73a9d001d0de6b2,size,4,bottom_right,0,Yes,small diamond,2023-05-11 13:03:50,Yes,United States
+5d80e72af73a9d001d0de6b2,size,1,bottom_left,1,No,Large triangle ,2023-05-11 13:03:50,Yes,United States
+5d80e72af73a9d001d0de6b2,size,2,top_left,2,Yes,Small rectangle ,2023-05-11 13:03:50,Yes,United States
+5d80e72af73a9d001d0de6b2,size,3,top_right,3,No,Large square ,2023-05-11 13:03:50,Yes,United States
+5f420cd40061580008f221a9,size,3,bottom_left,0,No,A plus sign,2023-05-11 13:03:53,Yes,United States
+5f420cd40061580008f221a9,size,2,bottom_right,1,Yes,A black dot,2023-05-11 13:03:53,Yes,United States
+5f420cd40061580008f221a9,size,4,top_right,2,No,A black 5 sided star,2023-05-11 13:03:53,Yes,United States
+5f420cd40061580008f221a9,size,1,top_left,3,Yes,A small black heart,2023-05-11 13:03:53,Yes,United States
+63d7c9fffb5e9992ca72df9f,size,1,top_left,0,Yes,heart,2023-05-11 13:04:09,Yes,United States
+63d7c9fffb5e9992ca72df9f,size,2,top_right,1,No,rectangle,2023-05-11 13:04:09,Yes,United States
+63d7c9fffb5e9992ca72df9f,size,4,bottom_left,2,No,diamond,2023-05-11 13:04:09,Yes,United States
+63d7c9fffb5e9992ca72df9f,size,3,bottom_right,3,Yes,cross,2023-05-11 13:04:09,Yes,United States
+5e935de580280569a374fa97,size,1,top_left,0,Yes,heart,2023-05-11 13:04:10,Yes,United States
+5e935de580280569a374fa97,size,3,bottom_right,1,Yes,plus,2023-05-11 13:04:10,Yes,United States
+5e935de580280569a374fa97,size,2,bottom_left,2,No,circle,2023-05-11 13:04:10,Yes,United States
+5e935de580280569a374fa97,size,4,top_right,3,No,star,2023-05-11 13:04:10,Yes,United States
+633c60c8542104d9d06e7090,size,1,top_right,0,No,Heart,2023-05-11 13:04:22,Yes,United States
+633c60c8542104d9d06e7090,size,3,bottom_right,1,Yes,Cross,2023-05-11 13:04:22,Yes,United States
+633c60c8542104d9d06e7090,size,2,top_left,2,Yes,rectangle,2023-05-11 13:04:22,Yes,United States
+633c60c8542104d9d06e7090,size,4,bottom_left,3,No,diamond,2023-05-11 13:04:22,Yes,United States
+558d8d71fdf99b534f79b352,size,1,bottom_right,0,Yes,Small Triangle,2023-05-11 13:04:27,Yes,United States
+558d8d71fdf99b534f79b352,size,4,bottom_left,1,No,Large Diamond,2023-05-11 13:04:27,Yes,United States
+558d8d71fdf99b534f79b352,size,2,top_right,2,No,Large Rectangle,2023-05-11 13:04:27,Yes,United States
+558d8d71fdf99b534f79b352,size,3,top_left,3,Yes,Small Square,2023-05-11 13:04:27,Yes,United States
+60ff95f38478c4ce042f9f5d,size,2,bottom_right,0,Yes,dot,2023-05-11 13:04:29,Yes,United States
+60ff95f38478c4ce042f9f5d,size,3,top_right,1,No,square,2023-05-11 13:04:29,Yes,United States
+60ff95f38478c4ce042f9f5d,size,1,bottom_left,2,No,triangle,2023-05-11 13:04:29,Yes,United States
+60ff95f38478c4ce042f9f5d,size,4,top_left,3,Yes,star,2023-05-11 13:04:29,Yes,United States
+5ca5435273897b0001de44ff,size,2,bottom_left,0,No,"Lower left, large black circle",2023-05-11 13:04:50,Yes,United States
+5ca5435273897b0001de44ff,size,3,top_left,1,Yes,"Upper left, small black square",2023-05-11 13:04:50,Yes,United States
+5ca5435273897b0001de44ff,size,1,top_right,2,No,"upper right, large black heart",2023-05-11 13:04:50,Yes,United States
+5ca5435273897b0001de44ff,size,4,bottom_right,3,Yes,"lower right, small black diamond",2023-05-11 13:04:50,Yes,United States
+601991eca575400d9ad37546,size,1,top_right,0,No,heart,2023-05-11 13:04:51,Yes,United States
+601991eca575400d9ad37546,size,4,bottom_right,1,Yes,diamond,2023-05-11 13:04:51,Yes,United States
+601991eca575400d9ad37546,size,3,bottom_left,2,No,cross,2023-05-11 13:04:51,Yes,United States
+601991eca575400d9ad37546,size,2,top_left,3,Yes,dash,2023-05-11 13:04:51,Yes,United States
+60fa5b25a5a4f10f086e14b3,size,2,top_right,0,No,Rectangle ,2023-05-11 13:04:58,Yes,United States
+60fa5b25a5a4f10f086e14b3,size,3,bottom_left,1,No,Cross,2023-05-11 13:04:58,Yes,United States
+60fa5b25a5a4f10f086e14b3,size,4,bottom_right,2,Yes,Diamond,2023-05-11 13:04:58,Yes,United States
+60fa5b25a5a4f10f086e14b3,size,1,top_left,3,Yes,Heart,2023-05-11 13:04:58,Yes,United States
+5d9b6d5857ff310019466881,size,1,top_right,0,No,heart,2023-05-11 13:05:01,Yes,United States
+5d9b6d5857ff310019466881,size,4,top_left,1,Yes,small star,2023-05-11 13:05:01,Yes,United States
+5d9b6d5857ff310019466881,size,2,bottom_left,2,No,large circle ,2023-05-11 13:05:01,Yes,United States
+5d9b6d5857ff310019466881,size,3,bottom_right,3,Yes,plus sign,2023-05-11 13:05:01,Yes,United States
+62ac706d8544dbe5a81b4212,size,3,bottom_left,0,No,A plus sign,2023-05-11 13:05:05,Yes,United States
+62ac706d8544dbe5a81b4212,size,2,bottom_right,1,Yes,A circle,2023-05-11 13:05:05,Yes,United States
+62ac706d8544dbe5a81b4212,size,1,top_left,2,Yes,A heart,2023-05-11 13:05:05,Yes,United States
+62ac706d8544dbe5a81b4212,size,4,top_right,3,No,A star,2023-05-11 13:05:05,Yes,United States
+5c1fb9d62c45d40001479dd5,size,2,top_right,0,No,rectangle,2023-05-11 13:05:05,Yes,United States
+5c1fb9d62c45d40001479dd5,size,4,bottom_left,1,No,diamond,2023-05-11 13:05:05,Yes,United States
+5c1fb9d62c45d40001479dd5,size,3,bottom_right,2,Yes,plus,2023-05-11 13:05:05,Yes,United States
+5c1fb9d62c45d40001479dd5,size,1,top_left,3,Yes,heart,2023-05-11 13:05:05,Yes,United States
+537cc438fdf99b2274df9aae,size,3,top_right,0,No,sqaure,2023-05-11 13:05:13,Yes,United States
+537cc438fdf99b2274df9aae,size,2,bottom_right,1,Yes,circle,2023-05-11 13:05:13,Yes,United States
+537cc438fdf99b2274df9aae,size,4,bottom_left,2,No,diamond,2023-05-11 13:05:13,Yes,United States
+537cc438fdf99b2274df9aae,size,1,top_left,3,Yes,heart,2023-05-11 13:05:13,Yes,United States
+5ee6d2d3236bef4628bc20dd,size,1,top_left,0,Yes,Heart,2023-05-11 13:05:34,Yes,United States
+5ee6d2d3236bef4628bc20dd,size,2,bottom_left,1,No,Circle,2023-05-11 13:05:34,Yes,United States
+5ee6d2d3236bef4628bc20dd,size,4,bottom_right,2,Yes,Diamond,2023-05-11 13:05:34,Yes,United States
+5ee6d2d3236bef4628bc20dd,size,3,top_right,3,No,Square,2023-05-11 13:05:34,Yes,United States
+5dd3e3d286411b3cd7aaa0c9,size,4,top_right,0,No,Star,2023-05-11 13:05:34,Yes,United States
+5dd3e3d286411b3cd7aaa0c9,size,2,top_left,1,Yes,rectangle,2023-05-11 13:05:34,Yes,United States
+5dd3e3d286411b3cd7aaa0c9,size,1,bottom_right,2,Yes,Triangle,2023-05-11 13:05:34,Yes,United States
+5dd3e3d286411b3cd7aaa0c9,size,3,bottom_left,3,No,Plus Sign,2023-05-11 13:05:34,Yes,United States
+5f2d95153c1140074cc81b4c,size,1,bottom_left,0,No,triangle,2023-05-11 13:05:36,Yes,United States
+5f2d95153c1140074cc81b4c,size,3,top_right,1,No,square,2023-05-11 13:05:36,Yes,United States
+5f2d95153c1140074cc81b4c,size,4,bottom_right,2,Yes,diamond,2023-05-11 13:05:36,Yes,United States
+5f2d95153c1140074cc81b4c,size,2,top_left,3,Yes,small rectangle,2023-05-11 13:05:36,Yes,United States
+5aa55cf8dbdb470001ef4cc5,size,2,bottom_left,0,No,circle,2023-05-11 13:05:37,Yes,United States
+5aa55cf8dbdb470001ef4cc5,size,3,bottom_right,1,Yes,plus,2023-05-11 13:05:37,Yes,United States
+5aa55cf8dbdb470001ef4cc5,size,1,top_left,2,Yes,heart,2023-05-11 13:05:37,Yes,United States
+5aa55cf8dbdb470001ef4cc5,size,4,top_right,3,No,star,2023-05-11 13:05:37,Yes,United States
+5b6f73c4086b4600018c0636,size,2,bottom_right,0,Yes,Dot,2023-05-11 13:05:37,Yes,United States
+5b6f73c4086b4600018c0636,size,4,bottom_left,1,No,Diamond ,2023-05-11 13:05:37,Yes,United States
+5b6f73c4086b4600018c0636,size,3,top_left,2,Yes,Square ,2023-05-11 13:05:37,Yes,United States
+5b6f73c4086b4600018c0636,size,1,top_right,3,No,Heart,2023-05-11 13:05:37,Yes,United States
+631396e643dc2531c8fe2e45,size,1,top_left,0,Yes,heart,2023-05-11 13:05:45,Yes,United States
+631396e643dc2531c8fe2e45,size,3,bottom_right,1,Yes,plus,2023-05-11 13:05:45,Yes,United States
+631396e643dc2531c8fe2e45,size,4,top_right,2,No,star,2023-05-11 13:05:45,Yes,United States
+631396e643dc2531c8fe2e45,size,2,bottom_left,3,No,circle,2023-05-11 13:05:45,Yes,United States
+5c510d1310223b00012fa23e,size,4,bottom_left,0,No,Diamond,2023-05-11 13:05:49,Yes,United States
+5c510d1310223b00012fa23e,size,2,top_left,1,Yes,Rectangle ,2023-05-11 13:05:49,Yes,United States
+5c510d1310223b00012fa23e,size,1,bottom_right,2,Yes,Triangle,2023-05-11 13:05:49,Yes,United States
+5c510d1310223b00012fa23e,size,3,top_right,3,No,Square,2023-05-11 13:05:49,Yes,United States
+62dc24fa35bc6caa02048e3e,size,1,top_left,0,Yes,heart,2023-05-11 13:05:56,Yes,Other
+62dc24fa35bc6caa02048e3e,size,3,top_right,1,No,square,2023-05-11 13:05:56,Yes,Other
+62dc24fa35bc6caa02048e3e,size,2,bottom_right,2,Yes,circle,2023-05-11 13:05:56,Yes,Other
+62dc24fa35bc6caa02048e3e,size,4,bottom_left,3,No,diamond,2023-05-11 13:05:56,Yes,Other
+60cff3ba91773f75c9504567,size,1,top_right,0,No,HEART,2023-05-11 13:06:03,Yes,United States
+60cff3ba91773f75c9504567,size,4,top_left,1,Yes,STAR,2023-05-11 13:06:03,Yes,United States
+60cff3ba91773f75c9504567,size,3,bottom_right,2,Yes,CROSS,2023-05-11 13:06:03,Yes,United States
+60cff3ba91773f75c9504567,size,2,bottom_left,3,No,CIRCLE,2023-05-11 13:06:03,Yes,United States
+63d7a9346e833b93500723d4,size,2,top_right,0,No,rectangle,2023-05-11 13:06:22,Yes,United States
+63d7a9346e833b93500723d4,size,3,bottom_right,1,Yes,plus sign,2023-05-11 13:06:22,Yes,United States
+63d7a9346e833b93500723d4,size,1,top_left,2,Yes,heart,2023-05-11 13:06:22,Yes,United States
+63d7a9346e833b93500723d4,size,4,bottom_left,3,No,big diamond,2023-05-11 13:06:22,Yes,United States
+644ff8fa7fba9d86ebc3d626,size,1,bottom_left,0,No,Triangle,2023-05-11 13:06:38,Yes,United States
+644ff8fa7fba9d86ebc3d626,size,2,bottom_right,1,Yes,Circle,2023-05-11 13:06:38,Yes,United States
+644ff8fa7fba9d86ebc3d626,size,3,top_right,2,No,Square ,2023-05-11 13:06:38,Yes,United States
+644ff8fa7fba9d86ebc3d626,size,4,top_left,3,Yes,Star,2023-05-11 13:06:38,Yes,United States
+637e4fc1594d2ded19f7e071,size,3,bottom_left,0,No,Plus sign,2023-05-11 13:06:48,Yes,United States
+637e4fc1594d2ded19f7e071,size,1,top_left,1,Yes,Small heart,2023-05-11 13:06:48,Yes,United States
+637e4fc1594d2ded19f7e071,size,2,bottom_right,2,Yes,Dot,2023-05-11 13:06:48,Yes,United States
+637e4fc1594d2ded19f7e071,size,4,top_right,3,No,Star,2023-05-11 13:06:48,Yes,United States
+63bd81b156d828632327e2ca,size,4,bottom_left,0,No,large diamond,2023-05-11 13:06:53,Yes,United States
+63bd81b156d828632327e2ca,size,2,top_left,1,Yes,rectangle,2023-05-11 13:06:53,Yes,United States
+63bd81b156d828632327e2ca,size,3,bottom_right,2,Yes,plus,2023-05-11 13:06:53,Yes,United States
+63bd81b156d828632327e2ca,size,1,top_right,3,No,heart,2023-05-11 13:06:53,Yes,United States
+5fd54e35b8522439531e8c5e,size,3,top_right,0,No,Square ,2023-05-11 13:06:56,Yes,United States
+5fd54e35b8522439531e8c5e,size,4,top_left,1,Yes,Star,2023-05-11 13:06:56,Yes,United States
+5fd54e35b8522439531e8c5e,size,1,bottom_left,2,No,Triangle ,2023-05-11 13:06:56,Yes,United States
+5fd54e35b8522439531e8c5e,size,2,bottom_right,3,Yes,Circle ,2023-05-11 13:06:56,Yes,United States
+57509Adb119192000651Ec2B ,size,4,top_right,0,No,Big star,2023-05-11 13:07:33,Yes,United States
+57509Adb119192000651Ec2B ,size,1,bottom_left,1,No,Big triangle ,2023-05-11 13:07:33,Yes,United States
+57509Adb119192000651Ec2B ,size,2,bottom_right,2,Yes,Small circle,2023-05-11 13:07:33,Yes,United States
+57509Adb119192000651Ec2B ,size,3,top_left,3,Yes,Small square,2023-05-11 13:07:33,Yes,United States
+5a9771d6873cda0001dc955e,size,4,bottom_right,0,Yes,Diamond,2023-05-11 13:07:46,Yes,United States
+5a9771d6873cda0001dc955e,size,3,bottom_left,1,No,Plus,2023-05-11 13:07:46,Yes,United States
+5a9771d6873cda0001dc955e,size,2,top_right,2,No,Rectangle,2023-05-11 13:07:46,Yes,United States
+5a9771d6873cda0001dc955e,size,1,top_left,3,Yes,Heart,2023-05-11 13:07:46,Yes,United States
+5dedb806838b4f46c8d183a5,size,4,top_left,0,Yes,square with a star in it,2023-05-11 13:08:00,Yes,United States
+5dedb806838b4f46c8d183a5,size,1,bottom_left,1,No,a triable inside a square,2023-05-11 13:08:00,Yes,United States
+5dedb806838b4f46c8d183a5,size,2,top_right,2,No,a rectangle ,2023-05-11 13:08:00,Yes,United States
+5dedb806838b4f46c8d183a5,size,3,bottom_right,3,Yes,a square with a plus inside of it,2023-05-11 13:08:00,Yes,United States
+60feea062ee3beca85498ac8,size,1,top_right,0,No,HEART,2023-05-11 13:08:04,Yes,United States
+60feea062ee3beca85498ac8,size,2,top_left,1,Yes,SMALL RECTANGLE ,2023-05-11 13:08:04,Yes,United States
+60feea062ee3beca85498ac8,size,3,bottom_left,2,No,CROSS,2023-05-11 13:08:04,Yes,United States
+60feea062ee3beca85498ac8,size,4,bottom_right,3,Yes,DIAMOND,2023-05-11 13:08:04,Yes,United States
+614e1be1b75d7b452e03414c,size,2,bottom_right,0,Yes,Circle,2023-05-11 13:08:20,Yes,United States
+614e1be1b75d7b452e03414c,size,1,bottom_left,1,No,Triangle,2023-05-11 13:08:20,Yes,United States
+614e1be1b75d7b452e03414c,size,4,top_left,2,Yes,Star,2023-05-11 13:08:20,Yes,United States
+614e1be1b75d7b452e03414c,size,3,top_right,3,No,Square ,2023-05-11 13:08:20,Yes,United States
+5be8353e33f40a0001031d7a,size,1,bottom_right,0,Yes,triangle,2023-05-11 13:08:21,Yes,United States
+5be8353e33f40a0001031d7a,size,3,top_right,1,No,square,2023-05-11 13:08:21,Yes,United States
+5be8353e33f40a0001031d7a,size,2,top_left,2,Yes,triangle,2023-05-11 13:08:21,Yes,United States
+5be8353e33f40a0001031d7a,size,4,bottom_left,3,No,large diamond,2023-05-11 13:08:21,Yes,United States
+61bb38fd40db417c1a138d6d,size,1,bottom_left,0,No,black triangle,2023-05-11 13:08:25,Yes,United States
+61bb38fd40db417c1a138d6d,size,2,bottom_right,1,Yes,black dot,2023-05-11 13:08:25,Yes,United States
+61bb38fd40db417c1a138d6d,size,4,top_left,2,Yes,small black star,2023-05-11 13:08:25,Yes,United States
+61bb38fd40db417c1a138d6d,size,3,top_right,3,No,black square,2023-05-11 13:08:25,Yes,United States
+58cf0095a2ea98000191c861,size,3,bottom_left,0,No,plus,2023-05-11 13:08:28,Yes,United States
+58cf0095a2ea98000191c861,size,4,bottom_right,1,Yes,diamond,2023-05-11 13:08:28,Yes,United States
+58cf0095a2ea98000191c861,size,1,top_left,2,Yes,heart,2023-05-11 13:08:28,Yes,United States
+58cf0095a2ea98000191c861,size,2,top_right,3,No,rectangle,2023-05-11 13:08:28,Yes,United States
+5c1cd038552ef20001eb9f5d,size,1,bottom_left,0,No,Triangle,2023-05-11 13:08:36,Yes,United States
+5c1cd038552ef20001eb9f5d,size,3,bottom_right,1,Yes,Plus,2023-05-11 13:08:36,Yes,United States
+5c1cd038552ef20001eb9f5d,size,4,top_left,2,Yes,Star,2023-05-11 13:08:36,Yes,United States
+5c1cd038552ef20001eb9f5d,size,2,top_right,3,No,Rectangle,2023-05-11 13:08:36,Yes,United States
+5f6f864c7120345241397c40,size,2,top_right,0,No,rectangle,2023-05-11 13:09:21,Yes,United States
+5f6f864c7120345241397c40,size,3,top_left,1,Yes,square,2023-05-11 13:09:21,Yes,United States
+5f6f864c7120345241397c40,size,4,bottom_right,2,Yes,diamond,2023-05-11 13:09:21,Yes,United States
+5f6f864c7120345241397c40,size,1,bottom_left,3,No,triangle,2023-05-11 13:09:21,Yes,United States
+60ed0e7149a025da16189d35,size,4,bottom_right,0,Yes,Diamond,2023-05-11 13:09:23,Yes,United States
+60ed0e7149a025da16189d35,size,3,top_left,1,Yes,Square,2023-05-11 13:09:23,Yes,United States
+60ed0e7149a025da16189d35,size,1,top_right,2,No,Heart,2023-05-11 13:09:23,Yes,United States
+60ed0e7149a025da16189d35,size,2,bottom_left,3,No,Circle,2023-05-11 13:09:23,Yes,United States
+5b66d1883662a8000158f091,size,4,top_right,0,No,Star,2023-05-11 13:09:26,Yes,United States
+5b66d1883662a8000158f091,size,1,top_left,1,Yes,Heart,2023-05-11 13:09:26,Yes,United States
+5b66d1883662a8000158f091,size,2,bottom_right,2,Yes,Circle,2023-05-11 13:09:26,Yes,United States
+5b66d1883662a8000158f091,size,3,bottom_left,3,No,Plus sign,2023-05-11 13:09:26,Yes,United States
+5d761f6d05a71e00015a8528,size,3,bottom_right,0,Yes,Plus,2023-05-11 13:09:33,Yes,United States
+5d761f6d05a71e00015a8528,size,4,top_right,1,No,Star,2023-05-11 13:09:33,Yes,United States
+5d761f6d05a71e00015a8528,size,2,top_left,2,Yes,Rectangle ,2023-05-11 13:09:33,Yes,United States
+5d761f6d05a71e00015a8528,size,1,bottom_left,3,No,Triangle ,2023-05-11 13:09:33,Yes,United States
+5a9d7b894eecca0001dd99ee,size,1,top_right,0,No,Heart,2023-05-11 13:09:42,Yes,United States
+5a9d7b894eecca0001dd99ee,size,3,top_left,1,Yes,Square,2023-05-11 13:09:42,Yes,United States
+5a9d7b894eecca0001dd99ee,size,2,bottom_right,2,Yes,Circle,2023-05-11 13:09:42,Yes,United States
+5a9d7b894eecca0001dd99ee,size,4,bottom_left,3,No,Big diamond,2023-05-11 13:09:42,Yes,United States
+61110f26433bbfad36444c62,size,3,bottom_left,0,No,Plus,2023-05-11 13:10:04,Yes,United States
+61110f26433bbfad36444c62,size,2,bottom_right,1,Yes,Dot,2023-05-11 13:10:04,Yes,United States
+61110f26433bbfad36444c62,size,4,top_left,2,Yes,Star,2023-05-11 13:10:04,Yes,United States
+61110f26433bbfad36444c62,size,1,top_right,3,No,Heart,2023-05-11 13:10:04,Yes,United States
+5ee04a3f7dfcae39390e6553,size,3,bottom_left,0,No,Cross ,2023-05-11 13:10:05,Yes,United States
+5ee04a3f7dfcae39390e6553,size,2,top_left,1,Yes,Rectangle ,2023-05-11 13:10:05,Yes,United States
+5ee04a3f7dfcae39390e6553,size,4,top_right,2,No,Star ,2023-05-11 13:10:05,Yes,United States
+5ee04a3f7dfcae39390e6553,size,1,bottom_right,3,Yes,Triangle ,2023-05-11 13:10:05,Yes,United States
+5bf465a2f35e0c00010178af,size,2,top_left,0,Yes,Small solid black rectangle In center ,2023-05-11 13:10:14,Yes,United States
+5bf465a2f35e0c00010178af,size,4,top_right,1,No,Large five point star ,2023-05-11 13:10:14,Yes,United States
+5bf465a2f35e0c00010178af,size,3,bottom_right,2,Yes,Small plus sign black,2023-05-11 13:10:14,Yes,United States
+5bf465a2f35e0c00010178af,size,1,bottom_left,3,No,Large triangle black ,2023-05-11 13:10:14,Yes,United States
+5edfd3858bc1712e249b053d,size,3,top_left,0,Yes,square,2023-05-11 13:10:53,Yes,United States
+5edfd3858bc1712e249b053d,size,1,top_right,1,No,heart,2023-05-11 13:10:53,Yes,United States
+5edfd3858bc1712e249b053d,size,2,bottom_left,2,No,circle,2023-05-11 13:10:53,Yes,United States
+5edfd3858bc1712e249b053d,size,4,bottom_right,3,Yes,diamond,2023-05-11 13:10:53,Yes,United States
+5ddd99500f8d51d1ce9fd780,size,3,bottom_left,0,No,cross,2023-05-11 13:10:56,Yes,United States
+5ddd99500f8d51d1ce9fd780,size,2,top_right,1,No,block,2023-05-11 13:10:56,Yes,United States
+5ddd99500f8d51d1ce9fd780,size,1,top_left,2,Yes,heart,2023-05-11 13:10:56,Yes,United States
+5ddd99500f8d51d1ce9fd780,size,4,bottom_right,3,Yes,diamond,2023-05-11 13:10:56,Yes,United States
+6398db762e009c7af9e1da88,size,3,bottom_left,0,No,plus,2023-05-11 13:11:00,Yes,United States
+6398db762e009c7af9e1da88,size,2,top_left,1,Yes,minus,2023-05-11 13:11:00,Yes,United States
+6398db762e009c7af9e1da88,size,4,top_right,2,No,star,2023-05-11 13:11:00,Yes,United States
+6398db762e009c7af9e1da88,size,1,bottom_right,3,Yes,triangle,2023-05-11 13:11:00,Yes,United States
+5c69f6b01b9d0e000190b438,size,1,top_right,0,No,Heart,2023-05-11 13:11:09,Yes,United States
+5c69f6b01b9d0e000190b438,size,3,bottom_left,1,No,Plus,2023-05-11 13:11:09,Yes,United States
+5c69f6b01b9d0e000190b438,size,2,bottom_right,2,Yes,Circle,2023-05-11 13:11:09,Yes,United States
+5c69f6b01b9d0e000190b438,size,4,top_left,3,Yes,Small Star,2023-05-11 13:11:09,Yes,United States
+5ff5f6c52171e10f72d3610c,size,4,bottom_left,0,No,Large Diamond,2023-05-11 13:11:10,Yes,United States
+5ff5f6c52171e10f72d3610c,size,2,bottom_right,1,Yes,Circle,2023-05-11 13:11:10,Yes,United States
+5ff5f6c52171e10f72d3610c,size,1,top_left,2,Yes,Heart,2023-05-11 13:11:10,Yes,United States
+5ff5f6c52171e10f72d3610c,size,3,top_right,3,No,Square,2023-05-11 13:11:10,Yes,United States
+56f2a49ced0cf600069131cd,size,4,top_left,0,Yes,star,2023-05-11 13:11:13,Yes,United States
+56f2a49ced0cf600069131cd,size,2,top_right,1,No,rectangle,2023-05-11 13:11:13,Yes,United States
+56f2a49ced0cf600069131cd,size,1,bottom_right,2,Yes,triangle,2023-05-11 13:11:13,Yes,United States
+56f2a49ced0cf600069131cd,size,3,bottom_left,3,No,plus sign,2023-05-11 13:11:13,Yes,United States
+63b6c76ff03d438cd09b8c56,size,2,bottom_right,0,Yes,Small circle,2023-05-11 13:11:16,Yes,United States
+63b6c76ff03d438cd09b8c56,size,1,top_right,1,No,Large heart,2023-05-11 13:11:16,Yes,United States
+63b6c76ff03d438cd09b8c56,size,4,bottom_left,2,No,Large diamond,2023-05-11 13:11:16,Yes,United States
+63b6c76ff03d438cd09b8c56,size,3,top_left,3,Yes,Small square,2023-05-11 13:11:16,Yes,United States
+58810bc97b21a60001758c8b,size,2,bottom_left,0,No,Circle,2023-05-11 13:11:28,Yes,United States
+58810bc97b21a60001758c8b,size,3,top_left,1,Yes,Square,2023-05-11 13:11:28,Yes,United States
+58810bc97b21a60001758c8b,size,1,top_right,2,No,Heart,2023-05-11 13:11:28,Yes,United States
+58810bc97b21a60001758c8b,size,4,bottom_right,3,Yes,Duamond,2023-05-11 13:11:28,Yes,United States
+6102d5e6ff92a8dd0cce6b8f,size,2,top_left,0,Yes,Dash ,2023-05-11 13:11:43,Yes,United States
+6102d5e6ff92a8dd0cce6b8f,size,1,bottom_right,1,Yes,Small star,2023-05-11 13:11:43,Yes,United States
+6102d5e6ff92a8dd0cce6b8f,size,4,top_right,2,No,Big star ,2023-05-11 13:11:43,Yes,United States
+6102d5e6ff92a8dd0cce6b8f,size,3,bottom_left,3,No,Big plus ,2023-05-11 13:11:43,Yes,United States
+6328c18273754393c988735f,size,2,top_left,0,Yes,Small Rectangle,2023-05-11 13:11:46,Yes,United States
+6328c18273754393c988735f,size,4,bottom_left,1,No,Diamond,2023-05-11 13:11:46,Yes,United States
+6328c18273754393c988735f,size,1,bottom_right,2,Yes,Small Triange,2023-05-11 13:11:46,Yes,United States
+6328c18273754393c988735f,size,3,top_right,3,No,Big Square,2023-05-11 13:11:46,Yes,United States
+https://seeclickfix.com/issues/9012001,size,1,top_left,0,Yes,Small heart,2023-05-11 13:11:59,Yes,United States
+https://seeclickfix.com/issues/9012001,size,3,top_right,1,No,large square,2023-05-11 13:11:59,Yes,United States
+https://seeclickfix.com/issues/9012001,size,2,bottom_left,2,No,big circle,2023-05-11 13:11:59,Yes,United States
+https://seeclickfix.com/issues/9012001,size,4,bottom_right,3,Yes,small diamond,2023-05-11 13:11:59,Yes,United States
+60d38bc77bf91667dce30e64,size,3,bottom_right,0,Yes,Plus,2023-05-11 13:12:13,Yes,United States
+60d38bc77bf91667dce30e64,size,2,top_right,1,No,Rectangle,2023-05-11 13:12:13,Yes,United States
+60d38bc77bf91667dce30e64,size,1,bottom_left,2,No,Triangle,2023-05-11 13:12:13,Yes,United States
+60d38bc77bf91667dce30e64,size,4,top_left,3,Yes,Star,2023-05-11 13:12:13,Yes,United States
+54837312fdf99b2490ad57b6,size,4,bottom_left,0,No,large diamond,2023-05-11 13:12:24,Yes,United States
+54837312fdf99b2490ad57b6,size,3,bottom_right,1,Yes,plus sign,2023-05-11 13:12:24,Yes,United States
+54837312fdf99b2490ad57b6,size,1,top_left,2,Yes,heart,2023-05-11 13:12:24,Yes,United States
+54837312fdf99b2490ad57b6,size,2,top_right,3,No,rectangle,2023-05-11 13:12:24,Yes,United States
+6165abdc7a32008e0ab655ae,size,1,top_right,0,No,heart,2023-05-11 13:12:24,Yes,United States
+6165abdc7a32008e0ab655ae,size,3,bottom_left,1,No,plus sign,2023-05-11 13:12:24,Yes,United States
+6165abdc7a32008e0ab655ae,size,2,bottom_right,2,Yes,small circle,2023-05-11 13:12:24,Yes,United States
+6165abdc7a32008e0ab655ae,size,4,top_left,3,Yes,small star,2023-05-11 13:12:24,Yes,United States
+576017836442fa0006cfb7cd,size,3,bottom_left,0,No,plus sign,2023-05-11 13:12:26,Yes,United States
+576017836442fa0006cfb7cd,size,4,top_left,1,Yes,small star,2023-05-11 13:12:26,Yes,United States
+576017836442fa0006cfb7cd,size,2,bottom_right,2,Yes,small circle,2023-05-11 13:12:26,Yes,United States
+576017836442fa0006cfb7cd,size,1,top_right,3,No,large heart,2023-05-11 13:12:26,Yes,United States
+63d17f45aa9ba4a22c0e5b83,size,3,bottom_left,0,No,cross,2023-05-11 13:12:30,Yes,United States
+63d17f45aa9ba4a22c0e5b83,size,1,top_right,1,No,heart,2023-05-11 13:12:30,Yes,United States
+63d17f45aa9ba4a22c0e5b83,size,4,bottom_right,2,Yes,diamond,2023-05-11 13:12:30,Yes,United States
+63d17f45aa9ba4a22c0e5b83,size,2,top_left,3,Yes,rectangle,2023-05-11 13:12:30,Yes,United States
+5bad1b21defccb0001f75812,size,4,top_left,0,Yes,Star,2023-05-11 13:12:34,Yes,United States
+5bad1b21defccb0001f75812,size,2,bottom_right,1,Yes,Circle,2023-05-11 13:12:34,Yes,United States
+5bad1b21defccb0001f75812,size,1,bottom_left,2,No,Triangle,2023-05-11 13:12:34,Yes,United States
+5bad1b21defccb0001f75812,size,3,top_right,3,No,Square,2023-05-11 13:12:34,Yes,United States
+60de7eec1ede3b8bb835cd32,size,1,bottom_left,0,No,triangle,2023-05-11 13:13:20,Yes,United States
+60de7eec1ede3b8bb835cd32,size,2,top_right,1,No,rectangle,2023-05-11 13:13:20,Yes,United States
+60de7eec1ede3b8bb835cd32,size,4,bottom_right,2,Yes,diamond,2023-05-11 13:13:20,Yes,United States
+60de7eec1ede3b8bb835cd32,size,3,top_left,3,Yes,square,2023-05-11 13:13:20,Yes,United States
+64135777abac1cc9ff8e1901,size,2,bottom_left,0,No,Circle ,2023-05-11 13:13:22,Yes,United States
+64135777abac1cc9ff8e1901,size,4,bottom_right,1,Yes,Diamond,2023-05-11 13:13:22,Yes,United States
+64135777abac1cc9ff8e1901,size,1,top_right,2,No,Heart,2023-05-11 13:13:22,Yes,United States
+64135777abac1cc9ff8e1901,size,3,top_left,3,Yes,Cube,2023-05-11 13:13:22,Yes,United States
+5d0a94b70e7ad00001c9f0ac,size,4,top_right,0,No,Large solid black star,2023-05-11 13:13:23,Yes,United States
+5d0a94b70e7ad00001c9f0ac,size,1,bottom_right,1,Yes,Small solid black triangle,2023-05-11 13:13:23,Yes,United States
+5d0a94b70e7ad00001c9f0ac,size,2,top_left,2,Yes,Small solid black rectangle ,2023-05-11 13:13:23,Yes,United States
+5d0a94b70e7ad00001c9f0ac,size,3,bottom_left,3,No,Large solid black cross,2023-05-11 13:13:23,Yes,United States
+5b748f1564ed4e0001095fb6,size,3,bottom_left,0,No,plus,2023-05-11 13:13:24,Yes,United States
+5b748f1564ed4e0001095fb6,size,1,top_right,1,No,heart,2023-05-11 13:13:24,Yes,United States
+5b748f1564ed4e0001095fb6,size,4,top_left,2,Yes,small star,2023-05-11 13:13:24,Yes,United States
+5b748f1564ed4e0001095fb6,size,2,bottom_right,3,Yes,small circle,2023-05-11 13:13:24,Yes,United States
+5bda314d4023ba00017ed1ab,size,2,bottom_left,0,No,circle,2023-05-11 13:13:37,Yes,United States
+5bda314d4023ba00017ed1ab,size,1,top_left,1,Yes,heart,2023-05-11 13:13:37,Yes,United States
+5bda314d4023ba00017ed1ab,size,3,top_right,2,No,square,2023-05-11 13:13:37,Yes,United States
+5bda314d4023ba00017ed1ab,size,4,bottom_right,3,Yes,diamond,2023-05-11 13:13:37,Yes,United States
+62a7a21997b471c922af1fd3,size,1,bottom_left,0,No,Triangle,2023-05-11 13:13:37,Yes,United States
+62a7a21997b471c922af1fd3,size,2,top_left,1,Yes,Rectangle,2023-05-11 13:13:37,Yes,United States
+62a7a21997b471c922af1fd3,size,3,top_right,2,No,Square,2023-05-11 13:13:37,Yes,United States
+62a7a21997b471c922af1fd3,size,4,bottom_right,3,Yes,Diamond,2023-05-11 13:13:37,Yes,United States
+6094a41f36a19091aa12d460,size,2,top_right,0,No,rectangle,2023-05-11 13:13:40,Yes,United States
+6094a41f36a19091aa12d460,size,1,bottom_right,1,Yes,small pyramid,2023-05-11 13:13:40,Yes,United States
+6094a41f36a19091aa12d460,size,3,top_left,2,Yes,square,2023-05-11 13:13:40,Yes,United States
+6094a41f36a19091aa12d460,size,4,bottom_left,3,No,large diamond,2023-05-11 13:13:40,Yes,United States
+5c28a7d31c8e4c0001b2e0a4,size,2,top_right,0,No,Rectangle,2023-05-11 13:13:45,Yes,United States
+5c28a7d31c8e4c0001b2e0a4,size,3,bottom_right,1,Yes,Plus Sign,2023-05-11 13:13:45,Yes,United States
+5c28a7d31c8e4c0001b2e0a4,size,1,top_left,2,Yes,Heart,2023-05-11 13:13:45,Yes,United States
+5c28a7d31c8e4c0001b2e0a4,size,4,bottom_left,3,No,Diamond,2023-05-11 13:13:45,Yes,United States
+5849751351f36f0001df75e5,size,3,top_right,0,No,Black square,2023-05-11 13:13:46,Yes,United States
+5849751351f36f0001df75e5,size,1,top_left,1,Yes,Small black heart,2023-05-11 13:13:46,Yes,United States
+5849751351f36f0001df75e5,size,2,bottom_left,2,No,Big black circleSmall,2023-05-11 13:13:46,Yes,United States
+5849751351f36f0001df75e5,size,4,bottom_right,3,Yes,Small black diamond,2023-05-11 13:13:46,Yes,United States
+5de90d6405263f000a4ed586,size,2,top_right,0,No,rectangle,2023-05-11 13:13:59,Yes,United States
+5de90d6405263f000a4ed586,size,1,top_left,1,Yes,heart,2023-05-11 13:13:59,Yes,United States
+5de90d6405263f000a4ed586,size,4,bottom_right,2,Yes,diamond,2023-05-11 13:13:59,Yes,United States
+5de90d6405263f000a4ed586,size,3,bottom_left,3,No,plus sign,2023-05-11 13:13:59,Yes,United States
+63d40d346609b5cd9433adb7,size,3,top_left,0,Yes,square,2023-05-11 13:14:08,Yes,United States
+63d40d346609b5cd9433adb7,size,2,top_right,1,No,rectangle,2023-05-11 13:14:08,Yes,United States
+63d40d346609b5cd9433adb7,size,4,bottom_right,2,Yes,diamond,2023-05-11 13:14:08,Yes,United States
+63d40d346609b5cd9433adb7,size,1,bottom_left,3,No,triangle,2023-05-11 13:14:08,Yes,United States
+55ce148b34e9060012e56279,size,2,bottom_right,0,Yes,only a filled in circle,2023-05-11 13:14:24,Yes,United States
+55ce148b34e9060012e56279,size,3,bottom_left,1,No,black cross,2023-05-11 13:14:24,Yes,United States
+55ce148b34e9060012e56279,size,1,top_right,2,No,black heart,2023-05-11 13:14:24,Yes,United States
+55ce148b34e9060012e56279,size,4,top_left,3,Yes,small traditional star,2023-05-11 13:14:24,Yes,United States
+57e148fe538c8c0001616bf0,size,2,bottom_left,0,No,circle,2023-05-11 13:14:30,Yes,United States
+57e148fe538c8c0001616bf0,size,1,top_left,1,Yes,heart,2023-05-11 13:14:30,Yes,United States
+57e148fe538c8c0001616bf0,size,4,bottom_right,2,Yes,diamond,2023-05-11 13:14:30,Yes,United States
+57e148fe538c8c0001616bf0,size,3,top_right,3,No,square,2023-05-11 13:14:30,Yes,United States
+62e33e19103dbbbc8e094e76,size,3,bottom_left,0,No,Cross,2023-05-11 13:14:47,Yes,United States
+62e33e19103dbbbc8e094e76,size,4,top_left,1,Yes,Star,2023-05-11 13:14:47,Yes,United States
+62e33e19103dbbbc8e094e76,size,1,top_right,2,No,Heart,2023-05-11 13:14:47,Yes,United States
+62e33e19103dbbbc8e094e76,size,2,bottom_right,3,Yes,Circle,2023-05-11 13:14:47,Yes,United States
+5c4a2bcb4d22460001c5da97,size,4,bottom_right,0,Yes,Diamond,2023-05-11 13:14:48,Yes,United States
+5c4a2bcb4d22460001c5da97,size,2,top_right,1,No,Rectangle ,2023-05-11 13:14:48,Yes,United States
+5c4a2bcb4d22460001c5da97,size,1,top_left,2,Yes,Heart,2023-05-11 13:14:48,Yes,United States
+5c4a2bcb4d22460001c5da97,size,3,bottom_left,3,No,Plus,2023-05-11 13:14:48,Yes,United States
+6293f40cb830603d3dbe5d9a,size,3,bottom_right,0,Yes,Plus sign,2023-05-11 13:14:52,Yes,United States
+6293f40cb830603d3dbe5d9a,size,2,bottom_left,1,No,Circle,2023-05-11 13:14:52,Yes,United States
+6293f40cb830603d3dbe5d9a,size,1,top_left,2,Yes,Heart,2023-05-11 13:14:52,Yes,United States
+6293f40cb830603d3dbe5d9a,size,4,top_right,3,No,Star,2023-05-11 13:14:52,Yes,United States
+63a305f8e366a71869e593ad,size,4,bottom_right,0,Yes,diamond,2023-05-11 13:14:57,Yes,United States
+63a305f8e366a71869e593ad,size,1,top_right,1,No,heart,2023-05-11 13:14:57,Yes,United States
+63a305f8e366a71869e593ad,size,3,bottom_left,2,No,plus,2023-05-11 13:14:57,Yes,United States
+63a305f8e366a71869e593ad,size,2,top_left,3,Yes,rectangle,2023-05-11 13:14:57,Yes,United States
+582879857e8aef000152fba4,size,4,bottom_left,0,No,diamond,2023-05-11 13:15:11,Yes,United States
+582879857e8aef000152fba4,size,3,top_left,1,Yes,square,2023-05-11 13:15:11,Yes,United States
+582879857e8aef000152fba4,size,2,top_right,2,No,rectangle,2023-05-11 13:15:11,Yes,United States
+582879857e8aef000152fba4,size,1,bottom_right,3,Yes,triangle,2023-05-11 13:15:11,Yes,United States
+582879857e8aef000152fba4,size,4,bottom_left,0,No,diamond,2023-05-11 13:15:13,Yes,United States
+582879857e8aef000152fba4,size,3,top_left,1,Yes,square,2023-05-11 13:15:13,Yes,United States
+582879857e8aef000152fba4,size,2,top_right,2,No,rectangle,2023-05-11 13:15:13,Yes,United States
+582879857e8aef000152fba4,size,1,bottom_right,3,Yes,triangle,2023-05-11 13:15:13,Yes,United States
+60bac4eb11e08e852fd030ab,size,2,top_right,0,No,rectangle,2023-05-11 13:15:14,Yes,United States
+60bac4eb11e08e852fd030ab,size,3,top_left,1,Yes,square,2023-05-11 13:15:14,Yes,United States
+60bac4eb11e08e852fd030ab,size,4,bottom_right,2,Yes,diamond,2023-05-11 13:15:14,Yes,United States
+60bac4eb11e08e852fd030ab,size,1,bottom_left,3,No,triangle,2023-05-11 13:15:14,Yes,United States
+55885869fdf99b4020ba0b64,size,1,bottom_left,0,No,3 pointed shape,2023-05-11 13:15:22,Yes,United States
+55885869fdf99b4020ba0b64,size,2,bottom_right,1,Yes,Round shape,2023-05-11 13:15:22,Yes,United States
+55885869fdf99b4020ba0b64,size,4,top_left,2,Yes,Shape with 5 points,2023-05-11 13:15:22,Yes,United States
+55885869fdf99b4020ba0b64,size,3,top_right,3,No,Shape with 4 points,2023-05-11 13:15:22,Yes,United States
+55a56724fdf99b7973398109,size,4,top_right,0,No,Star,2023-05-11 13:15:32,Yes,United States
+55a56724fdf99b7973398109,size,1,top_left,1,Yes,Heart,2023-05-11 13:15:32,Yes,United States
+55a56724fdf99b7973398109,size,2,bottom_right,2,Yes,Circle,2023-05-11 13:15:32,Yes,United States
+55a56724fdf99b7973398109,size,3,bottom_left,3,No,Plus sign,2023-05-11 13:15:32,Yes,United States
+60fd0018df64560bf9402e2c,size,4,top_right,0,No,large star,2023-05-11 13:16:06,Yes,United States
+60fd0018df64560bf9402e2c,size,2,bottom_left,1,No,large circle,2023-05-11 13:16:06,Yes,United States
+60fd0018df64560bf9402e2c,size,3,top_left,2,Yes,small square,2023-05-11 13:16:06,Yes,United States
+60fd0018df64560bf9402e2c,size,1,bottom_right,3,Yes,small triangle,2023-05-11 13:16:06,Yes,United States
+63bc5668e856a67c2cd471de,size,1,bottom_right,0,Yes,Triangle ,2023-05-11 13:16:09,Yes,United States
+63bc5668e856a67c2cd471de,size,3,bottom_left,1,No,Plus sign ,2023-05-11 13:16:09,Yes,United States
+63bc5668e856a67c2cd471de,size,4,top_right,2,No,Star,2023-05-11 13:16:09,Yes,United States
+63bc5668e856a67c2cd471de,size,2,top_left,3,Yes,Small rectangle ,2023-05-11 13:16:09,Yes,United States
+63bf2ff648c30893a8f019e7,size,4,top_left,0,Yes,star,2023-05-11 13:16:21,Yes,United States
+63bf2ff648c30893a8f019e7,size,1,top_right,1,No,heart,2023-05-11 13:16:21,Yes,United States
+63bf2ff648c30893a8f019e7,size,2,bottom_left,2,No,large circle,2023-05-11 13:16:21,Yes,United States
+63bf2ff648c30893a8f019e7,size,3,bottom_right,3,Yes,plus sign,2023-05-11 13:16:21,Yes,United States
+5d520a2a08c3b00019384072,size,4,top_right,0,No,Star,2023-05-11 13:16:24,Yes,United States
+5d520a2a08c3b00019384072,size,3,bottom_left,1,No,Plus,2023-05-11 13:16:24,Yes,United States
+5d520a2a08c3b00019384072,size,1,bottom_right,2,Yes,Triangle,2023-05-11 13:16:24,Yes,United States
+5d520a2a08c3b00019384072,size,2,top_left,3,Yes,Dash,2023-05-11 13:16:24,Yes,United States
+5f75f66541d27f011212af83,size,4,bottom_right,0,Yes,Small diamond,2023-05-11 13:16:25,Yes,United States
+5f75f66541d27f011212af83,size,1,bottom_left,1,No,Large triangle,2023-05-11 13:16:25,Yes,United States
+5f75f66541d27f011212af83,size,2,top_right,2,No,Large rectangle,2023-05-11 13:16:25,Yes,United States
+5f75f66541d27f011212af83,size,3,top_left,3,Yes,Small square,2023-05-11 13:16:25,Yes,United States
+63be2cfef5b782c28baec197,size,4,bottom_left,0,No,diamond,2023-05-11 13:16:35,Yes,United States
+63be2cfef5b782c28baec197,size,1,top_right,1,No,love,2023-05-11 13:16:35,Yes,United States
+63be2cfef5b782c28baec197,size,2,top_left,2,Yes,rectangle,2023-05-11 13:16:35,Yes,United States
+63be2cfef5b782c28baec197,size,3,bottom_right,3,Yes,red cross,2023-05-11 13:16:35,Yes,United States
+61531a9bd8acf4e88e083892,size,3,bottom_right,0,Yes,Cross,2023-05-11 13:16:46,Yes,United States
+61531a9bd8acf4e88e083892,size,4,top_right,1,No,Star,2023-05-11 13:16:46,Yes,United States
+61531a9bd8acf4e88e083892,size,1,top_left,2,Yes,Heart,2023-05-11 13:16:46,Yes,United States
+61531a9bd8acf4e88e083892,size,2,bottom_left,3,No,Circle ,2023-05-11 13:16:46,Yes,United States
+5f1f2c053dd3620d41353827,size,1,bottom_right,0,Yes,Triangle,2023-05-11 13:16:59,Yes,United States
+5f1f2c053dd3620d41353827,size,3,bottom_left,1,No,Plus,2023-05-11 13:16:59,Yes,United States
+5f1f2c053dd3620d41353827,size,2,top_left,2,Yes,Rectangle,2023-05-11 13:16:59,Yes,United States
+5f1f2c053dd3620d41353827,size,4,top_right,3,No,Star,2023-05-11 13:16:59,Yes,United States
+6102e4f5caf1aed4d071c696,size,3,bottom_right,0,Yes,Plus Sign,2023-05-11 13:17:14,Yes,United States
+6102e4f5caf1aed4d071c696,size,4,top_left,1,Yes,Star,2023-05-11 13:17:14,Yes,United States
+6102e4f5caf1aed4d071c696,size,2,bottom_left,2,No,Solid Circle,2023-05-11 13:17:14,Yes,United States
+6102e4f5caf1aed4d071c696,size,1,top_right,3,No,Solid Heart,2023-05-11 13:17:14,Yes,United States
+5b307ac86d601d0001d5ec22,size,1,top_right,0,No,Large heart,2023-05-11 13:17:35,Yes,United States
+5b307ac86d601d0001d5ec22,size,2,bottom_right,1,Yes,Small circle,2023-05-11 13:17:35,Yes,United States
+5b307ac86d601d0001d5ec22,size,3,bottom_left,2,No,medium cross,2023-05-11 13:17:35,Yes,United States
+5b307ac86d601d0001d5ec22,size,4,top_left,3,Yes,small star,2023-05-11 13:17:35,Yes,United States
+5dcca657854936945d68eaa9,size,3,top_right,0,No,square,2023-05-11 13:17:39,Yes,United States
+5dcca657854936945d68eaa9,size,1,bottom_right,1,Yes,triangle,2023-05-11 13:17:39,Yes,United States
+5dcca657854936945d68eaa9,size,2,top_left,2,Yes,rectangle,2023-05-11 13:17:39,Yes,United States
+5dcca657854936945d68eaa9,size,4,bottom_left,3,No,big diamond,2023-05-11 13:17:39,Yes,United States
+582627e157062600014023a1,size,1,top_left,0,Yes,The small heart in upper left,2023-05-11 13:17:39,Yes,United States
+582627e157062600014023a1,size,3,top_right,1,No,The large rectangle in upper right,2023-05-11 13:17:39,Yes,United States
+582627e157062600014023a1,size,2,bottom_left,2,No,The circle in bottom left,2023-05-11 13:17:39,Yes,United States
+582627e157062600014023a1,size,4,bottom_right,3,Yes,The diamond in bottom right,2023-05-11 13:17:39,Yes,United States
+5f4d07b4fae27694de8f5af1,size,2,top_right,0,No,Biggest shape rectangle,2023-05-11 13:17:53,Yes,United States
+5f4d07b4fae27694de8f5af1,size,3,bottom_right,1,Yes,Smallest shape cross,2023-05-11 13:17:53,Yes,United States
+5f4d07b4fae27694de8f5af1,size,1,top_left,2,Yes,smallest shape heart,2023-05-11 13:17:53,Yes,United States
+5f4d07b4fae27694de8f5af1,size,4,bottom_left,3,No,biggest shape diamond,2023-05-11 13:17:53,Yes,United States
+637e2af8fcc2c65c96d9e1a0,size,1,bottom_right,0,Yes,Triangle,2023-05-11 13:19:16,Yes,United States
+637e2af8fcc2c65c96d9e1a0,size,2,top_left,1,Yes,rectangle,2023-05-11 13:19:16,Yes,United States
+637e2af8fcc2c65c96d9e1a0,size,3,bottom_left,2,No,cross,2023-05-11 13:19:16,Yes,United States
+637e2af8fcc2c65c96d9e1a0,size,4,top_right,3,No,star,2023-05-11 13:19:16,Yes,United States
+5f19adbb4ad7580195fb3517,size,3,top_left,0,Yes,Black square in red square upper right,2023-05-11 13:30:02,Yes,United States
+5f19adbb4ad7580195fb3517,size,4,bottom_left,1,No,black diamond in black square upper left,2023-05-11 13:30:02,Yes,United States
+5f19adbb4ad7580195fb3517,size,1,top_right,2,No,black heart in red square upper right,2023-05-11 13:30:02,Yes,United States
+5f19adbb4ad7580195fb3517,size,2,bottom_right,3,Yes,black circle in red square lower right,2023-05-11 13:30:02,Yes,United States
+631b32b0796f2941b55e7d58,size,1,top_right,0,No,Heart,2023-05-11 13:39:56,Yes,United States
+631b32b0796f2941b55e7d58,size,3,top_left,1,Yes,Square,2023-05-11 13:39:56,Yes,United States
+631b32b0796f2941b55e7d58,size,2,bottom_left,2,No,Circle,2023-05-11 13:39:56,Yes,United States
+631b32b0796f2941b55e7d58,size,4,bottom_right,3,Yes,Diamond,2023-05-11 13:39:56,Yes,United States
