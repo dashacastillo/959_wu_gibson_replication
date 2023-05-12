@@ -1,0 +1,196 @@
+---
+title: "959_extension"
+author: "Dasha Castillo"
+date: "2023-05-11"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# taken from pset 4
+## Load libraries
+if(!require(tidyverse)) {install.packages("tidyverse"); require(tidyverse)}
+if(!require(rstudioapi)) {install.packages("rstudioapi"); require(rstudioapi)}
+if(!require(lme4)) {install.packages("lme4"); require(lme4)}
+if(!require(lmerTest)) {install.packages("lmerTest"); require(lmerTest)}
+if(!require(sjPlot)) {install.packages("sjPlot"); require(sjPlot)}
+if(!require(mgcv)) {install.packages("mgcv"); require(mgcv)}
+if(!require(ordinal)) {install.packages("ordinal"); require(ordinal)}
+if(!require(performance)) {install.packages("performance"); require(performance)}
+
+## Set working directory
+# setwd(dirname(rstudioapi::getActiveDocumentContext()$`path`))
+
+## Set function defaults
+filter <- dplyr::filter
+group_by <- dplyr::group_by
+summarize <- dplyr::summarize
+select <- dplyr::select
+
+## Set plotting preferences
+ggplot2::theme_set(ggplot2::theme_bw(base_size=18))
+ggplot2::theme_update(panel.grid = ggplot2::element_blank(), 
+                      strip.background = ggplot2::element_blank(),
+                      legend.key = ggplot2::element_blank(),
+                      panel.border = ggplot2::element_blank(),
+                      axis.line = ggplot2::element_line(),
+                      strip.text = ggplot2::element_text(face = "bold"),
+                      plot.title = element_text(hjust = 0.5))
+options(ggplot2.discrete.colour= c("#A31F34", "#8A8B8C"))
+```
+
+## 9.59 Replication Project
+
+Below, we'll be loading the data of the replication of the Wu & Gibson (2021) experiment. 
+
+200 participants were able to take the survey for the experiment.
+
+```{r loading_data_english}
+
+# loading data for "english replication" aka eng_rep
+en_ext <- read_csv("https://raw.githubusercontent.com/dashacastillo/959_wu_gibson_replication/main/9.59%20English%20Extension%20Data.csv")
+en_ext$response = tolower(en_ext$response)
+en_ext
+
+# loading data for "spanish replication" aka sp_rep
+sp_ext <- read_csv("https://raw.githubusercontent.com/dashacastillo/959_wu_gibson_replication/main/9.59%20Spanish%20Extension%20Data.csv")
+sp_ext$response = tolower(sp_ext$response)
+sp_ext
+```
+
+## Data Organization
+
+The main goal of the experiment is to see the redundancy in describing the shapes. One way to see whether or not a redundant describer was given is to find all of the unique values of the responses and then making a new colum, Redundant, in which a value of 1 refers to whether a redundant modification was used, and a value of 0 refers to a non-redundant description.
+
+```{r english_sort}
+
+# all unique english descriptions from the responses
+en_descs <- unique(en_ext$response)
+
+# made the executive decision that if the response contains shape word(s) and size word(s), then it goes here
+# this includes if there are also other adjectives
+en_red <- en_descs[c(1:4, 9:12, 14:17, 28:31, 34, 35, 40:42, 44, 46, 48:51, 54:57, 
+                     60:65, 68:72, 75, 76, 83:87, 89, 90, 98, 99, 100, 101, 104, 106, 
+                     108:113, 117, 126:128, 131:134)] 
+
+en_nonred <- en_descs[c(5:8, 13, 18:27, 32, 33, 36:39, 43, 45, 47, 52, 53, 58, 59, 66, 
+                        67, 73, 78:80, 88, 93, 102, 103, 105, 107, 118:125, 129, 130)]
+
+en_throwaway <- en_descs[c()]
+
+en_unsure <- en_descs[c(74, 77, 81, 82, 91, 92, 94, 95, 96, 97, 115, 116, 135:138)]
+```
+
+```{r spanish_sort}
+
+# all unique spanish descriptions from the responses
+sp_descs <- unique(sp_ext$response)
+
+# made the executive decision that if the response contains shape word(s) and size word(s), then it goes here
+# this includes if there are also other adjectives
+sp_red <- sp_descs[c(12, 14, 16:21, 26:29, 32:35, 38, 39, 41:44, 48:56, 61, 62, 65, 
+                     69:76, 81, 82, 85, 90, 93:96, 104:106, 108:113, 120:127, 134, 136, 
+                     138, 139, 141, 142, 147:149, 151, 152, 155:159, 171:174)]
+
+sp_nonred <- sp_descs[c(1:11, 22:25, 30, 31, 36, 37, 40, 45:47, 57, 63, 66:68, 98:100, 
+                        107, 114, 117:119, 128:133, 135, 137, 140, 143, 150, 160, 165:170)]
+
+sp_throwaway <- sp_descs[c(83, 84, 86, 87, 89, 91, 92, 97, 101:103, 115, 116, 175:177)]
+
+sp_unsure <- sp_descs[c(13, 15, 58:60, 64, 77:80, 88, 144:146, 153, 154, 161:164)]
+
+```
+
+## Adding a New Column to Show if Redundancy Exists in Response
+
+```{r english_redundancy_column}
+
+# first delete the unsure and throwaway items! 
+# we can't analyze what we can't put in a binary
+
+en_extension_data = subset(en_ext, 
+                           response!="black circle" &
+                             response!="black heart" & 
+                             response!="a black dot" & 
+                             response!="a black 5 sided star" & 
+                             response!="square with a star in it" & 
+                             response!="a triable inside a square" & 
+                             response!="a square with a plus inside of it" & 
+                             response!="black triangle" & 
+                             response!="black dot" & 
+                             response!="black square" & 
+                             response!="only a filled in circle" & 
+                             response!="black cross" & 
+                             response!="black square in red square upper right" & 
+                             response!="black diamond in black square upper left" & 
+                             response!="black heart in red square upper right" & 
+                             response!="black circle in red square lower right")
+# summary(en_replication_data)
+
+en_ext_redundancy = mutate(en_extension_data, redundant = if_else(en_extension_data$response %in% en_red, 1, 0))
+# test to see
+# en_rep_redundancy[c("response", "redundant")]
+```
+
+```{r spanish_redundancy_column}
+
+# first delete the unsure and throwaway items! 
+# we can't analyze what we can't put in a binary
+
+sp_extension_data = subset(sp_ext, 
+                           response!="desconocido" & 
+                             response!="imagen no disponible" & 
+                             response!="no carga la imagen" & 
+                             response!="imagen no es visible" & 
+                             response!="no se ve la imagen" & 
+                             response!="no cargo" & 
+                             response!="the image is not loading, i have tried several times but it's only showing a broken icon" & 
+                             response!="not loading" & 
+                             response!="no se visualizo la imagen" & 
+                             response!="no se visualizo  lq imagen" & 
+                             response!="no se ve" & 
+                             response!="figura geometrica de 5 picos que representa algo en el cielo de noche" & 
+                             response!="figura geometrica sin inicio ni fin" & 
+                             response!="4" & 
+                             response!="2" & 
+                             response!="3" & 
+                             response!="rombo negro" & 
+                             response!="cuadro negro" & 
+                             response!="circulo negro" & 
+                             response!="cruz negra" & 
+                             response!="corazón negri" & 
+                             response!="cuadrado negro" & 
+                             response!="círculo negro." & 
+                             response!="estrella negra." & 
+                             response!="rectángulo negro" & 
+                             response!="círculo sólido negro" & 
+                             response!="corazón sólido negro" & 
+                             response!="estrella sólida negra" & 
+                             response!="rectangulo negro" & 
+                             response!="triangulo negro" & 
+                             response!="circle" & 
+                             response!="square" & 
+                             response!="diamond" & 
+                             response!="heart")
+# summary(sp_replication_data)
+
+sp_ext_redundancy = mutate(sp_extension_data, redundant = if_else(sp_extension_data$response %in% sp_red, 1, 0))
+# test to see
+# sp_rep_redundancy[c("response", "redundant")]
+```
+
+## Making Figures
+
+```{r english_figures}
+ggplot(en_ext_redundancy, aes(x = redundant)) + 
+  geom_bar() +
+  ggtitle("Size Redundancy in English") +
+  xlab("Redundacy") + ylab("Count")
+```
+```{r spanish_figures}
+ggplot(sp_ext_redundancy, aes(x = redundant)) + 
+  geom_bar() +
+  ggtitle("Size Redundancy in Spanish") +
+  xlab("Redundacy") + ylab("Count")
+```

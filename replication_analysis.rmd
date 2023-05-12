@@ -1,0 +1,149 @@
+---
+title: "959_replication"
+author: "Dasha Castillo"
+date: "2023-05-11"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# taken from pset 4
+## Load libraries
+if(!require(tidyverse)) {install.packages("tidyverse"); require(tidyverse)}
+if(!require(rstudioapi)) {install.packages("rstudioapi"); require(rstudioapi)}
+if(!require(lme4)) {install.packages("lme4"); require(lme4)}
+if(!require(lmerTest)) {install.packages("lmerTest"); require(lmerTest)}
+if(!require(sjPlot)) {install.packages("sjPlot"); require(sjPlot)}
+if(!require(mgcv)) {install.packages("mgcv"); require(mgcv)}
+if(!require(ordinal)) {install.packages("ordinal"); require(ordinal)}
+if(!require(performance)) {install.packages("performance"); require(performance)}
+
+## Set working directory
+# setwd(dirname(rstudioapi::getActiveDocumentContext()$`path`))
+
+## Set function defaults
+filter <- dplyr::filter
+group_by <- dplyr::group_by
+summarize <- dplyr::summarize
+select <- dplyr::select
+
+## Set plotting preferences
+ggplot2::theme_set(ggplot2::theme_bw(base_size=18))
+ggplot2::theme_update(panel.grid = ggplot2::element_blank(), 
+                      strip.background = ggplot2::element_blank(),
+                      legend.key = ggplot2::element_blank(),
+                      panel.border = ggplot2::element_blank(),
+                      axis.line = ggplot2::element_line(),
+                      strip.text = ggplot2::element_text(face = "bold"),
+                      plot.title = element_text(hjust = 0.5))
+options(ggplot2.discrete.colour= c("#A31F34", "#8A8B8C"))
+```
+
+## 9.59 Replication Project
+
+Below, we'll be loading the data of the replication of the Wu & Gibson (2021) experiment. 
+
+200 participants were able to take the survey for the experiment.
+
+```{r loading_data_english}
+
+# loading data for "english replication" aka eng_rep
+en_rep <- read_csv("https://raw.githubusercontent.com/dashacastillo/959_wu_gibson_replication/main/9.59%20English%20Replication%20Data.csv")
+en_rep$response = tolower(en_rep$response)
+en_rep
+
+# loading data for "spanish replication" aka sp_rep
+sp_rep <- read_csv("https://raw.githubusercontent.com/dashacastillo/959_wu_gibson_replication/main/9.59%20Spanish%20Replication%20Data.csv")
+sp_rep$response = tolower(sp_rep$response)
+sp_rep
+```
+
+## Data Organization
+
+The main goal of the experiment is to see the redundancy in describing the shapes. One way to see whether or not a redundant describer was given is to find all of the unique values of the responses and then making a new colum, Redundant, in which a value of 1 refers to whether a redundant modification was used, and a value of 0 refers to a non-redundant description.
+
+```{r english_sort}
+
+# all unique english descriptions from the responses
+en_descs <- unique(en_rep$response)
+
+en_red <- en_descs[c(1:4, 8:22, 29, 30, 36, 40:46, 48, 49, 54, 55, 58, 61:65, 67:70, 
+                     72, 73, 76:79, 83, 84, 91:94, 96, 99:115, 118:126, 128)]
+
+en_nonred <- en_descs[c(5:7, 24:28, 32:35, 38, 39, 47, 50:53, 56, 57, 59, 60, 66, 71, 
+                        74, 75, 80:82, 85:90, 95, 97, 98, 117, 127, 133:138)]
+
+en_throwaway <- en_descs[c(23, 31, 129:132)]
+
+en_unsure <- en_descs[c(37, 116)]
+```
+
+```{r spanish_sort}
+
+# all unique spanish descriptions from the responses
+sp_descs <- unique(sp_rep$response)
+
+sp_red <- sp_descs[c(1:8, 15, 16, 21, 24:28, 31:35, 37:53, 58:71, 74, 76:81, 83, 86:95, 
+                     100, 103:110, 113:119, 121:125, 127:131, 134:139)]
+
+sp_nonred <- sp_descs[c(9:14, 17:20, 22, 23, 29, 30, 36, 54:57, 72, 73, 75, 82, 84, 85, 
+                        96:99, 101, 102, 120, 126, 132, 133)]
+
+sp_throwaway <- sp_descs[c()]
+
+sp_unsure <- sp_descs[c(111, 112)]
+
+```
+
+## Adding a New Column to Show if Redundancy Exists in Response
+
+```{r english_redundancy_column}
+
+# first delete the unsure and throwaway items! 
+# we can't analyze what we can't put in a binary
+
+en_replication_data = subset(en_rep, 
+                             response!="sub" & 
+                               response!="marks the spot" & 
+                               response!="1" & response!="2" & 
+                               response!="4" & response!="3" & 
+                               response!="plus, cross" & 
+                               response!="normal cirlcle")
+# summary(en_replication_data)
+
+en_rep_redundancy = mutate(en_replication_data, redundant = if_else(en_replication_data$response %in% en_red, 1, 0))
+# test to see
+# en_rep_redundancy[c("response", "redundant")]
+```
+
+```{r spanish_redundancy_column}
+
+# first delete the unsure and throwaway items! 
+# we can't analyze what we can't put in a binary
+
+sp_replication_data = subset(sp_rep, 
+                             response!="más morado" & 
+                               response!="más")
+# summary(sp_replication_data)
+
+sp_rep_redundancy = mutate(sp_replication_data, redundant = if_else(sp_replication_data$response %in% sp_red, 1, 0))
+# test to see
+# sp_rep_redundancy[c("response", "redundant")]
+```
+
+## Making Figures
+
+```{r english_figures}
+ggplot(en_rep_redundancy, aes(x = redundant)) + 
+  geom_bar() +
+  ggtitle("Color Redundancy in English") +
+  xlab("Redundacy") + ylab("Count")
+```
+```{r spanish_figures}
+ggplot(sp_rep_redundancy, aes(x = redundant)) + 
+  geom_bar() +
+  ggtitle("Color Redundancy in Spanish") +
+  xlab("Redundacy") + ylab("Count")
+```
+
