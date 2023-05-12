@@ -198,7 +198,6 @@ participant_id,experiment,item,cond,presentation_order,literal_response,response
 61422a3115aaa36f32f2e0c2,color,3,top_right,0,No,Yellow rectangle with 4 right angles,5/11/2023 5:39,Yes,UK
 61422a3115aaa36f32f2e0c2,color,1,top_left,1,Yes,Blue square with 4 right angles ,5/11/2023 5:39,Yes,UK
 61422a3115aaa36f32f2e0c2,color,4,bottom_left,2,Yes,Red heart ,5/11/2023 5:39,Yes,UK
-61422a3115aaa36f32f2e0c2,color,2,bottom_right,3,No,🟡 ,5/11/2023 5:39,Yes,UK
 64446ea296fb778d03b0b8eb,color,3,bottom_left,0,Yes,Gray Circle,5/11/2023 5:39,Yes,United States
 64446ea296fb778d03b0b8eb,color,1,top_left,1,Yes,Blue Square,5/11/2023 5:39,Yes,United States
 64446ea296fb778d03b0b8eb,color,2,bottom_right,2,No,Yellow Circle,5/11/2023 5:39,Yes,United States
